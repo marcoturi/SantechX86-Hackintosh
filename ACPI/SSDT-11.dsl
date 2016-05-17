@@ -51,7 +51,7 @@ DefinitionBlock ("", "SSDT", 1, "OptRef", "OptTabl", 0x00001000)
     External (_SB_.GGIV, MethodObj)    // 1 Arguments
     External (_SB_.PCI0, DeviceObj)
     External (_SB_.PCI0.IGPU, DeviceObj)
-    External (_SB_.PCI0.IGPU._DSM, MethodObj)    // 4 Arguments
+    External (_SB_.PCI0.IGPU.XDSM, MethodObj)    // 4 Arguments
     External (_SB_.PCI0.IGPU.CLID, FieldUnitObj)
     External (_SB_.PCI0.IGPU.DD02._BCM, MethodObj)    // Imported: 1 Arguments
     External (_SB_.PCI0.LPCB.EC__.AIRP, FieldUnitObj)
