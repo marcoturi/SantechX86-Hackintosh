@@ -45,6 +45,10 @@ DefinitionBlock ("", "DSDT", 2, "ALASKA", "A M I ", 0x01072009)
      * a reference file -- refs.txt
      */
 
+    External (_SB_.PCI0.PEG0.PEGP._PS3, MethodObj)
+    External (_SB_.PCI0.PEG0.PEGP._PS0, MethodObj)
+    External (_SB_.PCI0.PEG0.PEGP._OFF, MethodObj)
+    External (_SB_.PCI0.PEG0.PEGP._ON, MethodObj) 
     External (_GPE.HLVT, MethodObj)    // 0 Arguments
     External (_GPE.MMTB, MethodObj)    // Imported: 0 Arguments
     External (_GPE.VHOV, MethodObj)    // Imported: 3 Arguments
@@ -63,13 +67,13 @@ DefinitionBlock ("", "DSDT", 2, "ALASKA", "A M I ", 0x01072009)
     External (_PR_.EPCS, FieldUnitObj)
     External (_PR_.TRPD, FieldUnitObj)
     External (_PR_.TRPF, FieldUnitObj)
-    External (_SB_.PCI0.GFX0.CDDS, MethodObj)    // 1 Arguments
-    External (_SB_.PCI0.GFX0.CLID, FieldUnitObj)
-    External (_SB_.PCI0.GFX0.DD02._BCM, MethodObj)    // Imported: 1 Arguments
-    External (_SB_.PCI0.GFX0.DD1F, UnknownObj)
-    External (_SB_.PCI0.GFX0.GSCI, MethodObj)    // 0 Arguments
-    External (_SB_.PCI0.GFX0.GSSE, FieldUnitObj)
-    External (_SB_.PCI0.GFX0.PDDS, MethodObj)    // Warning: Unknown method, guessing 1 arguments
+    External (_SB_.PCI0.IGPU.CDDS, MethodObj)    // 1 Arguments
+    External (_SB_.PCI0.IGPU.CLID, FieldUnitObj)
+    External (_SB_.PCI0.IGPU.DD02._BCM, MethodObj)    // Imported: 1 Arguments
+    External (_SB_.PCI0.IGPU.DD1F, UnknownObj)
+    External (_SB_.PCI0.IGPU.GSCI, MethodObj)    // 0 Arguments
+    External (_SB_.PCI0.IGPU.GSSE, FieldUnitObj)
+    External (_SB_.PCI0.IGPU.PDDS, MethodObj)    // Warning: Unknown method, guessing 1 arguments
     External (_SB_.PCI0.LPCB.H_EC.ECRD, MethodObj)    // Imported: 1 Arguments
     External (_SB_.PCI0.LPCB.H_EC.ECWT, MethodObj)    // Imported: 2 Arguments
     External (_SB_.PCI0.PEG0.HPME, MethodObj)    // 0 Arguments
@@ -3837,7 +3841,7 @@ DefinitionBlock ("", "DSDT", 2, "ALASKA", "A M I ", 0x01072009)
 
             Scope (\_SB.PCI0)
             {
-                Device (GFX0)
+                Device (IGPU)
                 {
                     Name (_ADR, 0x00020000)  // _ADR: Address
                 }
@@ -4002,11 +4006,11 @@ DefinitionBlock ("", "DSDT", 2, "ALASKA", "A M I ", 0x01072009)
                     {
                         If (LIDS)
                         {
-                            Store (0x03, ^^GFX0.CLID)
+                            Store (0x03, ^^IGPU.CLID)
                         }
                         Else
                         {
-                            Store (Zero, ^^GFX0.CLID)
+                            Store (Zero, ^^IGPU.CLID)
                         }
                     }
 
@@ -8815,6 +8819,7 @@ DefinitionBlock ("", "DSDT", 2, "ALASKA", "A M I ", 0x01072009)
     })
     Method (_PTS, 1, NotSerialized)  // _PTS: Prepare To Sleep
     {
+        M_ON ()
         If (Arg0)
         {
             \_SB.PCI0.LPCB.SPTS (Arg0)
@@ -8822,9 +8827,34 @@ DefinitionBlock ("", "DSDT", 2, "ALASKA", "A M I ", 0x01072009)
             RPTS (Arg0)
         }
     }
+    
+    Method (M_ON, 0, NotSerialized)
+    {
+        If (CondRefOf(\_SB_.PCI0.PEG0.PEGP._ON))
+        {
+            \_SB_.PCI0.PEG0.PEGP._ON()
+        }
+        If (CondRefOf(\_SB_.PCI0.PEG0.PEGP._PS0))
+        {
+            \_SB_.PCI0.PEG0.PEGP._PS0()
+        }
+    }
+    
+    Method (M_OF, 0, NotSerialized)
+    {
+        If (CondRefOf(\_SB_.PCI0.PEG0.PEGP._OFF))
+        {
+            \_SB_.PCI0.PEG0.PEGP._OFF()
+        }
+        If (CondRefOf(\_SB_.PCI0.PEG0.PEGP._PS3))
+        {
+            \_SB_.PCI0.PEG0.PEGP._PS3()
+        }
+    }
 
     Method (_WAK, 1, NotSerialized)  // _WAK: Wake
     {
+        M_OF ()
         RWAK (Arg0)
         \_SB.PCI0.NWAK (Arg0)
         \_SB.PCI0.LPCB.SWAK (Arg0)
@@ -16258,6 +16288,7 @@ DefinitionBlock ("", "DSDT", 2, "ALASKA", "A M I ", 0x01072009)
         Method (_INI, 0, Serialized)  // _INI: Initialize
         {
             Store (0x07D0, OSYS)
+            M_OF ()
             If (CondRefOf (\_OSI, Local0))
             {
                 If (_OSI ("Linux"))
@@ -17651,9 +17682,9 @@ DefinitionBlock ("", "DSDT", 2, "ALASKA", "A M I ", 0x01072009)
 
         Method (_L66, 0, NotSerialized)  // _Lxx: Level-Triggered GPE
         {
-            If (LAnd (\_SB.PCI0.GFX0.GSSE, LNot (GSMI)))
+            If (LAnd (\_SB.PCI0.IGPU.GSSE, LNot (GSMI)))
             {
-                \_SB.PCI0.GFX0.GSCI ()
+                \_SB.PCI0.IGPU.GSCI ()
             }
         }
 
@@ -17672,11 +17703,11 @@ DefinitionBlock ("", "DSDT", 2, "ALASKA", "A M I ", 0x01072009)
                     {
                         If (LIDS)
                         {
-                            Store (0x03, \_SB.PCI0.GFX0.CLID)
+                            Store (0x03, \_SB.PCI0.IGPU.CLID)
                         }
                         Else
                         {
-                            Store (Zero, \_SB.PCI0.GFX0.CLID)
+                            Store (Zero, \_SB.PCI0.IGPU.CLID)
                         }
                     }
 
@@ -17704,7 +17735,7 @@ DefinitionBlock ("", "DSDT", 2, "ALASKA", "A M I ", 0x01072009)
         }
     }
 
-    Scope (_SB.PCI0.GFX0)
+    Scope (_SB.PCI0.IGPU)
     {
         Method (_DEP, 0, NotSerialized)  // _DEP: Dependencies
         {
@@ -19277,7 +19308,7 @@ DefinitionBlock ("", "DSDT", 2, "ALASKA", "A M I ", 0x01072009)
 
                 Package (0x03)
                 {
-                    "\\_SB.PCI0.GFX0", 
+                    "\\_SB.PCI0.IGPU", 
                     One, 
                     Package (0x02)
                     {
@@ -22613,7 +22644,7 @@ DefinitionBlock ("", "DSDT", 2, "ALASKA", "A M I ", 0x01072009)
                 {
                     If (LEqual (And (PSF0, 0x10), Zero))
                     {
-                        If (^^PCI0.GFX0.PDDS (0x0300))
+                        If (^^PCI0.IGPU.PDDS (0x0300))
                         {
                             Store (One, Local0)
                         }
@@ -24565,7 +24596,7 @@ DefinitionBlock ("", "DSDT", 2, "ALASKA", "A M I ", 0x01072009)
                     }
                     Else
                     {
-                        Notify (GFX0, 0x80)
+                        Notify (IGPU, 0x80)
                     }
                 }
                 ElseIf (^^^^WMI.HKDR)
@@ -24582,11 +24613,11 @@ DefinitionBlock ("", "DSDT", 2, "ALASKA", "A M I ", 0x01072009)
                 {
                     If (LEqual (OSYS, 0x03E8))
                     {
-                        Notify (^^^GFX0.DD1F, 0x87)
+                        Notify (^^^IGPU.DD1F, 0x87)
                     }
-                    ElseIf (LEqual (^^^GFX0.CDDS (0x0410), 0x1F))
+                    ElseIf (LEqual (^^^IGPU.CDDS (0x0410), 0x1F))
                     {
-                        Notify (^^^GFX0.DD1F, 0x87)
+                        Notify (^^^IGPU.DD1F, 0x87)
                     }
                 }
                 ElseIf (^^^^WMI.HKDR)
@@ -24603,11 +24634,11 @@ DefinitionBlock ("", "DSDT", 2, "ALASKA", "A M I ", 0x01072009)
                 {
                     If (LEqual (OSYS, 0x03E8))
                     {
-                        Notify (^^^GFX0.DD1F, 0x86)
+                        Notify (^^^IGPU.DD1F, 0x86)
                     }
-                    ElseIf (LEqual (^^^GFX0.CDDS (0x0410), 0x1F))
+                    ElseIf (LEqual (^^^IGPU.CDDS (0x0410), 0x1F))
                     {
-                        Notify (^^^GFX0.DD1F, 0x86)
+                        Notify (^^^IGPU.DD1F, 0x86)
                     }
                 }
                 ElseIf (^^^^WMI.HKDR)
@@ -24711,9 +24742,9 @@ DefinitionBlock ("", "DSDT", 2, "ALASKA", "A M I ", 0x01072009)
             {
                 Store (0x19, P80H)
                 Notify (^^^^BAT0, 0x81)
-                If (LEqual (^^^GFX0.CDDS (0x0410), 0x1F))
+                If (LEqual (^^^IGPU.CDDS (0x0410), 0x1F))
                 {
-                    Notify (^^^GFX0.DD1F, 0x88)
+                    Notify (^^^IGPU.DD1F, 0x88)
                 }
 
                 If (^^^^WMI.HKDR)
@@ -24759,9 +24790,9 @@ DefinitionBlock ("", "DSDT", 2, "ALASKA", "A M I ", 0x01072009)
             Method (_Q1E, 0, NotSerialized)  // _Qxx: EC Query
             {
                 Store (0x1E, P80H)
-                If (LEqual (^^^GFX0.CDDS (0x0410), 0x1F))
+                If (LEqual (^^^IGPU.CDDS (0x0410), 0x1F))
                 {
-                    Notify (^^^GFX0.DD1F, 0x88)
+                    Notify (^^^IGPU.DD1F, 0x88)
                 }
 
                 If (^^^^WMI.HKDR)
@@ -26304,6 +26335,17 @@ DefinitionBlock ("", "DSDT", 2, "ALASKA", "A M I ", 0x01072009)
                 })
                 Return (PLDP)
             }
+        }
+    }
+    Scope (_SB)
+    {
+        Device (PNLF)
+        {
+            Name (_ADR, Zero)
+            Name (_HID, EisaId ("APP0002"))
+            Name (_CID, "backlight")
+            Name (_UID, 10)
+            Name (_STA, 0x0B)
         }
     }
 }
