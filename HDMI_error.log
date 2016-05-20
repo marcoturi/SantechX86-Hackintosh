@@ -1,0 +1,566 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf460
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww29160\viewh15620\viewkind0
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 May 19 16:26:51 localhost bootlog[0]: BOOT_TIME 1463668011 0\
+May 19 16:26:52 localhost syslogd[42]: Configuration Notice:\
+	ASL Module "com.apple.AccountPolicyHelper" claims selected messages.\
+	Those messages may not appear in standard system log files or in the ASL database.\
+May 19 16:26:52 localhost syslogd[42]: Configuration Notice:\
+	ASL Module "com.apple.Accounts" claims selected messages.\
+	Those messages may not appear in standard system log files or in the ASL database.\
+May 19 16:26:52 --- last message repeated 1 time ---\
+May 19 16:26:52 localhost syslogd[42]: Configuration Notice:\
+	ASL Module "com.apple.authd" sharing output destination "/var/log/asl" with ASL Module "com.apple.asl".\
+	Output parameters from ASL Module "com.apple.asl" override any specified in ASL Module "com.apple.authd".\
+May 19 16:26:52 localhost syslogd[42]: Configuration Notice:\
+	ASL Module "com.apple.authd" sharing output destination "/var/log/system.log" with ASL Module "com.apple.asl".\
+	Output parameters from ASL Module "com.apple.asl" override any specified in ASL Module "com.apple.authd".\
+May 19 16:26:52 localhost syslogd[42]: Configuration Notice:\
+	ASL Module "com.apple.authd" claims selected messages.\
+	Those messages may not appear in standard system log files or in the ASL database.\
+May 19 16:26:52 localhost syslogd[42]: Configuration Notice:\
+	ASL Module "com.apple.authkit.osx.asl" sharing output destination "/var/log/Accounts" with ASL Module "com.apple.Accounts".\
+	Output parameters from ASL Module "com.apple.Accounts" override any specified in ASL Module "com.apple.authkit.osx.asl".\
+May 19 16:26:52 localhost syslogd[42]: Configuration Notice:\
+	ASL Module "com.apple.authkit.osx.asl" claims selected messages.\
+	Those messages may not appear in standard system log files or in the ASL database.\
+May 19 16:26:52 --- last message repeated 1 time ---\
+May 19 16:26:52 localhost syslogd[42]: Configuration Notice:\
+	ASL Module "com.apple.awdd" claims selected messages.\
+	Those messages may not appear in standard system log files or in the ASL database.\
+May 19 16:26:52 localhost syslogd[42]: Configuration Notice:\
+	ASL Module "com.apple.callhistory.asl.conf" claims selected messages.\
+	Those messages may not appear in standard system log files or in the ASL database.\
+May 19 16:26:52 localhost syslogd[42]: Configuration Notice:\
+	ASL Module "com.apple.cdscheduler" claims selected messages.\
+	Those messages may not appear in standard system log files or in the ASL database.\
+May 19 16:26:52 localhost syslogd[42]: Configuration Notice:\
+	ASL Module "com.apple.cloudd" claims selected messages.\
+	Those messages may not appear in standard system log files or in the ASL database.\
+May 19 16:26:52 localhost syslogd[42]: Configuration Notice:\
+	ASL Module "com.apple.clouddocs" claims selected messages.\
+	Those messages may not appear in standard system log files or in the ASL database.\
+May 19 16:26:52 localhost syslogd[42]: Configuration Notice:\
+	ASL Module "com.apple.commerce.asl" claims selected messages.\
+	Those messages may not appear in standard system log files or in the ASL database.\
+May 19 16:26:52 localhost syslogd[42]: Configuration Notice:\
+	ASL Module "com.apple.contacts.ContactsAutocomplete" claims selected messages.\
+	Those messages may not appear in standard system log files or in the ASL database.\
+May 19 16:26:52 localhost syslogd[42]: Configuration Notice:\
+	ASL Module "com.apple.corecdp.osx.asl" sharing output destination "/var/log/Accounts" with ASL Module "com.apple.Accounts".\
+	Output parameters from ASL Module "com.apple.Accounts" override any specified in ASL Module "com.apple.corecdp.osx.asl".\
+May 19 16:26:52 localhost syslogd[42]: Configuration Notice:\
+	ASL Module "com.apple.corecdp.osx.asl" claims selected messages.\
+	Those messages may not appear in standard system log files or in the ASL database.\
+May 19 16:26:52 localhost syslogd[42]: Configuration Notice:\
+	ASL Module "com.apple.CoreDuetAdmissionControl" claims selected messages.\
+	Those messages may not appear in standard system log files or in the ASL database.\
+May 19 16:26:52 localhost syslogd[42]: Configuration Notice:\
+	ASL Module "com.apple.corespotlight" claims selected messages.\
+	Those messages may not appear in standard system log files or in the ASL database.\
+May 19 16:26:52 localhost syslogd[42]: Configuration Notice:\
+	ASL Module "com.apple.eventmonitor" claims selected messages.\
+	Those messages may not appear in standard system log files or in the ASL database.\
+May 19 16:26:52 localhost syslogd[42]: Configuration Notice:\
+	ASL Module "com.apple.family.asl" claims selected messages.\
+	Those messages may not appear in standard system log files or in the ASL database.\
+May 19 16:26:52 localhost syslogd[42]: Configuration Notice:\
+	ASL Module "com.apple.ical" claims selected messages.\
+	Those messages may not appear in standard system log files or in the ASL database.\
+May 19 16:26:52 localhost syslogd[42]: Configuration Notice:\
+	ASL Module "com.apple.icloud.FindMyDevice" claims selected messages.\
+	Those messages may not appear in standard system log files or in the ASL database.\
+May 19 16:26:52 --- last message repeated 1 time ---\
+May 19 16:26:52 localhost syslogd[42]: Configuration Notice:\
+	ASL Module "com.apple.icloud.fmfd" claims selected messages.\
+	Those messages may not appear in standard system log files or in the ASL database.\
+May 19 16:26:52 --- last message repeated 2 times ---\
+May 19 16:26:52 localhost syslogd[42]: Configuration Notice:\
+	ASL Module "com.apple.install" claims selected messages.\
+	Those messages may not appear in standard system log files or in the ASL database.\
+May 19 16:26:52 localhost syslogd[42]: Configuration Notice:\
+	ASL Module "com.apple.iokit.power" claims selected messages.\
+	Those messages may not appear in standard system log files or in the ASL database.\
+May 19 16:26:52 localhost syslogd[42]: Configuration Notice:\
+	ASL Module "com.apple.mail" claims selected messages.\
+	Those messages may not appear in standard system log files or in the ASL database.\
+May 19 16:26:52 localhost syslogd[42]: Configuration Notice:\
+	ASL Module "com.apple.MessageTracer" claims selected messages.\
+	Those messages may not appear in standard system log files or in the ASL database.\
+May 19 16:26:52 localhost syslogd[42]: Configuration Notice:\
+	ASL Module "com.apple.mobileme.fmf1" claims selected messages.\
+	Those messages may not appear in standard system log files or in the ASL database.\
+May 19 16:26:52 localhost syslogd[42]: Configuration Notice:\
+	ASL Module "com.apple.mobileme.fmf1.internal" sharing output destination "/var/log/FindMyFriendsApp/FindMyFriendsApp.asl" with ASL Module "com.apple.mobileme.fmf1".\
+	Output parameters from ASL Module "com.apple.mobileme.fmf1" override any specified in ASL Module "com.apple.mobileme.fmf1.internal".\
+May 19 16:26:52 localhost syslogd[42]: Configuration Notice:\
+	ASL Module "com.apple.mobileme.fmf1.internal" sharing output destination "/var/log/FindMyFriendsApp" with ASL Module "com.apple.mobileme.fmf1".\
+	Output parameters from ASL Module "com.apple.mobileme.fmf1" override any specified in ASL Module "com.apple.mobileme.fmf1.internal".\
+May 19 16:26:52 localhost syslogd[42]: Configuration Notice:\
+	ASL Module "com.apple.mobileme.fmf1.internal" claims selected messages.\
+	Those messages may not appear in standard system log files or in the ASL database.\
+May 19 16:26:52 localhost syslogd[42]: Configuration Notice:\
+	ASL Module "com.apple.networking.symptoms" claims selected messages.\
+	Those messages may not appear in standard system log files or in the ASL database.\
+May 19 16:26:52 --- last message repeated 2 times ---\
+May 19 16:26:52 localhost syslogd[42]: Configuration Notice:\
+	ASL Module "com.apple.performance" claims selected messages.\
+	Those messages may not appear in standard system log files or in the ASL database.\
+May 19 16:26:52 localhost syslogd[42]: Configuration Notice:\
+	ASL Module "com.apple.secinitd" claims selected messages.\
+	Those messages may not appear in standard system log files or in the ASL database.\
+May 19 16:26:52 localhost syslogd[42]: Configuration Notice:\
+	ASL Module "com.apple.securityd" claims selected messages.\
+	Those messages may not appear in standard system log files or in the ASL database.\
+May 19 16:26:52 --- last message repeated 7 times ---\
+May 19 16:26:52 localhost syslogd[42]: Configuration Notice:\
+	ASL Module "com.apple.xpc.activity" claims selected messages.\
+	Those messages may not appear in standard system log files or in the ASL database.\
+May 19 16:26:52 --- last message repeated 1 time ---\
+May 19 16:26:52 localhost kernel[0]: Longterm timer threshold: 1000 ms\
+May 19 16:26:52 localhost kernel[0]: mem_actual: 0x400000000\
+May 19 16:26:52 localhost kernel[0]: legacy sane_size: 0x3f8000000\
+May 19 16:26:52 localhost kernel[0]: PMAP: PCID enabled\
+May 19 16:26:52 localhost kernel[0]: PMAP: Supervisor Mode Execute Protection enabled\
+May 19 16:26:52 localhost kernel[0]: PMAP: Supervisor Mode Access Protection enabled\
+May 19 16:26:52 localhost kernel[0]: Darwin Kernel Version 15.4.0: Fri Feb 26 22:08:05 PST 2016; root:xnu-3248.40.184~3/RELEASE_X86_64\
+May 19 16:26:52 localhost kernel[0]: vm_page_bootstrap: 3941861 free pages and 219675 wired pages\
+May 19 16:26:52 localhost kernel[0]: kext submap [0x<ptr> - 0x<ptr>], kernel text [0x<ptr> - 0x<ptr>]\
+May 19 16:26:52 localhost kernel[0]: zone leak detection enabled\
+May 19 16:26:52 localhost kernel[0]: "vm_compressor_mode" is 4\
+May 19 16:26:52 localhost kernel[0]: multiq scheduler config: deep-drain 0, ceiling 47, depth limit 4, band limit 127, sanity check 0\
+May 19 16:26:52 localhost kernel[0]: standard timeslicing quantum is 10000 us\
+May 19 16:26:52 localhost kernel[0]: standard background quantum is 2500 us\
+May 19 16:26:52 localhost kernel[0]: WQ[lt_init]: init linktable with max:262144 elements (8388608 bytes)\
+May 19 16:26:52 localhost kernel[0]: WQ[wqp_init]: init prepost table with max:262144 elements (8388608 bytes)\
+May 19 16:26:52 localhost com.apple.xpc.launchd[1] (com.apple.AirPlayXPCHelper): This service is defined to be constantly running and is inherently inefficient.\
+May 19 16:26:52 localhost kernel[0]: mig_table_max_displ = 16\
+May 19 16:26:52 localhost kernel[0]: TSC Deadline Timer supported and enabled\
+May 19 16:26:52 localhost kernel[0]: kdp_core zlib memory 0x7000\
+May 19 16:26:52 localhost kernel[0]: FakeSMCKeyStore: started\
+May 19 16:26:52 localhost kernel[0]: AppleACPICPU: ProcessorId=1 LocalApicId=0 Enabled\
+May 19 16:26:52 localhost kernel[0]: AppleACPICPU: ProcessorId=2 LocalApicId=2 Enabled\
+May 19 16:26:52 localhost kernel[0]: AppleACPICPU: ProcessorId=3 LocalApicId=4 Enabled\
+May 19 16:26:52 localhost kernel[0]: AppleACPICPU: ProcessorId=4 LocalApicId=6 Enabled\
+May 19 16:26:52 localhost kernel[0]: AppleACPICPU: ProcessorId=5 LocalApicId=1 Enabled\
+May 19 16:26:52 localhost kernel[0]: AppleACPICPU: ProcessorId=6 LocalApicId=3 Enabled\
+May 19 16:26:52 localhost kernel[0]: AppleACPICPU: ProcessorId=7 LocalApicId=5 Enabled\
+May 19 16:26:52 localhost kernel[0]: AppleACPICPU: ProcessorId=8 LocalApicId=7 Enabled\
+May 19 16:26:52 localhost kernel[0]: calling mpo_policy_init for TMSafetyNet\
+May 19 16:26:52 localhost kernel[0]: Security policy loaded: Safety net for Time Machine (TMSafetyNet)\
+May 19 16:26:52 localhost kernel[0]: calling mpo_policy_init for AMFI\
+May 19 16:26:52 localhost com.apple.xpc.launchd[1] (com.apple.airplaydiagnostics.server): Unrecognized MachService property: ResetAtClose\
+May 19 16:26:52 localhost kernel[0]: Security policy loaded: Apple Mobile File Integrity (AMFI)\
+May 19 16:26:52 localhost kernel[0]: calling mpo_policy_init for Sandbox\
+May 19 16:26:52 localhost kernel[0]: Security policy loaded: Seatbelt sandbox policy (Sandbox)\
+May 19 16:26:52 localhost kernel[0]: calling mpo_policy_init for Quarantine\
+May 19 16:26:52 localhost kernel[0]: Security policy loaded: Quarantine policy (Quarantine)\
+May 19 16:26:52 localhost kernel[0]: Copyright (c) 1982, 1986, 1989, 1991, 1993\
+May 19 16:26:52 localhost kernel[0]: The Regents of the University of California. All rights reserved.\
+May 19 16:26:52 localhost kernel[0]: MAC Framework successfully initialized\
+May 19 16:26:52 localhost fseventsd[46]: event logs in /.fseventsd out of sync with volume.  destroying old logs. (823 1 18762)\
+May 19 16:26:52 localhost kernel[0]: using 16384 buffer headers and 10240 cluster IO buffer headers\
+May 19 16:26:52 localhost kernel[0]: AppleCredentialManager::start called\
+May 19 16:26:52 localhost kernel[0]: AssertMacros: tmpData (value: 0x0),  file: /BuildRoot/Library/Caches/com.apple.xbs/Sources/AppleCredentialManager/AppleCredentialManager-83.40.3/AppleCredentialManager/AppleCredentialManager.cpp, line: 785\
+May 19 16:26:52 localhost kernel[0]: AppleKeyStore starting (BUILT: Feb 26 2016 22:34:09)\
+May 19 16:26:52 localhost kernel[0]: IOAPIC: Version 0x20 Vectors 64:111\
+May 19 16:26:52 localhost kernel[0]: ACPI: sleep states S3 S4 S5\
+May 19 16:26:52 localhost kernel[0]: CPUSensors: CPU family 0x6, model 0x5e, stepping 0x3, cores 4, threads 8, TJmax 100\
+May 19 16:26:52 localhost kernel[0]: CPUSensors: setting platform keys to [j43     ]\
+May 19 16:26:52 localhost kernel[0]: CPUSensors: base CPU multiplier is 26\
+May 19 16:26:52 localhost kernel[0]: CPUSensors: started\
+May 19 16:26:52 localhost kernel[0]: HPET: probeHPET() failed\
+May 19 16:26:52 localhost hidd[94]: void __IOHIDPlugInLoadBundles(): Loaded 0 HID plugins\
+May 19 16:26:52 localhost kernel[0]: pci (build 22:17:13 Feb 26 2016), flags 0xe3000, pfm64 (39 cpu) 0x7f80000000, 0x80000000\
+May 19 16:26:52 localhost kernel[0]: ACPISensors (TZ0): 1 sensor added\
+May 19 16:26:52 localhost kernel[0]: ACPISensors (TZ0): started\
+May 19 16:26:52 localhost kernel[0]: FakeSMC v6.18-313-g671f31c.1707 Copyright 2015 netkas, slice, usr-sse2, kozlek, navi, THe KiNG, RehabMan. All rights reserved.\
+May 19 16:26:52 localhost kernel[0]: FakeSMC: 14 preconfigured keys added\
+May 19 16:26:52 localhost kernel[0]: FakeSMC: 5 keys exported by Clover EFI\
+May 19 16:26:52 localhost kernel[0]: SMC: successfully initialized\
+May 19 16:26:52 localhost watchdogd[58]:  [watchdog_daemon] @(    wd_watchdog_open) - IOIteratorNext failed (kr=0)\
+May 19 16:26:52 localhost kernel[0]: [ PCI configuration begin ]\
+May 19 16:26:52 localhost kernel[0]: console relocated to 0x7f80000000\
+May 19 16:26:52 localhost kernel[0]: [ PCI configuration end, bridges 5, devices 15 ]\
+May 19 16:26:52 localhost kernel[0]: FakePCIID: Version 1.3.0 starting on OS X Darwin 15.4.\
+May 19 16:26:52 localhost kernel[0]: 000001.172011 AppleUSBLegacyRoot@: AppleUSBLegacyRoot::init: enabling legacy matching\
+May 19 16:26:52 localhost watchdogd[58]:  [watchdog_daemon] @(      wd_daemon_init) - could not open connection with the kernel watchdog\
+May 19 16:26:52 localhost kernel[0]: SuperIODevice: [Fatal] found unsupported chip! ITE sequence ID=0x8587, Winbond sequence ID=0xffff\
+May 19 16:26:52 localhost kernel[0]: GeforceSensors: starting early shadow VBIOS...\
+May 19 16:26:52 localhost kernel[0]: mcache: 8 CPU(s), 64 bytes CPU cache line size000001.208551 XHC@14000000: AppleUSBXHCIPCI::createPorts: ports limit reached.  Not creating the remaining 11 ports\
+May 19 16:26:52 localhost kernel[0]: 000001.208563 XHC@14000000: AppleUSBXHCIPCI::createPorts: ports limit reached.  Not creating the remaining 11 ports\
+May 19 16:26:52 localhost watchdogd[58]:  [watchdog_daemon] @(                main) - cannot initialize the watchdog service\
+May 19 16:26:52 localhost kernel[0]: mbinit: done [128 MB total pool size, (85/42) split]\
+May 19 16:26:52 localhost kernel[0]: rooting via boot-uuid from /chosen: 06711AD2-4531-3970-ACC2-B9F5FA233D80\
+May 19 16:26:52 localhost kernel[0]: com.apple.AppleFSCompressionTypeZlib kmod start\
+May 19 16:26:52 localhost kernel[0]: com.apple.AppleFSCompressionTypeDataless kmod start\
+May 19 16:26:52 localhost kernel[0]: com.apple.AppleFSCompressionTypeZlib load succeeded\
+May 19 16:26:52 localhost kernel[0]: com.apple.AppleFSCompressionTypeDataless load succeeded\
+May 19 16:26:52 localhost fseventsd[46]: log dir: /.fseventsd getting new uuid: 22F15B57-0558-4508-BEBA-241D5B4FA7EB\
+May 19 16:26:52 localhost kernel[0]: Ethernet [RealtekRTL8111]: EEE support enabled.\
+May 19 16:26:52 localhost kernel[0]: Ethernet [RealtekRTL8111]: RxPoll support enabled.\
+May 19 16:26:52 localhost kernel[0]: Ethernet [RealtekRTL8111]: TCP/IPv4 segmentation offload enabled.\
+May 19 16:26:52 localhost hidd[94]: ____IOHIDSessionScheduleAsync_block_invoke: thread_id=0x700000081000\
+May 19 16:26:52 localhost com.apple.xpc.launchd[1] (com.apple.alf): The HideUntilCheckIn property is an architectural performance issue. Please transition away from it.\
+May 19 16:26:52 localhost kernel[0]: Ethernet [RealtekRTL8111]: TCP/IPv6 segmentation offload enabled.\
+May 19 16:26:52 localhost kernel[0]: Ethernet [RealtekRTL8111]: TCP/IPv6 checksum offload enabled.\
+May 19 16:26:52 localhost kernel[0]: Ethernet [RealtekRTL8111]: Version 2.2.1 using interrupt mitigate value 0xcf58.\
+May 19 16:26:52 localhost kernel[0]: Ethernet [RealtekRTL8111]: Disable PCIe ASPM.\
+May 19 16:26:52 localhost kernel[0]: VoodooPS2SynapticsTouchPad: Version 1.8.21 starting on OS X Darwin 15.4.\
+May 19 16:26:52 localhost kernel[0]: Ethernet [RealtekRTL8111]: 8411B: (Chipset 25) at 0x<ptr>, 80:fa:5b:29:26:1b\
+May 19 16:26:52 localhost kernel[0]: Waiting on <dict ID="0"><key>IOProviderClass</key><string ID="1">IOResources</string><key>IOResourceMatch</key><string ID="2">boot-uuid-media</string></dict>\
+May 19 16:26:52 localhost kernel[0]: Got boot device = IOService:/AppleACPIPlatformExpert/PCI0@0/AppleACPIPCI/SAT0@17/AppleAHCI/PRT2@2/IOAHCIDevice@0/AppleAHCIDiskDriver/IOAHCIBlockStorageDevice/IOBlockStorageDriver/Samsung SSD 850 EVO 500GB Media/IOGUIDPartitionScheme/MacOsx@2\
+May 19 16:26:52 localhost kernel[0]: BSD root: disk0s2, major 1, minor 5\
+May 19 16:26:52 localhost com.apple.SecurityServer[77]: Session 100000 created\
+May 19 16:26:52 localhost com.apple.xpc.launchd[1] (com.apple.auditd): The TimeOut key is no longer respected. It never did anything anyway.\
+May 19 16:26:52 localhost kernel[0]: VoodooPS2Mouse: Version 1.8.21 starting on OS X Darwin 15.4.\
+May 19 16:26:52 localhost hidd[94]: HID Session async scheduling initiated.\
+May 19 16:26:52 localhost kernel[0]: VoodooPS2Trackpad starting: Synaptics TouchPad reports type 0x47, version 8.2\
+May 19 16:26:52 localhost kernel[0]: No interval found for . Using 8000000\
+May 19 16:26:52 localhost kernel[0]: hfs: mounted MacOsx on device root_device\
+May 19 16:26:52 localhost com.apple.xpc.launchd[1] (com.apple.autofsd): This service is defined to be constantly running and is inherently inefficient.\
+May 19 16:26:52 localhost kernel[0]: XCPM: registered\
+May 19 16:26:52 localhost kernel[0]: VM Swap Subsystem is ON\
+May 19 16:26:52 localhost com.apple.xpc.launchd[1] (com.apple.backupd-status): The HideUntilCheckIn property is an architectural performance issue. Please transition away from it.\
+May 19 16:26:52 localhost hidd[94]: HID Session async root queue running at priority 63 and schedule 2.\
+May 19 16:26:52 localhost hidd[94]: HID Session async scheduling complete.\
+May 19 16:26:52 localhost com.apple.xpc.launchd[1] (com.apple.backupd.status.xpc): The HideUntilCheckIn property is an architectural performance issue. Please transition away from it.\
+May 19 16:26:52 localhost hidd[94]: Successfully opened the IOHIDSession\
+May 19 16:26:52 localhost com.apple.xpc.launchd[1] (com.apple.cmio.AVCAssistant): ThrottleInterval set to zero. You're not that important. Ignoring.\
+May 19 16:26:52 localhost com.apple.xpc.launchd[1] (com.apple.cmio.VDCAssistant): ThrottleInterval set to zero. You're not that important. Ignoring.\
+May 19 16:26:52 localhost com.apple.xpc.launchd[1] (com.apple.cmio.IIDCVideoAssistant): ThrottleInterval set to zero. You're not that important. Ignoring.\
+May 19 16:26:52 localhost com.apple.xpc.launchd[1] (com.apple.colorsyncd): Unknown key for string: RunLoopType\
+May 19 16:26:52 localhost com.apple.xpc.launchd[1] (com.apple.CommCenterRootHelper): ThrottleInterval set to zero. You're not that important. Ignoring.\
+May 19 16:26:52 localhost com.apple.xpc.launchd[1] (com.apple.configd): This service is defined to be constantly running and is inherently inefficient.\
+May 19 16:26:52 localhost syslogd[42]: ASL Sender Statistics\
+May 19 16:26:52 localhost powerd[52]: Registering for UPS devices\
+May 19 16:26:52 localhost powerd[52]: UPSDeviceAdded. _alreadyRunningIOUPSD:0\
+May 19 16:26:52 localhost iconservicesagent[65]: iconservicesagent launched.\
+May 19 16:26:52 localhost kernel[0]: Waiting for DSMOS...\
+May 19 16:26:52 localhost com.apple.xpc.launchd[1] (com.apple.FileSyncAgent.PHD.isRunning): The HideUntilCheckIn property is an architectural performance issue. Please transition away from it.\
+May 19 16:26:52 localhost com.apple.xpc.launchd[1] (com.apple.speech.speechsynthesisd): This key does not do anything: OnDemand\
+May 19 16:26:52 localhost com.apple.xpc.launchd[1] (com.apple.trustd.agent): This key does not do anything: OnDemand\
+May 19 16:26:52 localhost com.apple.xpc.launchd[1] (com.apple.trustd.agent): The ServiceIPC key is no longer respected. Please remove it.\
+May 19 16:26:52 localhost com.apple.xpc.launchd[1] (com.apple.TrustEvaluationAgent): This key does not do anything: OnDemand\
+May 19 16:26:52 localhost com.apple.SecurityServer[77]: Entering service\
+May 19 16:26:52 localhost apsd[74]: CGSLookupServerRootPort: Failed to look up the port for "com.apple.windowserver.active" (1102)\
+May 19 16:26:52 localhost kernel[0]: IOGraphics flags 0x43\
+May 19 16:26:52 localhost kernel[0]: Previous shutdown cause: 5\
+May 19 16:26:52 localhost kernel[0]: **** [IOBluetoothHostControllerUSBTransport][start] -- completed -- result = TRUE -- 0xe000 ****\
+May 19 16:26:52 localhost kernel[0]: IntelBacklight: IntelBacklightPanel::probe()\
+May 19 16:26:52 localhost kernel[0]: IntelBacklight: IntelBacklightPanel::start()\
+May 19 16:26:52 localhost kernel[0]: IntelBacklight: Version 1.0.10 starting on OS X Darwin 15.4.\
+May 19 16:26:52 localhost kernel[0]: No interval found for . Using 8000000\
+May 19 16:26:52 localhost kernel[0]: [IOBluetoothFamily][staticBluetoothTransportShowsUp] -- Received Bluetooth Controller register service notification -- 0xe000 \
+May 19 16:26:52 localhost kernel[0]: [IOBluetoothFamily][start] -- completed\
+May 19 16:26:52 localhost kernel[0]: [IOBluetoothHostController][start] -- completed\
+May 19 16:26:52 localhost kernel[0]: [GFXPMFB] initPMRegisters: kRP_STATE_CAP 0x70715\
+May 19 16:26:52 localhost kernel[0]: [GFXPMFB] [FBCONTROLLER::initPMRegisters] fMaxFreqSupported = 21 fMinFreqSupported = 7 \
+May 19 16:26:52 localhost kernel[0]: IntelBacklight: no /chosen/nvram, trying IODTNVRAM\
+May 19 16:26:52 localhost kernel[0]: IntelBacklight: no intel-backlight-level in nvram\
+May 19 16:26:52 localhost kernel[0]: IntelBacklight: loadFromNVRAM returns -1\
+May 19 16:26:52 localhost kernel[0]: IntelBacklight: Waiting for BacklightHandler\
+May 19 16:26:52 localhost kernel[0]: [IOBluetoothHostController::setConfigState] calling registerService\
+May 19 16:26:52 localhost kernel[0]: **** [IOBluetoothFamily][ProcessBluetoothTransportShowsUpActionWL] -- calling IOBluetoothFamily's registerService() -- 0xd190 -- 0x7a00 -- 0xe000 ****\
+May 19 16:26:52 localhost kernel[0]: **** [IOBluetoothFamily][ProcessBluetoothTransportShowsUpActionWL] -- Connected to the transport successfully -- 0xd190 -- 0x7a00 -- 0xe000 ****\
+May 19 16:26:52 Marcos-MacBook-Pro configd[51]: setting hostname to "Marcos-MacBook-Pro.local"\
+May 19 16:26:52 Marcos-MacBook-Pro configd[51]: network changed\
+May 19 16:26:52 Marcos-MacBook-Pro configd[51]: preference: no sharing preferences\
+May 19 16:26:52 Marcos-MacBook-Pro kernel[0]: IntelBacklight: findIndexForLevel(130) is 34\
+May 19 16:26:52 Marcos-MacBook-Pro kernel[0]: IntelBacklight: current brightness: 555 (130)\
+May 19 16:26:52 Marcos-MacBook-Pro kernel[0]: Sound assertion in AppleHDACodecGeneric at line 366\
+May 19 16:26:52 Marcos-MacBook-Pro kernel[0]: [IGPU] Will fallback to host-side scheduling if graphics firmware fails to load\
+May 19 16:26:52 Marcos-MacBook-Pro kernel[0]: [IGPU] Chose to use graphics firmware based on platform\
+May 19 16:26:53 Marcos-MacBook-Pro com.apple.xpc.launchd[1] (com.apple.CoreRAID[47]): Endpoint has been activated through legacy launch(3) APIs. Please switch to XPC or bootstrap_check_in(): com.apple.CoreRAID\
+May 19 16:26:53 Marcos-MacBook-Pro UserEventAgent[43]: Failed to copy info dictionary for bundle /System/Library/UserEventPlugins/alfUIplugin.plugin\
+May 19 16:26:53 Marcos-MacBook-Pro secinitd[150]: UID[0]: cache loaded: /System/Library/Caches/com.apple.app-sandbox-cache.plist\
+May 19 16:26:53 Marcos-MacBook-Pro secinitd[150]: ctkd[149]: unable to get root path for bundle of main executable: /System/Library/Frameworks/CryptoTokenKit.framework/ctkd\
+May 19 16:26:53 Marcos-MacBook-Pro systemkeychain[142]: done file: /var/run/systemkeychaincheck.done\
+May 19 16:26:53 Marcos-MacBook-Pro kernel[0]: DSMOS has arrived\
+May 19 16:26:53 Marcos-MacBook-Pro distnoted[99]: # distnote server daemon  absolute time: 3.420583124   civil time: Thu May 19 16:26:53 2016   pid: 99 uid: 241  root: yes\
+May 19 16:26:53 Marcos-MacBook-Pro blued[82]: Delete logs\
+May 19 16:26:53 Marcos-MacBook-Pro loginwindow[91]: Login Window Application Started\
+May 19 16:26:53 Marcos-MacBook-Pro blued[82]: [BluetoothHIDDeviceController] EventServiceConnectedCallback\
+May 19 16:26:53 Marcos-MacBook-Pro blued[82]: [BluetoothHIDDeviceController] EventServiceDisconnectedCallback\
+May 19 16:26:53 Marcos-MacBook-Pro blued[82]: [BluetoothHIDDeviceController] EventServiceConnectedCallback\
+May 19 16:26:53 Marcos-MacBook-Pro blued[82]: [BluetoothHIDDeviceController] EventServiceDisconnectedCallback\
+May 19 16:26:53 Marcos-MacBook-Pro mDNSResponder[87]: mDNSResponder mDNSResponder-625.40.20 (Feb 11 2016 18:14:38) starting OSXVers 15\
+May 19 16:26:53 Marcos-MacBook-Pro com.apple.usbmuxd[76]: log filter changed from 4 to 6\
+May 19 16:26:53 Marcos-MacBook-Pro configd[51]: network changed\
+May 19 16:26:53 Marcos-MacBook-Pro configd[51]: network changed: DNS*\
+May 19 16:26:53 Marcos-MacBook-Pro com.apple.usbmuxd[76]: usbmuxd-364 on Aug  4 2015 at 14:36:18, running 64 bit\
+May 19 16:26:53 Marcos-MacBook-Pro blued[82]: hciControllerOnline; HID devices? 0\
+May 19 16:26:53 Marcos-MacBook-Pro blued[82]: hostControllerOnline - Number of Paired devices = 0, List of Paired devices = (null)\
+May 19 16:26:53 Marcos-MacBook-Pro mDNSResponder[87]: D2D_IPC: Loaded\
+May 19 16:26:53 Marcos-MacBook-Pro mDNSResponder[87]: D2DInitialize succeeded\
+May 19 16:26:53 Marcos-MacBook-Pro apsd[74]: Unable to bootstrap_look_up connection port 'com.apple.askpermission.aps' for user 0: Unknown service name\
+May 19 16:26:53 Marcos-MacBook-Pro apsd[74]: Attempt to set push wake topics without dark wake enabled: ()\
+May 19 16:26:53 Marcos-MacBook-Pro apsd[74]: Unable to bootstrap_look_up connection port 'com.apple.askpermission.aps' for user 0: Unknown service name\
+May 19 16:26:53 Marcos-MacBook-Pro apsd[74]: <APSConnectionServer: 0x7fb0c3519790> Invalid mach port - Cleaning up this named port's topics. com.apple.askpermission.aps\
+May 19 16:26:53 Marcos-MacBook-Pro com.apple.xpc.launchd[1] (com.apple.appkit.xpc.sandboxedServiceRunner): The JoinExistingSession key is only available to Application services.\
+May 19 16:26:53 Marcos-MacBook-Pro iconservicesd[64]: iconservicesd launched.\
+May 19 16:26:53 Marcos-MacBook-Pro iconservicesd[64]: Cache path: /Library/Caches/com.apple.iconservices.store\
+May 19 16:26:53 Marcos-MacBook-Pro findmydeviced[165]: findmydeviced has been launched\
+May 19 16:26:53 Marcos-MacBook-Pro networkd[164]: main networkd-583.40.20 pid 164\
+May 19 16:26:53 Marcos-MacBook-Pro mds[60]: (ImportServer.Normal:1808) UseBulkImporter 0 ForceBulkImporter 0\
+May 19 16:26:53 Marcos-MacBook-Pro networkd[164]: -[NETPowerManager setupPowerPolicyTable] created power policy table from defaults with 5 timeslots\
+May 19 16:26:53 Marcos-MacBook-Pro networkd[164]: -[NETInterfaceManager updateInterfaces] nwi_state_copy() returned NULL\
+May 19 16:26:53 Marcos-MacBook-Pro networkd[164]: nw_nat64_post_new_ifstate successfully changed NAT64 ifstate from 0x0 to 0x8000000000000000\
+May 19 16:26:53 Marcos-MacBook-Pro networkd[164]: __settings_changed_block_invoke networkd_privileged_copy_settings_async with NULL settings\
+May 19 16:26:53 --- last message repeated 1 time ---\
+May 19 16:26:53 Marcos-MacBook-Pro kernel[0]: Architecture couldn't be recognized! PMC_BOOT_0 = <ptr>, PMC_BOOT_42 = 0x00000011\
+May 19 16:26:53 Marcos-MacBook-Pro kernel[0]: GeforceSensors: starting early shadow VBIOS...\
+May 19 16:26:53 Marcos-MacBook-Pro iconservicesagent[65]: Starting service with cache path: /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/C/com.apple.iconservices\
+May 19 16:26:53 Marcos-MacBook-Pro locationd[79]: Logging binary sensor data to /var/folders/zz/zyxvpxvq6csfxvn_n00000sm00006d/C/locationdSensors.bin\
+May 19 16:26:53 Marcos-MacBook-Pro locationd[79]: Incorrect NSStringEncoding value 0x8000100 detected. Assuming NSASCIIStringEncoding. Will stop this compatiblity mapping behavior in the near future.\
+May 19 16:26:53 Marcos-MacBook-Pro locationd[79]: Location icon should now be in state 'Inactive'\
+May 19 16:26:53 Marcos-MacBook-Pro findmydeviced[165]: Checking for /private/var/db/.AppleSetupDone & waiting, if it does not exist\
+May 19 16:26:53 Marcos-MacBook-Pro findmydeviced[165]: Calling directory changed on startup\
+May 19 16:26:53 Marcos-MacBook-Pro findmydeviced[165]: Found file being watched: .AppleSetupDone\
+May 19 16:26:53 Marcos-MacBook-Pro findmydeviced[165]: Deinitializing watcher\
+May 19 16:26:53 Marcos-MacBook-Pro findmydeviced[165]: Finished waiting for buddy to complete. Buddy marker found : 1\
+May 19 16:26:53 Marcos-MacBook-Pro WindowServer[161]: Server is starting up\
+May 19 16:26:53 Marcos-MacBook-Pro findmydeviced[165]: Started watching for the appearance of /private/var/db/.AppleSetupDone\
+May 19 16:26:53 Marcos-MacBook-Pro mds[60]: (FMW.Normal:1428) FMW 0 0\
+May 19 16:26:53 Marcos-MacBook-Pro lsd[170]: LaunchServices: Scheme mapping file does not exist, creating file.\
+May 19 16:26:53 Marcos-MacBook-Pro com.apple.xpc.launchd[1] (com.apple.xpc.launchd.domain.system): Service "com.apple.ManagedClient.startup" tried to hijack endpoint "com.apple.ManagedClient.agent" from owner: com.apple.ManagedClient\
+May 19 16:26:53 Marcos-MacBook-Pro awdd[168]: AutoSubmitPreference is 0\
+May 19 16:26:54 --- last message repeated 1 time ---\
+May 19 16:26:54 Marcos-MacBook-Pro ifcstart[62]: CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data\
+May 19 16:26:54 --- last message repeated 7 times ---\
+May 19 16:26:54 Marcos-MacBook-Pro AirPlayXPCHelper[95]: 2016-05-19 04:26:54.043419 PM [AirPlayEndpointManagerMeta] metaManager_createAirPlayEndpointManager Using NAPS Endpoint Manager\
+May 19 16:26:54 Marcos-MacBook-Pro AirPlayXPCHelper[95]: 2016-05-19 04:26:54.045441 PM [WiFiManagerCore] ### Get interfaces failed: -3903/0xFFFFF0C1 kA11NotSupportedErr\
+May 19 16:26:54 Marcos-MacBook-Pro AirPlayXPCHelper[95]: 2016-05-19 04:26:54.045652 PM [APTransportTrafficRegistrar] APTransportTrafficRegistrar: Deregister AirPlay traffic for AWDL at MAC 00:00:00:00:00:00 with target infra non critical PeerIndication=0 err=-3903\
+May 19 16:26:54 Marcos-MacBook-Pro AirPlayXPCHelper[95]: 2016-05-19 04:26:54.045799 PM [AirPlay] trafficRegistrar_resetRegistrationInternal signalled -3903/0xFFFFF0C1 kA11NotSupportedErr: APTransportTrafficRegistrar: reset registration failed\
+May 19 16:26:54 Marcos-MacBook-Pro diskmanagementstartup[56]: started Windows Installer Partition removal\
+May 19 16:26:54 Marcos-MacBook-Pro diskmanagementstartup[56]: Windows Installer Partition removal: No trigger, so doing nothing\
+May 19 16:26:54 Marcos-MacBook-Pro diskmanagementstartup[56]: finished Windows Installer Partition removal; error = 0\
+May 19 16:26:54 Marcos-MacBook-Pro UserEventAgent[43]: Received XPC_ERROR_CONNECTION_INVALID for connection com.apple.backupd.xpc\
+May 19 16:26:54 Marcos-MacBook-Pro UserEventAgent[43]: Failed to send message because the port couldn't be created.\
+May 19 16:26:54 Marcos-MacBook-Pro com.apple.xpc.launchd[1] (com.apple.FileSyncAgent.PHD.isRunning): The HideUntilCheckIn property is an architectural performance issue. Please transition away from it.\
+May 19 16:26:54 Marcos-MacBook-Pro com.apple.xpc.launchd[1] (com.apple.speech.speechsynthesisd): This key does not do anything: OnDemand\
+May 19 16:26:54 Marcos-MacBook-Pro com.apple.xpc.launchd[1] (com.apple.trustd.agent): This key does not do anything: OnDemand\
+May 19 16:26:54 Marcos-MacBook-Pro com.apple.xpc.launchd[1] (com.apple.trustd.agent): The ServiceIPC key is no longer respected. Please remove it.\
+May 19 16:26:54 Marcos-MacBook-Pro com.apple.xpc.launchd[1] (com.apple.TrustEvaluationAgent): This key does not do anything: OnDemand\
+May 19 16:26:54 Marcos-MacBook-Pro digest-service[167]: label: default\
+May 19 16:26:54 Marcos-MacBook-Pro digest-service[167]: 	dbname: od:/Local/Default\
+May 19 16:26:54 Marcos-MacBook-Pro digest-service[167]: 	mkey_file: /var/db/krb5kdc/m-key\
+May 19 16:26:54 Marcos-MacBook-Pro digest-service[167]: 	acl_file: /var/db/krb5kdc/kadmind.acl\
+May 19 16:26:54 Marcos-MacBook-Pro digest-service[167]: digest-request: uid=0\
+May 19 16:26:54 Marcos-MacBook-Pro coreduetd[68]: CoreData: Failed to load optimized model at path '/System/Library/PrivateFrameworks/CoreDuetDataModel.framework/Resources/CoreDuetDataModel-PR-19621179.omo'\
+May 19 16:26:54 Marcos-MacBook-Pro com.apple.audio.DriverHelper[175]: The plug-in named AirPlay.driver requires extending the sandbox for the mach service named com.apple.AirPlayXPCHelper.\
+May 19 16:26:54 Marcos-MacBook-Pro com.apple.audio.DriverHelper[175]: The plug-in named AirPlay.driver requires extending the sandbox for the mach service named com.apple.coremedia.endpointmanager.xpc.\
+May 19 16:26:54 Marcos-MacBook-Pro com.apple.audio.DriverHelper[175]: The plug-in named AirPlay.driver requires extending the sandbox for the mach service named com.apple.coremedia.endpoint.xpc.\
+May 19 16:26:54 Marcos-MacBook-Pro com.apple.audio.DriverHelper[175]: The plug-in named AirPlay.driver requires extending the sandbox for the mach service named com.apple.coremedia.endpointstream.xpc.\
+May 19 16:26:54 Marcos-MacBook-Pro com.apple.xpc.launchd[1] (com.apple.appkit.xpc.sandboxedServiceRunner): The JoinExistingSession key is only available to Application services.\
+May 19 16:26:54 Marcos-MacBook-Pro com.apple.audio.DriverHelper[175]: The plug-in named BluetoothAudioPlugIn.driver requires extending the sandbox for the IOKit user-client class RootDomainUserClient.\
+May 19 16:26:54 Marcos-MacBook-Pro com.apple.audio.DriverHelper[175]: The plug-in named BluetoothAudioPlugIn.driver requires extending the sandbox for the IOKit user-client class IOHIDLibUserClient.\
+May 19 16:26:54 Marcos-MacBook-Pro com.apple.audio.DriverHelper[175]: The plug-in named BluetoothAudioPlugIn.driver requires extending the sandbox for the IOKit user-client class IOBluetoothL2CAPChannelUserClient.\
+May 19 16:26:54 Marcos-MacBook-Pro com.apple.audio.DriverHelper[175]: The plug-in named BluetoothAudioPlugIn.driver requires extending the sandbox for the IOKit user-client class IOBluetoothHCIUserClient.\
+May 19 16:26:54 Marcos-MacBook-Pro com.apple.audio.DriverHelper[175]: The plug-in named BluetoothAudioPlugIn.driver requires extending the sandbox for the IOKit user-client class IOBluetoothDeviceUserClient.\
+May 19 16:26:54 Marcos-MacBook-Pro com.apple.audio.DriverHelper[175]: The plug-in named BluetoothAudioPlugIn.driver requires extending the sandbox for the IOKit user-client class IOHIDResourceDeviceUserClient.\
+May 19 16:26:54 Marcos-MacBook-Pro com.apple.audio.DriverHelper[175]: The plug-in named BluetoothAudioPlugIn.driver requires extending the sandbox for the mach service named com.apple.blued.\
+May 19 16:26:54 Marcos-MacBook-Pro com.apple.audio.DriverHelper[175]: The plug-in named BluetoothAudioPlugIn.driver requires extending the sandbox for the mach service named com.apple.bluetoothaudiod.\
+May 19 16:26:54 Marcos-MacBook-Pro com.apple.audio.DriverHelper[175]: The plug-in named BluetoothAudioPlugIn.driver requires extending the sandbox for the mach service named com.apple.BluetoothDOServer.\
+May 19 16:26:54 Marcos-MacBook-Pro com.apple.xpc.launchd[1] (com.apple.FileSyncAgent.PHD.isRunning): The HideUntilCheckIn property is an architectural performance issue. Please transition away from it.\
+May 19 16:26:54 Marcos-MacBook-Pro com.apple.xpc.launchd[1] (com.apple.speech.speechsynthesisd): This key does not do anything: OnDemand\
+May 19 16:26:54 Marcos-MacBook-Pro com.apple.xpc.launchd[1] (com.apple.trustd.agent): This key does not do anything: OnDemand\
+May 19 16:26:54 Marcos-MacBook-Pro com.apple.xpc.launchd[1] (com.apple.trustd.agent): The ServiceIPC key is no longer respected. Please remove it.\
+May 19 16:26:54 Marcos-MacBook-Pro com.apple.xpc.launchd[1] (com.apple.TrustEvaluationAgent): This key does not do anything: OnDemand\
+May 19 16:26:54 Marcos-MacBook-Pro UserEventAgent[43]: assertion failed: 15E65: com.apple.telemetry + 19557 [69ACF2E5-86C2-3D15-85DB-5755CB3F585E]: 0x0\
+May 19 16:26:54 Marcos-MacBook-Pro UserEventAgent[43]: nsurlsessiond_events plugin: adding token 1 for client softwareupdate_download_service\
+May 19 16:26:54 Marcos-MacBook-Pro nehelper[178]: objc[178]: Class NEHelperSystemProviderManager is implemented in both /System/Library/Frameworks/NetworkExtension.framework/Versions/A/NetworkExtension and /usr/libexec/nehelper. One of the two will be used. Which one is undefined.\
+May 19 16:26:54 Marcos-MacBook-Pro digest-service[167]: digest-request: netr probe 0\
+May 19 16:26:54 Marcos-MacBook-Pro digest-service[167]: digest-request: init request\
+May 19 16:26:54 Marcos-MacBook-Pro digest-service[167]: digest-request: init return domain: BUILTIN server: MARCOS-MACBOOK-PRO indomain was: <NULL>\
+May 19 16:26:54 Marcos-MacBook-Pro com.apple.CDScheduler[43]: Initial power state set to AC Power\
+May 19 16:26:54 Marcos-MacBook-Pro kernel[0]: [IGPU] *****************************************************************************\
+May 19 16:26:54 Marcos-MacBook-Pro kernel[0]: [IGPU] Failed to initialize graphics firmware.  Falling back to host-side scheduling\
+May 19 16:26:54 Marcos-MacBook-Pro kernel[0]: [IGPU] Scheduler interface revision = 1: Default EL Scheduler\
+May 19 16:26:54 Marcos-MacBook-Pro com.apple.xpc.launchd[1] (com.apple.appkit.xpc.sandboxedServiceRunner): The JoinExistingSession key is only available to Application services.\
+May 19 16:26:54 Marcos-MacBook-Pro kernel[0]: [IGPU] *****************************************************************************\
+May 19 16:26:54 Marcos-MacBook-Pro com.apple.xpc.launchd[1] (com.apple.FileSyncAgent.PHD.isRunning): The HideUntilCheckIn property is an architectural performance issue. Please transition away from it.\
+May 19 16:26:54 Marcos-MacBook-Pro com.apple.xpc.launchd[1] (com.apple.speech.speechsynthesisd): This key does not do anything: OnDemand\
+May 19 16:26:54 Marcos-MacBook-Pro com.apple.xpc.launchd[1] (com.apple.trustd.agent): This key does not do anything: OnDemand\
+May 19 16:26:54 Marcos-MacBook-Pro com.apple.xpc.launchd[1] (com.apple.trustd.agent): The ServiceIPC key is no longer respected. Please remove it.\
+May 19 16:26:54 Marcos-MacBook-Pro com.apple.xpc.launchd[1] (com.apple.TrustEvaluationAgent): This key does not do anything: OnDemand\
+May 19 16:26:54 Marcos-MacBook-Pro kernel[0]: [IGPU] Graphics accelerator is using scheduler interface revision 1: Default EL Scheduler\
+May 19 16:26:54 Marcos-MacBook-Pro kernel[0]: [IGPU] Scheduler: Multiple channel indexes per command streamer\
+May 19 16:26:54 Marcos-MacBook-Pro kernel[0]: [IGPU] Scheduler: Process CSB using HWS.\
+May 19 16:26:54 Marcos-MacBook-Pro kernel[0]: [IGPU] Scheduler: PM notify enabled\
+May 19 16:26:54 Marcos-MacBook-Pro kernel[0]: [IGPU] Graphics Address: PPGTT, Separate Address Space\
+May 19 16:26:54 Marcos-MacBook-Pro kernel[0]: [IGPU] MultiForceWake Enabled: Using 3D Driver\
+May 19 16:26:54 Marcos-MacBook-Pro MRT[48]: Daemon finished.\
+May 19 16:26:54 Marcos-MacBook-Pro MRT[48]: Finished MRT run\
+May 19 16:26:54 Marcos-MacBook-Pro kernel[0]: [IGPU] CoarsePowerGating Disabled\
+May 19 16:26:54 Marcos-MacBook-Pro kernel[0]: [IGPU] Scheduler Throttle Cap = 100ms.\
+May 19 16:26:54 Marcos-MacBook-Pro kernel[0]: [IGPU] startGraphicsEngine: hwCaps compromised fNumSubSlices: 3 fExecUnitCount: 0.\
+May 19 16:26:56 Marcos-MacBook-Pro softwareupdated[191]: BUG in libdispatch client: kevent[EVFILT_VNODE] add: "Bad file descriptor" - 0x9\
+May 19 16:26:58 Marcos-MacBook-Pro kernel[0]: ACPI_SMC_PlatformPlugin::start - waitForService(resourceMatching(AppleIntelCPUPowerManagement) timed out\
+May 19 16:26:58 Marcos-MacBook-Pro kernel[0]: WARNING: IOPlatformPluginUtil : getCPUIDInfo: this is an unknown CPU model 0x5e\
+May 19 16:26:58 Marcos-MacBook-Pro kernel[0]: -- power management may be incomplete or unsupported\
+May 19 16:26:58 Marcos-MacBook-Pro kernel[0]: AppleIntelPCHPMC::publishedIOPPF - return false\
+May 19 16:26:58 Marcos-MacBook-Pro WindowServer[161]: Session 257 retained (2 references)\
+May 19 16:26:58 Marcos-MacBook-Pro WindowServer[161]: Session 257 released (1 references)\
+May 19 16:26:58 Marcos-MacBook-Pro kernel[0]: Sound assertion in AppleHDADriver at line 1601\
+May 19 16:26:58 Marcos-MacBook-Pro kernel[0]: Sound assertion in AppleHDADriver at line 2275\
+May 19 16:26:58 Marcos-MacBook-Pro kernel[0]: Sound assertion in AppleHDADriver at line 212\
+May 19 16:26:58 Marcos-MacBook-Pro WindowServer[161]: Session 257 retained (2 references)\
+May 19 16:26:58 Marcos-MacBook-Pro WindowServer[161]: **DMPROXY** (2) Found `/System/Library/CoreServices/DMProxy'. Run with arg = -AMBDuser\
+May 19 16:26:58 Marcos-MacBook-Pro WindowServer[161]: init_page_flip: page flip mode is on\
+May 19 16:26:58 Marcos-MacBook-Pro configd[51]: network changed\
+May 19 16:26:58 Marcos-MacBook-Pro kernel[0]: IntelBacklight: IntelBacklightPanel::setDisplay()\
+May 19 16:26:58 Marcos-MacBook-Pro kernel[0]: PEGP: Not usable\
+May 19 16:26:58 Marcos-MacBook-Pro WindowServer[161]: Found 24 modes for display 0x00000000 [16, 5]\
+May 19 16:26:58 Marcos-MacBook-Pro WindowServer[161]: Found 1 modes for display 0x00000000 [1, 0]\
+May 19 16:26:58 --- last message repeated 2 times ---\
+May 19 16:26:58 Marcos-MacBook-Pro WindowServer[161]: mux_initialize: Couldn't find any matches\
+May 19 16:26:58 Marcos-MacBook-Pro WindowServer[161]: Found 24 modes for display 0x00000000 [16, 5]\
+May 19 16:26:58 Marcos-MacBook-Pro WindowServer[161]: Found 1 modes for display 0x00000000 [1, 0]\
+May 19 16:26:58 --- last message repeated 2 times ---\
+May 19 16:26:58 Marcos-MacBook-Pro WindowServer[161]: WSMachineIsAMD: false\
+May 19 16:26:58 Marcos-MacBook-Pro com.apple.AmbientDisplayAgent[195]: AmbientDisplayAgent started\
+May 19 16:26:58 Marcos-MacBook-Pro kernel[0]: NTFS driver 3.13 [Flags: R/W].\
+May 19 16:26:58 Marcos-MacBook-Pro WindowServer[161]: WSMachineUsesNewStyleMirroring: true\
+May 19 16:26:58 Marcos-MacBook-Pro WindowServer[161]: start_deferring_display_reconfiguration\
+May 19 16:26:58 Marcos-MacBook-Pro WindowServer[161]: Display 0x39012480: GL mask 0x1; bounds (0, 0)[1920 x 1080], 24 modes available\
+	Main, Active, on-line, enabled, built-in, boot, Vendor 30e4, Model 492, S/N 0, Unit 0, Rotation 0\
+	UUID 0x8bdb7a251e9347beeb42d3ab88dcda25\
+May 19 16:26:58 Marcos-MacBook-Pro WindowServer[161]: Display 0x003f0040: GL mask 0x10; bounds (0, 0)[4096 x 2160], 2 modes available\
+	off-line, enabled, Vendor ffffffff, Model ffffffff, S/N ffffffff, Unit 4, Rotation 0\
+	UUID 0xffffffffffffffffffffffffffffffff\
+May 19 16:26:58 Marcos-MacBook-Pro WindowServer[161]: Display 0x003f003f: GL mask 0x8; bounds (0, 0)[0 x 0], 1 modes available\
+	off-line, enabled, Vendor ffffffff, Model ffffffff, S/N ffffffff, Unit 3, Rotation 0\
+	UUID 0xffffffffffffffffffffffffffffffff\
+May 19 16:26:58 Marcos-MacBook-Pro WindowServer[161]: Display 0x003f003e: GL mask 0x4; bounds (0, 0)[0 x 0], 1 modes available\
+	off-line, enabled, Vendor ffffffff, Model ffffffff, S/N ffffffff, Unit 2, Rotation 0\
+	UUID 0xffffffffffffffffffffffffffffffff\
+May 19 16:26:58 Marcos-MacBook-Pro WindowServer[161]: Display 0x003f003d: GL mask 0x2; bounds (0, 0)[0 x 0], 1 modes available\
+	off-line, enabled, Vendor ffffffff, Model ffffffff, S/N ffffffff, Unit 1, Rotation 0\
+	UUID 0xffffffffffffffffffffffffffffffff\
+May 19 16:26:58 Marcos-MacBook-Pro kernel[0]: in6_unlink_ifa: IPv6 address 0xce7862853530edb9 has no prefix\
+May 19 16:26:58 Marcos-MacBook-Pro networkd[164]: -[NETInterfaceManager updateInterfaces] nwi_state_copy() returned NULL\
+May 19 16:26:58 Marcos-MacBook-Pro kernel[0]: NTFS volume name Backups, version 3.1.\
+May 19 16:26:59 Marcos-MacBook-Pro WindowServer[161]: Set a breakpoint at CGSLogError to catch errors as they are logged.\
+May 19 16:26:59 Marcos-MacBook-Pro WindowServer[161]: window_set_transform: Singular matrix\
+May 19 16:26:59 --- last message repeated 2 times ---\
+May 19 16:26:59 Marcos-MacBook-Pro WindowServer[161]: Display 0x39012480: GL mask 0x1; bounds (0, 0)[1920 x 1080], 24 modes available\
+	Main, Active, on-line, enabled, built-in, boot, Vendor 30e4, Model 492, S/N 0, Unit 0, Rotation 0\
+	UUID 0x8bdb7a251e9347beeb42d3ab88dcda25\
+May 19 16:26:59 Marcos-MacBook-Pro WindowServer[161]: Display 0x003f0040: GL mask 0x10; bounds (2944, 0)[1 x 1], 2 modes available\
+	off-line, enabled, Vendor ffffffff, Model ffffffff, S/N ffffffff, Unit 4, Rotation 0\
+	UUID 0xffffffffffffffffffffffffffffffff\
+May 19 16:26:59 Marcos-MacBook-Pro WindowServer[161]: Display 0x003f003f: GL mask 0x8; bounds (2945, 0)[1 x 1], 1 modes available\
+	off-line, enabled, Vendor ffffffff, Model ffffffff, S/N ffffffff, Unit 3, Rotation 0\
+	UUID 0xffffffffffffffffffffffffffffffff\
+May 19 16:26:59 Marcos-MacBook-Pro WindowServer[161]: Display 0x003f003e: GL mask 0x4; bounds (2946, 0)[1 x 1], 1 modes available\
+	off-line, enabled, Vendor ffffffff, Model ffffffff, S/N ffffffff, Unit 2, Rotation 0\
+	UUID 0xffffffffffffffffffffffffffffffff\
+May 19 16:26:59 Marcos-MacBook-Pro WindowServer[161]: Display 0x003f003d: GL mask 0x2; bounds (2947, 0)[1 x 1], 1 modes available\
+	off-line, enabled, Vendor ffffffff, Model ffffffff, S/N ffffffff, Unit 1, Rotation 0\
+	UUID 0xffffffffffffffffffffffffffffffff\
+May 19 16:26:59 Marcos-MacBook-Pro WindowServer[161]: CGXPerformInitialDisplayConfiguration\
+May 19 16:26:59 Marcos-MacBook-Pro WindowServer[161]:   Display 0x39012480: Unit 0; Vendor 0x30e4 Model 0x492 S/N 0 Dimensions 13.54 x 7.64; online enabled built-in, Bounds (0,0)[1920 x 1080], Rotation 0, Resolution 1\
+May 19 16:26:59 Marcos-MacBook-Pro WindowServer[161]:   Display 0x003f0040: Unit 4; Vendor 0xffffffff Model 0xffffffff S/N -1 Dimensions 0.00 x 0.00; offline enabled, Bounds (2944,0)[1 x 1], Rotation 0, Resolution 1\
+May 19 16:26:59 Marcos-MacBook-Pro WindowServer[161]:   Display 0x003f003f: Unit 3; Vendor 0xffffffff Model 0xffffffff S/N -1 Dimensions 0.00 x 0.00; offline enabled, Bounds (2945,0)[1 x 1], Rotation 0, Resolution 1\
+May 19 16:26:59 Marcos-MacBook-Pro WindowServer[161]:   Display 0x003f003e: Unit 2; Vendor 0xffffffff Model 0xffffffff S/N -1 Dimensions 0.00 x 0.00; offline enabled, Bounds (2946,0)[1 x 1], Rotation 0, Resolution 1\
+May 19 16:26:59 Marcos-MacBook-Pro WindowServer[161]:   Display 0x003f003d: Unit 1; Vendor 0xffffffff Model 0xffffffff S/N -1 Dimensions 0.00 x 0.00; offline enabled, Bounds (2947,0)[1 x 1], Rotation 0, Resolution 1\
+May 19 16:26:59 Marcos-MacBook-Pro WindowServer[161]: Unhandled device string!\
+May 19 16:26:59 --- last message repeated 1 time ---\
+May 19 16:26:59 Marcos-MacBook-Pro com.apple.xpc.launchd[1] (com.apple.FileSyncAgent.PHD.isRunning): The HideUntilCheckIn property is an architectural performance issue. Please transition away from it.\
+May 19 16:26:59 Marcos-MacBook-Pro com.apple.xpc.launchd[1] (com.apple.speech.speechsynthesisd): This key does not do anything: OnDemand\
+May 19 16:26:59 Marcos-MacBook-Pro WindowServer[161]: GLCompositor: GL renderer id 0x01024501, GL mask 0x0000001f, accelerator 0x000040c7, unit 0, caps QEX|MIPMAP, vram 1536 MB\
+May 19 16:26:59 Marcos-MacBook-Pro WindowServer[161]: GLCompositor: GL renderer id 0x01024501, GL mask 0x0000001f, texture max 16384, viewport max \{16384, 16384\}, extensions NPOT|GLSL|FLOAT\
+May 19 16:26:59 Marcos-MacBook-Pro WindowServer[161]: GLCompositor enabled for tile size [256 x 256]\
+May 19 16:26:59 Marcos-MacBook-Pro WindowServer[161]: CGXGLInitMipMap: mip map mode is on\
+May 19 16:26:59 Marcos-MacBook-Pro com.apple.xpc.launchd[1] (com.apple.trustd.agent): This key does not do anything: OnDemand\
+May 19 16:26:59 Marcos-MacBook-Pro com.apple.xpc.launchd[1] (com.apple.trustd.agent): The ServiceIPC key is no longer respected. Please remove it.\
+May 19 16:26:59 Marcos-MacBook-Pro com.apple.xpc.launchd[1] (com.apple.TrustEvaluationAgent): This key does not do anything: OnDemand\
+May 19 16:26:59 Marcos-MacBook-Pro WindowServer[161]: **DMPROXY** (2) Found `/System/Library/CoreServices/DMProxy'. Run with arg = -AMBDprefs\
+May 19 16:26:59 Marcos-MacBook-Pro com.apple.AmbientDisplayAgent[195]: AMBD initializing devices\
+May 19 16:26:59 Marcos-MacBook-Pro WindowServer[161]: CGXSetDisplayColorProfileAndTransfer: Display 0x39012480: Unit 0; ColorProfile \{ 625055711 \}; TransferFormula (1.000000, 1.000000, 1.000000)\
+May 19 16:26:59 Marcos-MacBook-Pro com.apple.xpc.launchd[1] (com.apple.AssistiveControl.running): The HideUntilCheckIn property is an architectural performance issue. Please transition away from it.\
+May 19 16:26:59 Marcos-MacBook-Pro com.apple.xpc.launchd[1] (com.apple.btsa): This key does not do anything: OnDemand\
+May 19 16:26:59 Marcos-MacBook-Pro com.apple.xpc.launchd[1] (com.apple.coreservices.useractivityd): Unknown key for Boolean: DrainMessagesAfterFailedInit\
+May 19 16:26:59 Marcos-MacBook-Pro com.apple.xpc.launchd[1] (com.apple.helpd): This key does not do anything: OnDemand\
+May 19 16:26:59 Marcos-MacBook-Pro com.apple.xpc.launchd[1] (com.apple.noticeboard.agent): This key does not do anything: OnDemand\
+May 19 16:26:59 Marcos-MacBook-Pro com.apple.xpc.launchd[1] (com.apple.speech.speechsynthesisd): This key does not do anything: OnDemand\
+May 19 16:26:59 Marcos-MacBook-Pro com.apple.xpc.launchd[1] (com.apple.inputswitcher.running): The HideUntilCheckIn property is an architectural performance issue. Please transition away from it.\
+May 19 16:26:59 Marcos-MacBook-Pro com.apple.xpc.launchd[1] (com.apple.trustd.agent): This key does not do anything: OnDemand\
+May 19 16:26:59 Marcos-MacBook-Pro com.apple.xpc.launchd[1] (com.apple.trustd.agent): The ServiceIPC key is no longer respected. Please remove it.\
+May 19 16:26:59 Marcos-MacBook-Pro com.apple.xpc.launchd[1] (com.apple.universalaccesscontrol.running): The HideUntilCheckIn property is an architectural performance issue. Please transition away from it.\
+May 19 16:26:59 Marcos-MacBook-Pro com.apple.xpc.launchd[1] (com.apple.universalaccessd.running): The HideUntilCheckIn property is an architectural performance issue. Please transition away from it.\
+May 19 16:26:59 Marcos-MacBook-Pro com.apple.xpc.launchd[1] (com.apple.universalaccessd): Unknown key for string: LSBackgroundOnly\
+May 19 16:26:59 Marcos-MacBook-Pro com.apple.xpc.launchd[1] (com.apple.UserEventAgent-LoginWindow): This service is defined to be constantly running and is inherently inefficient.\
+May 19 16:26:59 Marcos-MacBook-Pro com.apple.xpc.launchd[1] (com.apple.VoiceOver.running): The HideUntilCheckIn property is an architectural performance issue. Please transition away from it.\
+May 19 16:26:59 Marcos-MacBook-Pro com.apple.xpc.launchd[1] (com.apple.ZoomWindow.running): The HideUntilCheckIn property is an architectural performance issue. Please transition away from it.\
+May 19 16:26:59 Marcos-MacBook-Pro PowerChime[203]: objc[203]: Class BUIPowerSource is implemented in both /System/Library/PrivateFrameworks/BatteryUIKit.framework/Versions/A/BatteryUIKit and /System/Library/CoreServices/PowerChime.app/Contents/MacOS/PowerChime. One of the two will be used. Which one is undefined.\
+May 19 16:26:59 Marcos-MacBook-Pro isst[202]: CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data\
+May 19 16:26:59 --- last message repeated 5 times ---\
+May 19 16:26:59 Marcos-MacBook-Pro PowerChime[203]: PowerChime: chime enabled by hardware: 0\
+May 19 16:26:59 Marcos-MacBook-Pro PowerChime[203]: PowerChime disabled - ChimeOnNoHardware default: 0\
+May 19 16:26:59 Marcos-MacBook-Pro com.apple.SecurityServer[77]: Session 100008 created\
+May 19 16:26:59 Marcos-MacBook-Pro askpermissiond[199]: StoreTransport: Resetting APS Connection using environment name production\
+May 19 16:26:59 Marcos-MacBook-Pro apsd[74]: Unable to bootstrap_look_up connection port 'com.apple.askpermission.aps' for user 0: Unknown service name\
+May 19 16:26:59 Marcos-MacBook-Pro mds[60]: (Volume.Normal:2464) volume:0x7fbc3e804e00 ********** Bootstrapped Creating a default store:1 SpotLoc:(null) SpotVerLoc:(null) occlude:0 /Volumes/Backups\
+May 19 16:26:59 Marcos-MacBook-Pro UserEventAgent[205]: Failed to copy info dictionary for bundle /System/Library/UserEventPlugins/alfUIplugin.plugin\
+May 19 16:26:59 Marcos-MacBook-Pro WiFiAgent[206]: CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data\
+May 19 16:26:59 --- last message repeated 3 times ---\
+May 19 16:26:59 Marcos-MacBook-Pro UserEventAgent[205]: user agent networkd: built Feb  9 2016 17:07:31\
+May 19 16:26:59 Marcos-MacBook-Pro WiFiAgent[206]: [NO client logger] <Sep 11 2015 20:39:39> WIFICLOUDSYNC WiFiCloudSyncEngineCreate: created...\
+May 19 16:26:59 Marcos-MacBook-Pro WiFiAgent[206]: [NO client logger] <Sep 11 2015 20:39:39> WIFICLOUDSYNC WiFiCloudSyncEngineRegisterCallbacks: WiFiCloudSyncEngineCallbacks version - 0, bundle id - com.apple.wifi.WiFiAgent\
+May 19 16:26:59 Marcos-MacBook-Pro WindowServer[161]: MPAccessSurfaceForDisplayDevice: Set up page flip mode on display 0x39012480 device: 0x7fa8e99162e0  isBackBuffered: 1 numComp: 3 numDisp: 3\
+May 19 16:26:59 Marcos-MacBook-Pro WindowServer[161]: _CGXGLDisplayContextForDisplayDevice: acquired display context (0x7fa8e99162e0) - enabling OpenGL\
+May 19 16:26:59 Marcos-MacBook-Pro WiFiAgent[206]:  securityd_message_with_reply_sync Failed to talk to secd after 4 attempts.\
+May 19 16:26:59 Marcos-MacBook-Pro WiFiAgent[206]: No Wi-Fi hardware, terminating WiFiAgent\
+May 19 16:26:59 Marcos-MacBook-Pro loginwindow[91]: __LUICGetBootStyle_block_invoke:1266: ERROR: Unable to get color theme from IORegistry\
+May 19 16:26:59 Marcos-MacBook-Pro com.apple.xpc.launchd[1] (com.apple.appkit.xpc.sandboxedServiceRunner): The JoinExistingSession key is only available to Application services.\
+May 19 16:26:59 Marcos-MacBook-Pro loginwindow[91]: CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data\
+May 19 16:26:59 --- last message repeated 3 times ---\
+May 19 16:26:59 Marcos-MacBook-Pro loginwindow[91]: Login Window Started Security Agent\
+May 19 16:26:59 Marcos-MacBook-Pro ManagedClient[207]: CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data\
+May 19 16:26:59 --- last message repeated 3 times ---\
+May 19 16:26:59 Marcos-MacBook-Pro SecurityAgent[209]: CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data\
+May 19 16:26:59 --- last message repeated 3 times ---\
+May 19 16:26:59 Marcos-MacBook-Pro WindowServer[161]: Surface testing disallowed updates for 10 sequential attempts...\
+May 19 16:26:59 Marcos-MacBook-Pro SecurityAgent[209]: This is the first run\
+May 19 16:26:59 Marcos-MacBook-Pro SecurityAgent[209]: MacBuddy was run = 0\
+May 19 16:26:59 Marcos-MacBook-Pro SecurityAgent[209]: User info context values set for _mbsetupuser\
+May 19 16:26:59 Marcos-MacBook-Pro authorizationhost[210]: Failed to authenticate user <_mbsetupuser> (error: 9).\
+May 19 16:26:59 Marcos-MacBook-Pro SecurityAgent[209]: CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data\
+May 19 16:27:00 --- last message repeated 3 times ---\
+May 19 16:27:00 Marcos-MacBook-Pro SecurityAgent[209]: com.apple.SecurityAgent.consoleLogin.UIShown\
+May 19 16:27:00 Marcos-MacBook-Pro kernel[0]: Ethernet [RealtekRTL8111]: Link up on en0, 100-Megabit, Full-duplex, No flow-control\
+May 19 16:27:00 Marcos-MacBook-Pro mDNSResponder[87]: mDNS_RegisterInterface: Frequent transitions for interface en0 (FE80:0000:0000:0000:82FA:5BFF:FE29:261B)\
+May 19 16:27:00 Marcos-MacBook-Pro networkd[164]: -[NETInterfaceManager updateInterfaces] nwi_state_copy() returned NULL\
+May 19 16:27:01 Marcos-MacBook-Pro WindowServer[161]: **DMPROXY** (2) Found `/System/Library/CoreServices/DMProxy'. Run with arg = -discovery\
+May 19 16:27:01 Marcos-MacBook-Pro WindowServer[161]: **DMPROXY** (2) Found `/System/Library/CoreServices/DMProxy'. Run with arg = -AMBDprefs\
+May 19 16:27:01 Marcos-MacBook-Pro WindowServer[161]: CGXSetDisplayColorProfileAndTransfer: Display 0x39012480: Unit 0; ColorProfile \{ 625055711 \}; TransferFormula (1.000000, 1.000000, 1.000000)\
+May 19 16:27:02 Marcos-MacBook-Pro networkd[164]: -[NETInterfaceManager updateInterfaces] nwi_state_copy() returned NULL\
+May 19 16:27:05 Marcos-MacBook-Pro WindowServer[161]: GPU Driver appears to be hung (over 5 continuous seconds of unreadiness)\
+May 19 16:27:08 --- last message repeated 730 times ---\
+May 19 16:27:08 Marcos-MacBook-Pro kernel[0]: Sound assertion in AppleHDADriver at line 3685\
+May 19 16:27:08 Marcos-MacBook-Pro WindowServer[161]: GPU Driver appears to be hung (over 5 continuous seconds of unreadiness)\
+May 19 16:27:08 Marcos-MacBook-Pro kernel[0]: Sound assertion in AppleHDADriver at line 1103\
+May 19 16:27:08 Marcos-MacBook-Pro WindowServer[161]: GPU Driver appears to be hung (over 5 continuous seconds of unreadiness)\
+May 19 16:27:09 --- last message repeated 173 times ---\
+May 19 16:27:09 Marcos-MacBook-Pro kernel[0]: ignored is_io_service_close(0x1000003c2,IOHIDParamUserClient)\
+May 19 16:27:09 Marcos-MacBook-Pro WindowServer[161]: GPU Driver appears to be hung (over 5 continuous seconds of unreadiness)\
+May 19 16:27:09 --- last message repeated 23 times ---\
+May 19 16:27:09 Marcos-MacBook-Pro AppleIDAuthAgent[200]: AOSKit ERROR: Config request failed, url=https://setup.icloud.com/configurations/init, requestHeaders=\
+	\{\
+	    "Accept-Language" = "en-us";\
+	    "X-Mme-Client-Info" = "<MacBookPro11,2> <Mac OS X;10.11.4;15E65> <com.apple.AOSKit/233>";\
+	    "X-Mme-Country" = IT;\
+	    "X-Mme-Device-Id" = "D9E0C3FC-D880-5DD9-B8DC-3A311B19E0C0";\
+	    "X-Mme-Nac-Version" = 11A457;\
+	    "X-Mme-Setup-FCE048DE-F34F-4FAF-A6DD-6C8AC9DF0C54" = true;\
+	    "X-Mme-Timezone" = "GMT+2";\
+	\},\
+	error=Error Domain=kCFErrorDomainCFNetwork Code=-1009 "The Internet connection appears to be offline." UserInfo=\{NSErrorFailingURLStringKey=https://setup.icloud.com/configurations/init, NSErrorFailingURLKey=https://setup.icloud.com/configurations/init, _kCFStreamErrorCodeKey=8, _kCFStreamErrorDomainKey=12, NSLocalizedDescription=The Internet connection appears to be offline.\}, httpStatusCode=-1, responseHeaders=\
+	(null)\
+May 19 16:27:09 Marcos-MacBook-Pro AppleIDAuthAgent[200]: AppleIdAuth URL Error: Error Domain=AOSErrorDomain Code=1000 "(null)"\
+May 19 16:27:09 Marcos-MacBook-Pro WindowServer[161]: GPU Driver appears to be hung (over 5 continuous seconds of unreadiness)}
