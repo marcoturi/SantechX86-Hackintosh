@@ -12478,6 +12478,19 @@ DefinitionBlock ("", "DSDT", 2, "ALASKA", "A M I ", 0x01072009)
 
                 ADBG ("XDSM UUID NOK")
             }
+            Method (_DSM, 4, NotSerialized)
+            {
+                If (LEqual (Arg2, Zero)) { Return (Buffer() { 0x03 } ) }
+                Return (Package()
+                {
+                    "AAPL,slot-name", Buffer() { "Built in" },
+                    "layout-id", Buffer() { 0x03, 0x00, 0x00, 0x00 },
+                    "device_type", Buffer() { "Audio Controller" },
+                    "built-in", Buffer() { 0x00 },
+                    "PinConfigurations", Buffer() { },
+                    "hda-gfx", Buffer() { "onboard-1" }
+                })
+            }
         }
 
         Device (SAT0)
