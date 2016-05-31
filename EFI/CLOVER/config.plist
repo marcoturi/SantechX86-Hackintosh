@@ -225,6 +225,8 @@
 			<key>Inject</key>
 			<true/>
 		</dict>
+		<key>UseIntelHDMI</key>
+		<true/>
 	</dict>
 	<key>DisableDrivers</key>
 	<array>
@@ -391,6 +393,38 @@
 				<key>Replace</key>
 				<data>
 				aQLsEA==
+				</data>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>HDMI port 2</string>
+				<key>Disabled</key>
+				<false/>
+				<key>Find</key>
+				<data>
+				AgQKAAAEAACHAQAA
+				</data>
+				<key>Name</key>
+				<string>AppleIntelSKLGraphicsFramebuffer</string>
+				<key>Replace</key>
+				<data>
+				AgQKAAAIAACHAQAA
+				</data>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>HDMI port 1</string>
+				<key>Disabled</key>
+				<false/>
+				<key>Find</key>
+				<data>
+				AQUJAAAEAACHAQAA
+				</data>
+				<key>Name</key>
+				<string>AppleIntelSKLGraphicsFramebuffer</string>
+				<key>Replace</key>
+				<data>
+				AQUJAAAIAACHAQAA
 				</data>
 			</dict>
 		</array>

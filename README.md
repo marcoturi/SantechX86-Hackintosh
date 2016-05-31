@@ -14,4 +14,4 @@ Repo for SantechX86 hackintosh. In development.
 	- HDEF patch (In reality it is HDES) patch for layout id 3
 
 Issue:
-Keyboard backlight, HDMI
+Keyboard backlight, HDMI, USB ?
