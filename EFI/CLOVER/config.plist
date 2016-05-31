@@ -12,8 +12,8 @@
 			<false/>
 			<key>Fixes</key>
 			<dict>
-				<key>AddPNLF_1000000</key>
-				<true/>
+				<key>FixRegions_10000000</key>
+				<false/>
 				<key>NewWay_80000000</key>
 				<true/>
 			</dict>
@@ -21,91 +21,55 @@
 			<array>
 				<dict>
 					<key>Comment</key>
-					<string>change EHC1 to EH01</string>
-					<key>Disabled</key>
-					<false/>
-					<key>Find</key>
-					<data>
-					RUhDMQ==
-					</data>
-					<key>Replace</key>
-					<data>
-					RUgwMQ==
-					</data>
-				</dict>
-				<dict>
-					<key>Comment</key>
-					<string>change EHC2 to EH02</string>
-					<key>Disabled</key>
-					<false/>
-					<key>Find</key>
-					<data>
-					RUhDMg==
-					</data>
-					<key>Replace</key>
-					<data>
-					RUgwMg==
-					</data>
-				</dict>
-				<dict>
-					<key>Comment</key>
-					<string>change MEI to IMEI</string>
-					<key>Disabled</key>
-					<false/>
-					<key>Find</key>
-					<data>
-					TUVJXw==
-					</data>
-					<key>Replace</key>
-					<data>
-					SU1FSQ==
-					</data>
-				</dict>
-				<dict>
-					<key>Comment</key>
 					<string>change _OSI to XOSI</string>
 					<key>Disabled</key>
 					<true/>
 					<key>Find</key>
-					<data>
-					X09TSQ==
-					</data>
+					<data>X09TSQ==</data>
 					<key>Replace</key>
-					<data>
-					WE9TSQ==
-					</data>
+					<data>WE9TSQ==</data>
+				</dict>
+				<dict>
+					<key>Comment</key>
+					<string>change EHC1 to EH01</string>
+					<key>Find</key>
+					<data>RUhDMQ==</data>
+					<key>Replace</key>
+					<data>RUgwMQ==</data>
+				</dict>
+				<dict>
+					<key>Comment</key>
+					<string>change EHC2 to EH02</string>
+					<key>Find</key>
+					<data>RUhDMg==</data>
+					<key>Replace</key>
+					<data>RUgwMg==</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
 					<string>change HDAS to HDEF</string>
-					<key>Disabled</key>
-					<false/>
 					<key>Find</key>
-					<data>
-					SERBUw==
-					</data>
+					<data>SERBUw==</data>
 					<key>Replace</key>
-					<data>
-					SERFRg==
-					</data>
+					<data>SERFRg==</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
 					<string>change HECI to IMEI</string>
-					<key>Disabled</key>
-					<false/>
 					<key>Find</key>
-					<data>
-					SEVDSQ==
-					</data>
+					<data>SEVDSQ==</data>
 					<key>Replace</key>
-					<data>
-					SU1FSQ==
-					</data>
+					<data>SU1FSQ==</data>
+				</dict>
+				<dict>
+					<key>Comment</key>
+					<string>change MEI to IMEI</string>
+					<key>Find</key>
+					<data>TUVJXw==</data>
+					<key>Replace</key>
+					<data>SU1FSQ==</data>
 				</dict>
 			</array>
-			<key>ReuseFFFF</key>
-			<false/>
 		</dict>
 		<key>DropTables</key>
 		<array>
@@ -118,12 +82,58 @@
 				<string>DMAR</string>
 			</dict>
 		</array>
+		<key>#DropTables</key>
+		<array>
+			<dict>
+				<key>Signature</key>
+				<string>MCFG</string>
+			</dict>
+			<dict>
+				<key>Signature</key>
+				<string>DMAR</string>
+			</dict>
+			<dict>
+				<key>Signature</key>
+				<string>SSDT</string>
+				<key>TableId</key>
+				<string>CpuPm</string>
+			</dict>
+			<dict>
+				<key>Signature</key>
+				<string>SSDT</string>
+				<key>TableId</key>
+				<string>Cpu0Cst</string>
+			</dict>
+			<dict>
+				<key>Signature</key>
+				<string>SSDT</string>
+				<key>TableId</key>
+				<string>Cpu0Ist</string>
+			</dict>
+			<dict>
+				<key>Signature</key>
+				<string>SSDT</string>
+				<key>TableId</key>
+				<string>ApCst</string>
+			</dict>
+			<dict>
+				<key>Signature</key>
+				<string>SSDT</string>
+				<key>TableId</key>
+				<string>ApIst</string>
+			</dict>
+		</array>
 		<key>SSDT</key>
 		<dict>
 			<key>DropOem</key>
-			<false/>
+			<true/>
 			<key>Generate</key>
-			<false/>
+			<dict>
+				<key>CStates</key>
+				<false/>
+				<key>PStates</key>
+				<false/>
+			</dict>
 			<key>PluginType</key>
 			<integer>1</integer>
 		</dict>
@@ -155,11 +165,11 @@
 	<key>Boot</key>
 	<dict>
 		<key>Arguments</key>
-		<string>-v dart=0 nv_disable=1 kext-dev-mode=1</string>
-		<key>Debug</key>
-		<false/>
+		<string>-v kext-dev-mode=1 dart=0 nv_disable=1</string>
 		<key>Legacy</key>
 		<string>LegacyBiosDefault</string>
+		<key>Log</key>
+		<false/>
 		<key>NeverHibernate</key>
 		<true/>
 		<key>Secure</key>
@@ -171,15 +181,19 @@
 	</dict>
 	<key>CPU</key>
 	<dict>
+		<key>C4</key>
+		<true/>
+		<key>C6</key>
+		<true/>
 		<key>UseARTFrequency</key>
 		<false/>
 	</dict>
 	<key>Devices</key>
 	<dict>
-		<key>FakeID</key>
+		<key>Audio</key>
 		<dict>
-			<key>IntelGFX</key>
-			<string>0x191B0000</string>
+			<key>Inject</key>
+			<string>1</string>
 		</dict>
 		<key>USB</key>
 		<dict>
@@ -212,17 +226,19 @@
 					<false/>
 					<key>NoCaches</key>
 					<false/>
-					<key>Type</key>
+				<key>Type</key>
 					<string>Other</string>
 				</dict>
 			</array>
 		</dict>
+		<key>Language</key>
+		<string>it:0</string>
 		<key>Mouse</key>
 		<dict>
 			<key>DoubleClick</key>
 			<integer>500</integer>
 			<key>Enabled</key>
-			<false/>
+			<true/>
 			<key>Mirror</key>
 			<false/>
 			<key>Speed</key>
@@ -239,6 +255,8 @@
 			<key>Tool</key>
 			<true/>
 		</dict>
+		<key>ScreenResolution</key>
+		<string>1920x1080</string>
 		<key>Theme</key>
 		<string>ios7</string>
 	</dict>
@@ -256,7 +274,7 @@
 		<key>NvidiaSingle</key>
 		<false/>
 		<key>ig-platform-id</key>
-		<string>0x191B0000</string>
+		<string>0x191b0000</string>
 	</dict>
 	<key>KernelAndKextPatches</key>
 	<dict>
@@ -282,54 +300,6 @@
 		<array>
 			<dict>
 				<key>Comment</key>
-				<string>Disable minStolenSize less or equal fStolenMemorySize assertion, 10.11.4 ( (based on Austere.J patch)</string>
-				<key>Disabled</key>
-				<true/>
-				<key>Find</key>
-				<data>
-				QTnEdio=
-				</data>
-				<key>Name</key>
-				<string>AppleIntelSKLGraphicsFramebuffer</string>
-				<key>Replace</key>
-				<data>
-				QTnE6yo=
-				</data>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string>10.11-SKL-1912000-4_displays</string>
-				<key>Disabled</key>
-				<false/>
-				<key>Find</key>
-				<data>
-				AQMDAw==
-				</data>
-				<key>Name</key>
-				<string>AppleIntelSKLGraphicsFramebuffer</string>
-				<key>Replace</key>
-				<data>
-				AQMEAw==
-				</data>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string>Boot graphics glitch, 10.10.x/10.11.x (credit lisai9093, cecekpawon)</string>
-				<key>Disabled</key>
-				<true/>
-				<key>Find</key>
-				<data>
-				AQAAdRc=
-				</data>
-				<key>Name</key>
-				<string>IOGraphicsFamily</string>
-				<key>Replace</key>
-				<data>
-				AQAA6xc=
-				</data>
-			</dict>
-			<dict>
-				<key>Comment</key>
 				<string>Enable TRIM for SSD</string>
 				<key>Disabled</key>
 				<false/>
@@ -344,6 +314,22 @@
 				AAAAAAAAAAAAAAA=
 				</data>
 			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>Boot graphics glitch, 10.10.x/10.11.x (credit lisai9093, cecekpawon)</string>
+				<key>Disabled</key>
+				<false/>
+				<key>Find</key>
+				<data>
+				AQAAdRc=
+				</data>
+				<key>Name</key>
+				<string>IOGraphicsFamily</string>
+				<key>Replace</key>
+				<data>
+				AQAA6xc=
+				</data>
+			</dict>
 		</array>
 	</dict>
 	<key>RtVariables</key>
@@ -352,35 +338,41 @@
 		<string>0x28</string>
 		<key>CsrActiveConfig</key>
 		<string>0x67</string>
+		<key>MLB</key>
+		<string>2349</string>
+		<key>ROM</key>
+		<string>UseMacAddr0</string>
 	</dict>
 	<key>SMBIOS</key>
 	<dict>
 		<key>BiosReleaseDate</key>
-		<string>09/03/2013</string>
+		<string>10/18/13</string>
 		<key>BiosVendor</key>
 		<string>Apple Inc.</string>
 		<key>BiosVersion</key>
-		<string>IM142.88Z.0118.B00.1309031249</string>
+		<string>MBP112.88Z.0138.B02.1310181745</string>
 		<key>Board-ID</key>
-		<string>Mac-27ADBB7B4CEE8E61</string>
+		<string>Mac-3CBD00234E554E41</string>
 		<key>BoardManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>BoardType</key>
 		<integer>10</integer>
 		<key>ChassisAssetTag</key>
-		<string>iMac-Aluminum</string>
+		<string>MacBook-Aluminum</string>
 		<key>ChassisManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>ChassisType</key>
-		<string>13</string>
+		<string>08</string>
 		<key>Family</key>
-		<string>iMac</string>
+		<string>MacBook Pro</string>
 		<key>Manufacturer</key>
 		<string>Apple Inc.</string>
+		<key>Mobile</key>
+		<true/>
 		<key>ProductName</key>
-		<string>iMac14,2</string>
+		<string>MacBookPro11,2</string>
 		<key>SerialNumber</key>
-		<string>C02LGE6UF8JC</string>
+		<string>C02LV67QFD56</string>
 		<key>Trust</key>
 		<false/>
 		<key>Version</key>
@@ -389,7 +381,9 @@
 	<key>SystemParameters</key>
 	<dict>
 		<key>InjectKexts</key>
-		<string>Detect</string>
+		<string>Yes</string>
+		<key>InjectSystemID</key>
+		<true/>
 	</dict>
 </dict>
 </plist>
