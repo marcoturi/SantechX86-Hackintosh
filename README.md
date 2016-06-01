@@ -12,6 +12,16 @@ Repo for SantechX86 hackintosh. In development.
 	- FIX IRQ
 	- FIX HPET
 	- HDEF patch (In reality it is HDES) patch for layout id 3
+	- Shutdown 2
+	- OS check FIX
+	- System Mutex
+	- ADP1 patch
+
 
 Issue:
-Keyboard backlight, HDMI, USB ?
+Keyboard backlight, HDMI, 
+To search:
+search SMBUS 
+kernel log about EHCI or UHCI -> USB
+Wake reason
+
