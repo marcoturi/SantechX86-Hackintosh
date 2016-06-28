@@ -12,39 +12,13 @@
 			<false/>
 			<key>Fixes</key>
 			<dict>
+				<key>FixRegions_10000000</key>
+				<true/>
 				<key>NewWay_80000000</key>
 				<true/>
 			</dict>
 			<key>Patches</key>
 			<array>
-				<dict>
-					<key>Comment</key>
-					<string>change HDAS to HDEF</string>
-					<key>Disabled</key>
-					<false/>
-					<key>Find</key>
-					<data>
-					SERBUw==
-					</data>
-					<key>Replace</key>
-					<data>
-					SERFRg==
-					</data>
-				</dict>
-				<dict>
-					<key>Comment</key>
-					<string>change HECI to IMEI</string>
-					<key>Disabled</key>
-					<false/>
-					<key>Find</key>
-					<data>
-					SEVDSQ==
-					</data>
-					<key>Replace</key>
-					<data>
-					SU1FSQ==
-					</data>
-				</dict>
 				<dict>
 					<key>Comment</key>
 					<string>change EHC1 to EH01</string>
@@ -85,6 +59,34 @@
 					<key>Replace</key>
 					<data>
 					WE9TSQ==
+					</data>
+				</dict>
+				<dict>
+					<key>Comment</key>
+					<string>change HECI to IMEI</string>
+					<key>Disabled</key>
+					<false/>
+					<key>Find</key>
+					<data>
+					SEVDSQ==
+					</data>
+					<key>Replace</key>
+					<data>
+					SU1FSQ==
+					</data>
+				</dict>
+				<dict>
+					<key>Comment</key>
+					<string>change HDAS to HDEF</string>
+					<key>Disabled</key>
+					<false/>
+					<key>Find</key>
+					<data>
+					SERBUw==
+					</data>
+					<key>Replace</key>
+					<data>
+					SERFRg==
 					</data>
 				</dict>
 				<dict>
@@ -170,10 +172,15 @@
 	<key>CPU</key>
 	<dict>
 		<key>UseARTFrequency</key>
-		<false/>
+		<true/>
 	</dict>
 	<key>Devices</key>
 	<dict>
+		<key>FakeID</key>
+		<dict>
+			<key>WIFI</key>
+			<string>0x43a014E4</string>
+		</dict>
 		<key>USB</key>
 		<dict>
 			<key>AddClockID</key>
@@ -281,38 +288,6 @@
 		<array>
 			<dict>
 				<key>Comment</key>
-				<string>Patching 11d41984 with 10ec0269 codec</string>
-				<key>Disabled</key>
-				<false/>
-				<key>Find</key>
-				<data>
-				hBnUEQ==
-				</data>
-				<key>Name</key>
-				<string>AppleHDA</string>
-				<key>Replace</key>
-				<data>
-				aQLsEA==
-				</data>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string>10.11-SKL-1912000-4_displays</string>
-				<key>Disabled</key>
-				<false/>
-				<key>Find</key>
-				<data>
-				AQMDAw==
-				</data>
-				<key>Name</key>
-				<string>AppleIntelSKLGraphicsFramebuffer</string>
-				<key>Replace</key>
-				<data>
-				AQMEAw==
-				</data>
-			</dict>
-			<dict>
-				<key>Comment</key>
 				<string>HDMI patch</string>
 				<key>Disabled</key>
 				<false/>
@@ -325,22 +300,6 @@
 				<key>Replace</key>
 				<data>
 				AwYKAAAIAACHAQAA
-				</data>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string>Boot graphics glitch, 10.10.x/10.11.x (credit lisai9093, cecekpawon)</string>
-				<key>Disabled</key>
-				<false/>
-				<key>Find</key>
-				<data>
-				AQAAdRc=
-				</data>
-				<key>Name</key>
-				<string>IOGraphicsFamily</string>
-				<key>Replace</key>
-				<data>
-				AQAA6xc=
 				</data>
 			</dict>
 			<dict>
@@ -377,18 +336,34 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
-				<string>Increase 15 port limit to 30 in AppleUSBXHCIPCI</string>
+				<string>10.11-BT4LE-Handoff-Hotspot-lisai9093</string>
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
 				<data>
-				g72M/v//EA==
+				SIX/dEdIiwc=
 				</data>
 				<key>Name</key>
-				<string>AppleUSBXHCIPCI</string>
+				<string>IOBluetoothFamily</string>
 				<key>Replace</key>
 				<data>
-				g72M/v//Hw==
+				Qb4PAAAA60Q=
+				</data>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>Zeroing 11d41983 codec</string>
+				<key>Disabled</key>
+				<false/>
+				<key>Find</key>
+				<data>
+				gxnUEQ==
+				</data>
+				<key>Name</key>
+				<string>AppleHDA</string>
+				<key>Replace</key>
+				<data>
+				AAAAAA==
 				</data>
 			</dict>
 			<dict>
@@ -409,18 +384,98 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
-				<string>Zeroing 11d41983 codec</string>
+				<string>Boot graphics glitch, 10.10.x/10.11.x (credit lisai9093, cecekpawon)</string>
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
 				<data>
-				gxnUEQ==
+				AQAAdRc=
+				</data>
+				<key>Name</key>
+				<string>IOGraphicsFamily</string>
+				<key>Replace</key>
+				<data>
+				AQAA6xc=
+				</data>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>10.11-SKL-1912000-4_displays</string>
+				<key>Disabled</key>
+				<false/>
+				<key>Find</key>
+				<data>
+				AQMDAw==
+				</data>
+				<key>Name</key>
+				<string>AppleIntelSKLGraphicsFramebuffer</string>
+				<key>Replace</key>
+				<data>
+				AQMEAw==
+				</data>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>Patching 11d41984 with 10ec0269 codec</string>
+				<key>Disabled</key>
+				<false/>
+				<key>Find</key>
+				<data>
+				hBnUEQ==
 				</data>
 				<key>Name</key>
 				<string>AppleHDA</string>
 				<key>Replace</key>
 				<data>
-				AAAAAA==
+				aQLsEA==
+				</data>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>10.11-BCM94352-Airport-Extreme</string>
+				<key>Disabled</key>
+				<false/>
+				<key>Find</key>
+				<data>
+				axAAAHUN
+				</data>
+				<key>Name</key>
+				<string>AirPortBrcm4360</string>
+				<key>Replace</key>
+				<data>
+				axAAAJCQ
+				</data>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>Increase 15 port limit to 30 in AppleUSBXHCIPCI</string>
+				<key>Disabled</key>
+				<false/>
+				<key>Find</key>
+				<data>
+				g72M/v//EA==
+				</data>
+				<key>Name</key>
+				<string>AppleUSBXHCIPCI</string>
+				<key>Replace</key>
+				<data>
+				g72M/v//Hw==
+				</data>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>10.11-BCM94352-5GHz-US-FCC-dv</string>
+				<key>Disabled</key>
+				<false/>
+				<key>Find</key>
+				<data>
+				QYP8/3QsSA==
+				</data>
+				<key>Name</key>
+				<string>AirPortBrcm4360</string>
+				<key>Replace</key>
+				<data>
+				ZscGVVPrKw==
 				</data>
 			</dict>
 		</array>
@@ -443,9 +498,9 @@
 		<key>BiosVendor</key>
 		<string>Apple Inc.</string>
 		<key>BiosVersion</key>
-		<string>MBP112.88Z.0138.B02.1310181745</string>
+		<string>MBP112.88Z.0138.B02.1310100745</string>
 		<key>Board-ID</key>
-		<string>Mac-*****</string>
+		<string>Mac-3CBD00234E004E41</string>
 		<key>BoardManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>BoardType</key>
@@ -465,7 +520,7 @@
 		<key>ProductName</key>
 		<string>MacBookPro11,2</string>
 		<key>SerialNumber</key>
-		<string>C02L*****6</string>
+		<string>C02LV67QFD00</string>
 		<key>Trust</key>
 		<false/>
 		<key>Version</key>

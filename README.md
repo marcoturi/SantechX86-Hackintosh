@@ -39,7 +39,3 @@ Screen FHD 1920 x 1080
 	- OS check FIX
 	- System Mutex
 	- ADP1 patch
-
-
-Issue:
-Keyboard backlight
