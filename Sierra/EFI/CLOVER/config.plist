@@ -14,6 +14,8 @@
 			<dict>
 				<key>FixRegions_10000000</key>
 				<true/>
+				<key>FixShutdown_0004</key>
+				<true/>
 				<key>NewWay_80000000</key>
 				<true/>
 			</dict>
@@ -25,13 +27,9 @@
 					<key>Disabled</key>
 					<true/>
 					<key>Find</key>
-					<data>
-					X09TSQ==
-					</data>
+					<data>X09TSQ==</data>
 					<key>Replace</key>
-					<data>
-					WE9TSQ==
-					</data>
+					<data>WE9TSQ==</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -39,13 +37,9 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>
-					RUhDMQ==
-					</data>
+					<data>RUhDMQ==</data>
 					<key>Replace</key>
-					<data>
-					RUgwMQ==
-					</data>
+					<data>RUgwMQ==</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -53,13 +47,9 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>
-					RUhDMg==
-					</data>
+					<data>RUhDMg==</data>
 					<key>Replace</key>
-					<data>
-					RUgwMg==
-					</data>
+					<data>RUgwMg==</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -67,13 +57,9 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>
-					SERBUw==
-					</data>
+					<data>SERBUw==</data>
 					<key>Replace</key>
-					<data>
-					SERFRg==
-					</data>
+					<data>SERFRg==</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -81,13 +67,9 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>
-					SEVDSQ==
-					</data>
+					<data>SEVDSQ==</data>
 					<key>Replace</key>
-					<data>
-					SU1FSQ==
-					</data>
+					<data>SU1FSQ==</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -95,13 +77,9 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>
-					TUVJXw==
-					</data>
+					<data>TUVJXw==</data>
 					<key>Replace</key>
-					<data>
-					SU1FSQ==
-					</data>
+					<data>SU1FSQ==</data>
 				</dict>
 			</array>
 			<key>ReuseFFFF</key>
@@ -212,6 +190,8 @@
 				</dict>
 			</array>
 		</dict>
+		<key>Language</key>
+		<string>it:0</string>
 		<key>Mouse</key>
 		<dict>
 			<key>DoubleClick</key>
@@ -228,14 +208,16 @@
 			<key>Entries</key>
 			<true/>
 			<key>Legacy</key>
-			<true/>
-			<key>Linux</key>
 			<false/>
-			<key>Tool</key>
+			<key>Linux</key>
 			<true/>
+			<key>Tool</key>
+			<false/>
 		</dict>
+		<key>ScreenResolution</key>
+		<string>1920x1080</string>
 		<key>Theme</key>
-		<string>Bluemac</string>
+		<string>ios7</string>
 	</dict>
 	<key>Graphics</key>
 	<dict>
@@ -277,165 +259,17 @@
 		<array>
 			<dict>
 				<key>Comment</key>
-				<string>VGA to HDMI framebuffer@2</string>
-				<key>Disabled</key>
-				<true/>
-				<key>Find</key>
-				<data>
-				AgQKAAAEAACHAQAA
-				</data>
-				<key>Name</key>
-				<string>AppleIntelSKLGraphicsFramebuffer</string>
-				<key>Replace</key>
-				<data>
-				AgQKAAAIAACHAQAA
-				</data>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string>Disable minStolenSize less or equal fStolenMemorySize assertion, 10.11.4 ( (based on Austere.J patch)</string>
-				<key>Disabled</key>
-				<true/>
-				<key>Find</key>
-				<data>
-				QTnEdio=
-				</data>
-				<key>Name</key>
-				<string>AppleIntelSKLGraphicsFramebuffer</string>
-				<key>Replace</key>
-				<data>
-				QTnE6yo=
-				</data>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string>10.11-BT4LE-Handoff-Hotspot-lisai9093</string>
-				<key>Disabled</key>
-				<false/>
-				<key>Find</key>
-				<data>
-				SIX/dEdIiwc=
-				</data>
-				<key>Name</key>
-				<string>IOBluetoothFamily</string>
-				<key>Replace</key>
-				<data>
-				Qb4PAAAA60Q=
-				</data>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string>HDMI patch</string>
-				<key>Disabled</key>
-				<false/>
-				<key>Find</key>
-				<data>
-				/wAAAAEAAAAgAAAA
-				</data>
-				<key>Name</key>
-				<string>AppleIntelSKLGraphicsFramebuffer</string>
-				<key>Replace</key>
-				<data>
-				AwYKAAAIAACHAQAA
-				</data>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string>Boot graphics glitch, 10.10.x/10.11.x (credit lisai9093, cecekpawon)</string>
-				<key>Disabled</key>
-				<false/>
-				<key>Find</key>
-				<data>
-				AQAAdRc=
-				</data>
-				<key>Name</key>
-				<string>IOGraphicsFamily</string>
-				<key>Replace</key>
-				<data>
-				AQAA6xc=
-				</data>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string>10.11-BCM94352-Airport-Extreme</string>
-				<key>Disabled</key>
-				<false/>
-				<key>Find</key>
-				<data>
-				axAAAHUN
-				</data>
-				<key>Name</key>
-				<string>AirPortBrcm4360</string>
-				<key>Replace</key>
-				<data>
-				axAAAJCQ
-				</data>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string>AirPortBrcm4360 - fcvo</string>
-				<key>Disabled</key>
-				<false/>
-				<key>Find</key>
-				<data>
-				gflSqgAAdSk=
-				</data>
-				<key>Name</key>
-				<string>AirPortBrcm4360</string>
-				<key>Replace</key>
-				<data>
-				gflSqgAAZpA=
-				</data>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string>10.11-SKL-1912000-4_displays</string>
-				<key>Disabled</key>
-				<false/>
-				<key>Find</key>
-				<data>
-				AQMDAw==
-				</data>
-				<key>Name</key>
-				<string>AppleIntelSKLGraphicsFramebuffer</string>
-				<key>Replace</key>
-				<data>
-				AQMEAw==
-				</data>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string>10.11-BCM94352-5GHz-US-FCC-dv</string>
-				<key>Disabled</key>
-				<false/>
-				<key>Find</key>
-				<data>
-				QYP8/3QsSA==
-				</data>
-				<key>Name</key>
-				<string>AirPortBrcm4360</string>
-				<key>Replace</key>
-				<data>
-				ZscGVVPrKw==
-				</data>
-			</dict>
-			<dict>
-				<key>Comment</key>
 				<string>change 15 port limit to 26 in XHCI kext (100-series)</string>
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>
-				g710////EA==
-				</data>
+				<data>g710////EA==</data>
 				<key>MatchOS</key>
 				<string>10.12.x</string>
 				<key>Name</key>
 				<string>AppleUSBXHCIPCI</string>
 				<key>Replace</key>
-				<data>
-				g710////Gw==
-				</data>
+				<data>g710////Gw==</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -443,15 +277,119 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>
-				AEFQUExFIFNTRAA=
-				</data>
+				<data>AEFQUExFIFNTRAA=</data>
 				<key>Name</key>
 				<string>IOAHCIBlockStorage</string>
 				<key>Replace</key>
-				<data>
-				AAAAAAAAAAAAAAA=
-				</data>
+				<data>AAAAAAAAAAAAAAA=</data>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>10.11-SKL-1912000-4_displays</string>
+				<key>Disabled</key>
+				<false/>
+				<key>Find</key>
+				<data>AQMDAw==</data>
+				<key>Name</key>
+				<string>AppleIntelSKLGraphicsFramebuffer</string>
+				<key>Replace</key>
+				<data>AQMEAw==</data>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>10.11-BCM94352-5GHz-US-FCC-dv</string>
+				<key>Disabled</key>
+				<false/>
+				<key>Find</key>
+				<data>QYP8/3QsSA==</data>
+				<key>Name</key>
+				<string>AirPortBrcm4360</string>
+				<key>Replace</key>
+				<data>ZscGVVPrKw==</data>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>Disable minStolenSize less or equal fStolenMemorySize assertion, 10.11.4 ( (based on Austere.J patch)</string>
+				<key>Disabled</key>
+				<true/>
+				<key>Find</key>
+				<data>QTnEdio=</data>
+				<key>Name</key>
+				<string>AppleIntelSKLGraphicsFramebuffer</string>
+				<key>Replace</key>
+				<data>QTnE6yo=</data>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>VGA to HDMI framebuffer@2</string>
+				<key>Disabled</key>
+				<true/>
+				<key>Find</key>
+				<data>AgQKAAAEAACHAQAA</data>
+				<key>Name</key>
+				<string>AppleIntelSKLGraphicsFramebuffer</string>
+				<key>Replace</key>
+				<data>AgQKAAAIAACHAQAA</data>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>Boot graphics glitch, 10.10.x/10.11.x (credit lisai9093, cecekpawon)</string>
+				<key>Disabled</key>
+				<false/>
+				<key>Find</key>
+				<data>AQAAdRc=</data>
+				<key>Name</key>
+				<string>IOGraphicsFamily</string>
+				<key>Replace</key>
+				<data>AQAA6xc=</data>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>10.11-BT4LE-Handoff-Hotspot-lisai9093</string>
+				<key>Disabled</key>
+				<false/>
+				<key>Find</key>
+				<data>SIX/dEdIiwc=</data>
+				<key>Name</key>
+				<string>IOBluetoothFamily</string>
+				<key>Replace</key>
+				<data>Qb4PAAAA60Q=</data>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>HDMI patch</string>
+				<key>Disabled</key>
+				<false/>
+				<key>Find</key>
+				<data>/wAAAAEAAAAgAAAA</data>
+				<key>Name</key>
+				<string>AppleIntelSKLGraphicsFramebuffer</string>
+				<key>Replace</key>
+				<data>AwYKAAAIAACHAQAA</data>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>AirPortBrcm4360 - fcvo</string>
+				<key>Disabled</key>
+				<false/>
+				<key>Find</key>
+				<data>gflSqgAAdSk=</data>
+				<key>Name</key>
+				<string>AirPortBrcm4360</string>
+				<key>Replace</key>
+				<data>gflSqgAAZpA=</data>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>10.11-BCM94352-Airport-Extreme</string>
+				<key>Disabled</key>
+				<false/>
+				<key>Find</key>
+				<data>axAAAHUN</data>
+				<key>Name</key>
+				<string>AirPortBrcm4360</string>
+				<key>Replace</key>
+				<data>axAAAJCQ</data>
 			</dict>
 		</array>
 	</dict>
