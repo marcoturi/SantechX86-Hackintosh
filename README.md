@@ -29,6 +29,7 @@ Screen FHD 1920 x 1080
 - DSDT patch used:
 	- GFX0 to IGPU
 	- rename DSM to XDSM
+        -if you have problems after this patch, try to search for other reference of _DSM in the file, and change them to XDSM
 	- LAPIC for Skylake
 	- Implementation of M_On and M_Off in dsdt
 	- CPU power managment with pika's scripts
