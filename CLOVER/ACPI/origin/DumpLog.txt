@@ -1,0 +1,100 @@
+9:117  0:016  Found UEFI Acpi 2.0 RSDP at 67900000
+9:117  0:000  Saving ACPI tables from RSDP 67900000 to EFI\CLOVER\ACPI\origin ...
+9:117  0:000   67900000: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36 -> RSDP.aml
+9:133  0:016    (Xsdt: 67900098, Rsdt: 67900028)
+9:133  0:000    67900098: 'XSDT', 'A M I ', Rev: 1, Len: 180 -> XSDT.aml
+9:148  0:015    67900028: 'RSDT', 'A M I ', Rev: 1, Len: 108 -> RSDT.aml
+9:164  0:015    Tables in Xsdt: 18
+9:164  0:000    0. 67919780: 'FACP', 'A M I ', Rev: 5, Len: 268 -> FACP.aml
+9:180  0:016        (Dsdt: 679001E8, Facs: 67B8AF80, XDsdt: 679001E8, XFacs: 0)
+9:180  0:000        679001E8: 'DSDT', 'A M I ', Rev: 2, Len: 103827
+9:182  0:001        67B8AF80: 'FACS', Ver: 2, Len: 64 -> FACS.aml
+9:202  0:020    1. 67919890: 'APIC', 'A M I ', Rev: 3, Len: 188
+9:202  0:000    2. 67919950: 'FPDT', 'A M I ', Rev: 1, Len: 68
+9:202  0:000    3. 67919998: 'FIDT', 'A M I ', Rev: 1, Len: 156
+9:202  0:000    4. 67919A38: 'MCFG', 'A M I', Rev: 1, Len: 60
+9:202  0:000    5. 67919A78: 'HPET', 'A M I', Rev: 1, Len: 56
+9:202  0:000    6. 67919AB0: 'SSDT', 'SataTabl', Rev: 1, Len: 789
+9:202  0:000    7. 67919DC8: 'DBGP', '', Rev: 1, Len: 52
+9:202  0:000    8. 67919E00: 'DBG2', '', Rev: 0, Len: 84
+9:202  0:000    9. 67919E58: 'SSDT', 'SaSsdt ', Rev: 2, Len: 22574
+9:202  0:000    10. 6791F688: 'UEFI', '', Rev: 1, Len: 66
+9:202  0:000    11. 6791F6D0: 'SSDT', 'CpuSsdt', Rev: 2, Len: 3672
+9:202  0:000    12. 67920528: 'BGRT', 'A M I ', Rev: 1, Len: 56
+9:202  0:000    13. 67920560: 'SSDT', 'SgPeg', Rev: 2, Len: 159
+9:202  0:000    14. 67920600: 'DMAR', 'SKL ', Rev: 1, Len: 168
+9:202  0:000    15. 679206A8: 'TPM2', 'Tpm2Tabl', Rev: 3, Len: 52
+9:202  0:000    16. 679206E0: 'SSDT', 'OptTabl', Rev: 1, Len: 9019
+9:202  0:000    17. 67922A20: 'ASF!', ' HCG', Rev: 32, Len: 165
+9:202  0:000    Tables in Rsdt: 18
+9:202  0:000    0. 67900160: 'FACP', 'A M I ', Rev: 2, Len: 132
+9:202  0:000        (Dsdt: 679001E8, Facs: 67B8AF40)
+9:202  0:000        679001E8: 'DSDT', 'A M I ', Rev: 2, Len: 103827
+9:203  0:001        67B8AF40: 'FACS', Ver: 0, Len: 64
+9:203  0:000    1. 67919890: 'APIC', 'A M I ', Rev: 3, Len: 188
+9:203  0:000    2. 67919950: 'FPDT', 'A M I ', Rev: 1, Len: 68
+9:203  0:000    3. 67919998: 'FIDT', 'A M I ', Rev: 1, Len: 156
+9:203  0:000    4. 67919A38: 'MCFG', 'A M I', Rev: 1, Len: 60
+9:203  0:000    5. 67919A78: 'HPET', 'A M I', Rev: 1, Len: 56
+9:203  0:000    6. 67919AB0: 'SSDT', 'SataTabl', Rev: 1, Len: 789
+9:203  0:000    7. 67919DC8: 'DBGP', '', Rev: 1, Len: 52
+9:203  0:000    8. 67919E00: 'DBG2', '', Rev: 0, Len: 84
+9:203  0:000    9. 67919E58: 'SSDT', 'SaSsdt ', Rev: 2, Len: 22574
+9:203  0:000    10. 6791F688: 'UEFI', '', Rev: 1, Len: 66
+9:203  0:000    11. 6791F6D0: 'SSDT', 'CpuSsdt', Rev: 2, Len: 3672
+9:203  0:000    12. 67920528: 'BGRT', 'A M I ', Rev: 1, Len: 56
+9:203  0:000    13. 67920560: 'SSDT', 'SgPeg', Rev: 2, Len: 159
+9:203  0:000    14. 67920600: 'DMAR', 'SKL ', Rev: 1, Len: 168
+9:203  0:000    15. 679206A8: 'TPM2', 'Tpm2Tabl', Rev: 3, Len: 52
+9:203  0:000    16. 679206E0: 'SSDT', 'OptTabl', Rev: 1, Len: 9019
+9:203  0:000    17. 67922A20: 'ASF!', ' HCG', Rev: 32, Len: 165
+9:203  0:000  Found UEFI Acpi 1.0 RSDP at 67900000
+9:203  0:000  Printing ACPI tables from RSDP 67900000 ...
+9:203  0:000   67900000: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36
+9:203  0:000    (Xsdt: 67900098, Rsdt: 67900028)
+9:203  0:000    67900098: 'XSDT', 'A M I ', Rev: 1, Len: 180
+9:203  0:000    67900028: 'RSDT', 'A M I ', Rev: 1, Len: 108
+9:203  0:000    Tables in Xsdt: 18
+9:203  0:000    0. 67919780: 'FACP', 'A M I ', Rev: 5, Len: 268
+9:203  0:000        (Dsdt: 679001E8, Facs: 67B8AF80, XDsdt: 679001E8, XFacs: 0)
+9:203  0:000        679001E8: 'DSDT', 'A M I ', Rev: 2, Len: 103827
+9:205  0:001        67B8AF80: 'FACS', Ver: 2, Len: 64
+9:205  0:000    1. 67919890: 'APIC', 'A M I ', Rev: 3, Len: 188
+9:205  0:000    2. 67919950: 'FPDT', 'A M I ', Rev: 1, Len: 68
+9:205  0:000    3. 67919998: 'FIDT', 'A M I ', Rev: 1, Len: 156
+9:205  0:000    4. 67919A38: 'MCFG', 'A M I', Rev: 1, Len: 60
+9:205  0:000    5. 67919A78: 'HPET', 'A M I', Rev: 1, Len: 56
+9:205  0:000    6. 67919AB0: 'SSDT', 'SataTabl', Rev: 1, Len: 789
+9:205  0:000    7. 67919DC8: 'DBGP', '', Rev: 1, Len: 52
+9:205  0:000    8. 67919E00: 'DBG2', '', Rev: 0, Len: 84
+9:205  0:000    9. 67919E58: 'SSDT', 'SaSsdt ', Rev: 2, Len: 22574
+9:205  0:000    10. 6791F688: 'UEFI', '', Rev: 1, Len: 66
+9:205  0:000    11. 6791F6D0: 'SSDT', 'CpuSsdt', Rev: 2, Len: 3672
+9:205  0:000    12. 67920528: 'BGRT', 'A M I ', Rev: 1, Len: 56
+9:205  0:000    13. 67920560: 'SSDT', 'SgPeg', Rev: 2, Len: 159
+9:205  0:000    14. 67920600: 'DMAR', 'SKL ', Rev: 1, Len: 168
+9:205  0:000    15. 679206A8: 'TPM2', 'Tpm2Tabl', Rev: 3, Len: 52
+9:205  0:000    16. 679206E0: 'SSDT', 'OptTabl', Rev: 1, Len: 9019
+9:205  0:000    17. 67922A20: 'ASF!', ' HCG', Rev: 32, Len: 165
+9:205  0:000    Tables in Rsdt: 18
+9:205  0:000    0. 67900160: 'FACP', 'A M I ', Rev: 2, Len: 132
+9:205  0:000        (Dsdt: 679001E8, Facs: 67B8AF40)
+9:205  0:000        679001E8: 'DSDT', 'A M I ', Rev: 2, Len: 103827
+9:206  0:001        67B8AF40: 'FACS', Ver: 0, Len: 64
+9:206  0:000    1. 67919890: 'APIC', 'A M I ', Rev: 3, Len: 188
+9:206  0:000    2. 67919950: 'FPDT', 'A M I ', Rev: 1, Len: 68
+9:206  0:000    3. 67919998: 'FIDT', 'A M I ', Rev: 1, Len: 156
+9:206  0:000    4. 67919A38: 'MCFG', 'A M I', Rev: 1, Len: 60
+9:206  0:000    5. 67919A78: 'HPET', 'A M I', Rev: 1, Len: 56
+9:206  0:000    6. 67919AB0: 'SSDT', 'SataTabl', Rev: 1, Len: 789
+9:206  0:000    7. 67919DC8: 'DBGP', '', Rev: 1, Len: 52
+9:206  0:000    8. 67919E00: 'DBG2', '', Rev: 0, Len: 84
+9:206  0:000    9. 67919E58: 'SSDT', 'SaSsdt ', Rev: 2, Len: 22574
+9:206  0:000    10. 6791F688: 'UEFI', '', Rev: 1, Len: 66
+9:206  0:000    11. 6791F6D0: 'SSDT', 'CpuSsdt', Rev: 2, Len: 3672
+9:206  0:000    12. 67920528: 'BGRT', 'A M I ', Rev: 1, Len: 56
+9:206  0:000    13. 67920560: 'SSDT', 'SgPeg', Rev: 2, Len: 159
+9:206  0:000    14. 67920600: 'DMAR', 'SKL ', Rev: 1, Len: 168
+9:206  0:000    15. 679206A8: 'TPM2', 'Tpm2Tabl', Rev: 3, Len: 52
+9:206  0:000    16. 679206E0: 'SSDT', 'OptTabl', Rev: 1, Len: 9019
+9:206  0:000    17. 67922A20: 'ASF!', ' HCG', Rev: 32, Len: 165

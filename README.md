@@ -2,20 +2,16 @@
 Repo for SantechX86 hackintosh. 
 
 #Laptop Specs
-Santech x86 
-Mobo: Clevo N15/17RD 
-CPU: i7-6700HQ + HM170 
-RAM: 16 GB (8x2 DDR3-1600) 
-Graphics: HD 530 + Geforce 960M 
-Audio: ALC269 
-Wifi: Intel Dual Band Wireless-AC 8260 
-SSD: Samsung SSD 850 EVO 500GB (Mac Partition) + NVMe SAMSUNG MZVPV512 (Windows) 
-Screen FHD 1920 x 1080
-1xVGA 1xDP 1xHDMI
-
-# App version
-- Mac Os 10.11.6
-- Clover v2.3k r3543
+- Santech x86 
+- Mobo: Clevo N15/17RD 
+- CPU: i7-6700HQ + HM170 
+- RAM: 16 GB (8x2 DDR3-1600) 
+- Graphics: HD 530 + Geforce 960M 
+- Audio: ALC269 
+- Wifi: Intel Dual Band Wireless-AC 8260 
+- SSD: Samsung SSD 850 EVO 500GB (Mac Partition) + NVMe SAMSUNG MZVPV512 (Windows) 
+- Screen FHD 1920 x 1080
+- 1xVGA 1xDP 1xHDMI
 
 # Post-Instll
 - Use the realtek 8111 2.2.1 from Multibeast -> Don't use rehab version as it doesn't work
@@ -39,12 +35,6 @@ Screen FHD 1920 x 1080
 	- System Mutex
 	- ADP1 patch
 
-#Info on monitors framebuffers
-Internal Monitor framebuffer@0
-DP (never worked, but i suppose framebuffer@1),
-VGA framebuffer@2,
-HDMI framebuffer@3
-
 #USB
 - HS01@14100000: left usb3 #2
 - HS02@14200000: right usb3
@@ -60,9 +50,12 @@ Those port get actived aumatically using an usb hub (??)
 - SS05
 - SS02
 
-- HS00-HS14
-- SS01-SS10
-- USR1-2
+#Info on monitors framebuffers
+- Internal Monitor framebuffer@0
+- DP (never worked, but i suppose framebuffer@1),
+- VGA framebuffer@2,
+- HDMI framebuffer@3
+
 
 #Sierra 12.0 - framebuffer
 - @0 (LVDS) 00 00 08 00 02 00 00 00 98 00 00 00
