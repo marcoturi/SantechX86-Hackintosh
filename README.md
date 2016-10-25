@@ -20,6 +20,9 @@ Repo for SantechX86 hackintosh.
 - Audio is working with mirone patch. Use DSDT patch + aDummyHDA.kext (ALC269VC v3)
 - If after boot you notice that power status is not displaying + ethernet not working + instead of power off the system re-boot -> you need to power off the computer + boot without any phisic port used (USB, Ethernet, ecc.) -> I found that the solution to KP on boot is to always boot without any HW attached to the notebook.
 - Remember that for 10.11.6 you CAN'T BOOT with HDMI or VGA plugged. You need to plug them after booting. See -> http://www.tonymacx86.com/threads/skylake-intel-hd-530-integrated-graphics-working-as-of-10-11-4.188891/page-23
+- Disable the Airport extreme patch if using FAKEPCID
+    - Changing locale US = 55 53 IT = 49 54 -> 66C7065553EB2B -> 66C7064954EB2B
+    - 
 - DSDT patch used:
 	- GFX0 to IGPU
 	- rename DSM to XDSM
