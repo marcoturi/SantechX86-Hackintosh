@@ -1,0 +1,1072 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9b7338d6-7dc2-4429-81a3-abca111bd63d" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Info.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/MacOS/AppleHDA" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/PlugIns/AppleHDAController.kext/Contents/Info.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/PlugIns/AppleHDAController.kext/Contents/MacOS/AppleHDAController" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/PlugIns/AppleHDAController.kext/Contents/_CodeSignature/CodeResources" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/PlugIns/AppleHDAController.kext/Contents/version.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/PlugIns/AppleHDAHALPlugIn.bundle/Contents/Info.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/PlugIns/AppleHDAHALPlugIn.bundle/Contents/MacOS/AppleHDAHALPlugIn" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/PlugIns/AppleHDAHALPlugIn.bundle/Contents/_CodeSignature/CodeResources" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/PlugIns/AppleHDAHALPlugIn.bundle/Contents/version.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/PlugIns/AppleHDAHardwareConfigDriver.kext/Contents/Info.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/PlugIns/AppleHDAHardwareConfigDriver.kext/Contents/MacOS/AppleHDAHardwareConfigDriver" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/PlugIns/AppleHDAHardwareConfigDriver.kext/Contents/_CodeSignature/CodeResources" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/PlugIns/AppleHDAHardwareConfigDriver.kext/Contents/version.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/PlugIns/AppleMikeyDriver.kext/Contents/Info.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/PlugIns/AppleMikeyDriver.kext/Contents/MacOS/AppleMikeyDriver" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/PlugIns/AppleMikeyDriver.kext/Contents/_CodeSignature/CodeResources" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/PlugIns/AppleMikeyDriver.kext/Contents/version.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/PlugIns/DspFuncLib.kext/Contents/Info.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/PlugIns/DspFuncLib.kext/Contents/MacOS/DspFuncLib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/PlugIns/DspFuncLib.kext/Contents/_CodeSignature/CodeResources" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/PlugIns/DspFuncLib.kext/Contents/version.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/PlugIns/IOHDAFamily.kext/Contents/Info.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/PlugIns/IOHDAFamily.kext/Contents/MacOS/IOHDAFamily" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/PlugIns/IOHDAFamily.kext/Contents/_CodeSignature/CodeResources" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/PlugIns/IOHDAFamily.kext/Contents/version.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/Dutch.lproj/Localizable.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/English.lproj/Localizable.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/French.lproj/Localizable.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/German.lproj/Localizable.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/Italian.lproj/Localizable.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/Japanese.lproj/Localizable.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/Platforms.xml.zlib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/Spanish.lproj/Localizable.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/ar.lproj/Localizable.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/ca.lproj/Localizable.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/cs.lproj/Localizable.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/da.lproj/Localizable.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/el.lproj/Localizable.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/es_MX.lproj/Localizable.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/fi.lproj/Localizable.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/he.lproj/Localizable.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/hr.lproj/Localizable.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/hu.lproj/Localizable.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/id.lproj/Localizable.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/ko.lproj/Localizable.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/layout0.xml.zlib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/layout1.xml.zlib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/layout10.xml.zlib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/layout100.xml.zlib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/layout101.xml.zlib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/layout107.xml.zlib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/layout108.xml.zlib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/layout11.xml.zlib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/layout113.xml.zlib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/layout114.xml.zlib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/layout12.xml.zlib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/layout120.xml.zlib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/layout121.xml.zlib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/layout122.xml.zlib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/layout123.xml.zlib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/layout124.xml.zlib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/layout125.xml.zlib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/layout126.xml.zlib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/layout127.xml.zlib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/layout128.xml.zlib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/layout129.xml.zlib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/layout13.xml.zlib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/layout130.xml.zlib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/layout131.xml.zlib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/layout16392.xml.zlib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/layout16394.xml.zlib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/layout17.xml.zlib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/layout18.xml.zlib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/layout19.xml.zlib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/layout2.xml.zlib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/layout20.xml.zlib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/layout21.xml.zlib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/layout24.xml.zlib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/layout27.xml.zlib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/layout28.xml.zlib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/layout29.xml.zlib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/layout3.xml.zlib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/layout31.xml.zlib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/layout32.xml.zlib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/layout33.xml.zlib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/layout35.xml.zlib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/layout36.xml.zlib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/layout38.xml.zlib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/layout39.xml.zlib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/layout4.xml.zlib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/layout40.xml.zlib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/layout42.xml.zlib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/layout44.xml.zlib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/layout46.xml.zlib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/layout48.xml.zlib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/layout5.xml.zlib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/layout50.xml.zlib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/layout51.xml.zlib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/layout53.xml.zlib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/layout54.xml.zlib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/layout55.xml.zlib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/layout56.xml.zlib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/layout58.xml.zlib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/layout59.xml.zlib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/layout6.xml.zlib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/layout60.xml.zlib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/layout61.xml.zlib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/layout62.xml.zlib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/layout63.xml.zlib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/layout64.xml.zlib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/layout65.xml.zlib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/layout66.xml.zlib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/layout67.xml.zlib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/layout69.xml.zlib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/layout7.xml.zlib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/layout70.xml.zlib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/layout71.xml.zlib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/layout72.xml.zlib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/layout73.xml.zlib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/layout74.xml.zlib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/layout75.xml.zlib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/layout76.xml.zlib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/layout77.xml.zlib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/layout78.xml.zlib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/layout79.xml.zlib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/layout80.xml.zlib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/layout81.xml.zlib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/layout82.xml.zlib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/layout83.xml.zlib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/layout84.xml.zlib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/layout85.xml.zlib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/layout86.xml.zlib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/layout88.xml.zlib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/layout9.xml.zlib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/layout90.xml.zlib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/layout91.xml.zlib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/layout92.xml.zlib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/layout93.xml.zlib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/layout94.xml.zlib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/layout95.xml.zlib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/layout98.xml.zlib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/layout99.xml.zlib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/ms.lproj/Localizable.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/no.lproj/Localizable.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/pl.lproj/Localizable.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/pt.lproj/Localizable.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/pt_PT.lproj/Localizable.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/ro.lproj/Localizable.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/ru.lproj/Localizable.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/sk.lproj/Localizable.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/sv.lproj/Localizable.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/th.lproj/Localizable.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/tr.lproj/Localizable.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/uk.lproj/Localizable.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/vi.lproj/Localizable.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/zh_CN.lproj/Localizable.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/Resources/zh_TW.lproj/Localizable.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/_CodeSignature/CodeResources" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Audio/Kext Backups/31-05 15_19_13/AppleHDA.kext/Contents/version.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BCM4352/RehabMan-BrcmPatchRAM-2016-0621.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BCM4352/RehabMan-FakePCIID-2016-0512.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BCM4352/To Install/BrcmFirmwareData.kext/Contents/Info.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BCM4352/To Install/BrcmFirmwareData.kext/Contents/MacOS/BrcmFirmwareData" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BCM4352/To Install/BrcmFirmwareRepo.kext/Contents/Info.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BCM4352/To Install/BrcmFirmwareRepo.kext/Contents/MacOS/BrcmFirmwareRepo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BCM4352/To Install/BrcmFirmwareRepo.kext/Contents/Resources/BCM20702A1_001.002.014.1443.1447_v5543.zhx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BCM4352/To Install/BrcmFirmwareRepo.kext/Contents/Resources/BCM20702A1_001.002.014.1443.1449_v5545.zhx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BCM4352/To Install/BrcmFirmwareRepo.kext/Contents/Resources/BCM20702A1_001.002.014.1443.1450_v5546.zhx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BCM4352/To Install/BrcmFirmwareRepo.kext/Contents/Resources/BCM20702A1_001.002.014.1443.1460_v5556.zhx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BCM4352/To Install/BrcmFirmwareRepo.kext/Contents/Resources/BCM20702A1_001.002.014.1443.1461_v5557.zhx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BCM4352/To Install/BrcmFirmwareRepo.kext/Contents/Resources/BCM20702A1_001.002.014.1443.1462_v5558.zhx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BCM4352/To Install/BrcmFirmwareRepo.kext/Contents/Resources/BCM20702A1_001.002.014.1443.1463_v5559.zhx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BCM4352/To Install/BrcmFirmwareRepo.kext/Contents/Resources/BCM20702A1_001.002.014.1443.1465_v5561.zhx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BCM4352/To Install/BrcmFirmwareRepo.kext/Contents/Resources/BCM20702A1_001.002.014.1443.1466_v5562.zhx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BCM4352/To Install/BrcmFirmwareRepo.kext/Contents/Resources/BCM20702A1_001.002.014.1443.1467_v5563.zhx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BCM4352/To Install/BrcmFirmwareRepo.kext/Contents/Resources/BCM20702A1_001.002.014.1443.1468_v5564.zhx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BCM4352/To Install/BrcmFirmwareRepo.kext/Contents/Resources/BCM20702A1_001.002.014.1443.1469_v5565.zhx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BCM4352/To Install/BrcmFirmwareRepo.kext/Contents/Resources/BCM20702A1_001.002.014.1443.1477_v5573.zhx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BCM4352/To Install/BrcmFirmwareRepo.kext/Contents/Resources/BCM20702A1_001.002.014.1443.1478_v5574.zhx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BCM4352/To Install/BrcmFirmwareRepo.kext/Contents/Resources/BCM20702A1_001.002.014.1443.1479_v5575.zhx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BCM4352/To Install/BrcmFirmwareRepo.kext/Contents/Resources/BCM20702A1_001.002.014.1443.1480_v5576.zhx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BCM4352/To Install/BrcmFirmwareRepo.kext/Contents/Resources/BCM20702A1_001.002.014.1443.1481_v5577.zhx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BCM4352/To Install/BrcmFirmwareRepo.kext/Contents/Resources/BCM20702A1_001.002.014.1443.1482_v5578.zhx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BCM4352/To Install/BrcmFirmwareRepo.kext/Contents/Resources/BCM20702A1_001.002.014.1443.1483_v5579.zhx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BCM4352/To Install/BrcmFirmwareRepo.kext/Contents/Resources/BCM20702A1_001.002.014.1443.1484_v5580.zhx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BCM4352/To Install/BrcmFirmwareRepo.kext/Contents/Resources/BCM20702A1_001.002.014.1443.1485_v5581.zhx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BCM4352/To Install/BrcmFirmwareRepo.kext/Contents/Resources/BCM20702A1_001.002.014.1443.1486_v5582.zhx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BCM4352/To Install/BrcmFirmwareRepo.kext/Contents/Resources/BCM20702A1_001.002.014.1443.1487_v5583.zhx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BCM4352/To Install/BrcmFirmwareRepo.kext/Contents/Resources/BCM20702A1_001.002.014.1443.1488_v5584.zhx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BCM4352/To Install/BrcmFirmwareRepo.kext/Contents/Resources/BCM20702A1_001.002.014.1443.1489_v5585.zhx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BCM4352/To Install/BrcmFirmwareRepo.kext/Contents/Resources/BCM20702A1_001.002.014.1443.1490_v5586.zhx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BCM4352/To Install/BrcmFirmwareRepo.kext/Contents/Resources/BCM20702A1_001.002.014.1443.1492_v5588.zhx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BCM4352/To Install/BrcmFirmwareRepo.kext/Contents/Resources/BCM20702A1_001.002.014.1443.1493_v5589.zhx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BCM4352/To Install/BrcmFirmwareRepo.kext/Contents/Resources/BCM20702A1_001.002.014.1443.1494_v5590.zhx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BCM4352/To Install/BrcmFirmwareRepo.kext/Contents/Resources/BCM20702A1_001.002.014.1443.1499_v5595.zhx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BCM4352/To Install/BrcmFirmwareRepo.kext/Contents/Resources/BCM20702A1_001.002.014.1443.1501_v5597.zhx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BCM4352/To Install/BrcmFirmwareRepo.kext/Contents/Resources/BCM20702A1_001.002.014.1443.1502_v5598.zhx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BCM4352/To Install/BrcmFirmwareRepo.kext/Contents/Resources/BCM20702A1_001.002.014.1443.1521_v5617.zhx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BCM4352/To Install/BrcmFirmwareRepo.kext/Contents/Resources/BCM20702A1_001.002.014.1443.1532_v5628.zhx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BCM4352/To Install/BrcmFirmwareRepo.kext/Contents/Resources/BCM20702A1_001.002.014.1443.1572_v5668.zhx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BCM4352/To Install/BrcmFirmwareRepo.kext/Contents/Resources/BCM20702A1_001.002.014.1443.1714_v5810.zhx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BCM4352/To Install/BrcmFirmwareRepo.kext/Contents/Resources/BCM20702A1_001.002.014.1483.1651_v5747.zhx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BCM4352/To Install/BrcmFirmwareRepo.kext/Contents/Resources/BCM20702A1_001.002.014.1502.1757_v5853.zhx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BCM4352/To Install/BrcmFirmwareRepo.kext/Contents/Resources/BCM20702A1_001.002.014.1502.1758_v5854.zhx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BCM4352/To Install/BrcmFirmwareRepo.kext/Contents/Resources/BCM20702A1_001.002.014.1502.1759_v5855.zhx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BCM4352/To Install/BrcmFirmwareRepo.kext/Contents/Resources/BCM20702A1_001.002.014.1502.1760_v5856.zhx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BCM4352/To Install/BrcmFirmwareRepo.kext/Contents/Resources/BCM20702A1_001.002.014.1502.1761_v5857.zhx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BCM4352/To Install/BrcmFirmwareRepo.kext/Contents/Resources/BCM20702A1_001.002.014.1502.1762_v5858.zhx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BCM4352/To Install/BrcmFirmwareRepo.kext/Contents/Resources/BCM20702A1_001.002.014.1502.1763_v5859.zhx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BCM4352/To Install/BrcmFirmwareRepo.kext/Contents/Resources/BCM20702A1_001.002.014.1502.1764_v5860.zhx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BCM4352/To Install/BrcmFirmwareRepo.kext/Contents/Resources/BCM20702A1_001.002.014.1502.1765_v5861.zhx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BCM4352/To Install/BrcmFirmwareRepo.kext/Contents/Resources/BCM20702A1_001.002.014.1502.1766_v5862.zhx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BCM4352/To Install/BrcmFirmwareRepo.kext/Contents/Resources/BCM20702A1_001.002.014.1502.1767_v5863.zhx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BCM4352/To Install/BrcmFirmwareRepo.kext/Contents/Resources/BCM20702A1_001.002.014.1502.1768_v5864.zhx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BCM4352/To Install/BrcmFirmwareRepo.kext/Contents/Resources/BCM20702A1_001.002.014.1502.1769_v5865.zhx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BCM4352/To Install/BrcmFirmwareRepo.kext/Contents/Resources/BCM20702A1_001.002.014.1502.1770_v5866.zhx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BCM4352/To Install/BrcmFirmwareRepo.kext/Contents/Resources/BCM20702A1_001.002.014.1502.1780_v5876.zhx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BCM4352/To Install/BrcmFirmwareRepo.kext/Contents/Resources/BCM20703A1_001.001.005.0214.0414_v4510.zhx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BCM4352/To Install/BrcmFirmwareRepo.kext/Contents/Resources/BCM20703A1_001.001.005.0214.0422_v4518.zhx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BCM4352/To Install/BrcmFirmwareRepo.kext/Contents/Resources/BCM20703A1_001.001.005.0214.0473_v4569.zhx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BCM4352/To Install/BrcmFirmwareRepo.kext/Contents/Resources/BCM20703A1_001.001.005.0214.0481_v4577.zhx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BCM4352/To Install/BrcmFirmwareRepo.kext/Contents/Resources/BCM43142A0_001.001.011.0311.0312_v4408.zhx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BCM4352/To Install/BrcmFirmwareRepo.kext/Contents/Resources/BCM43142A0_001.001.011.0311.0316_v4412.zhx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BCM4352/To Install/BrcmFirmwareRepo.kext/Contents/Resources/BCM43142A0_001.001.011.0311.0327_v4423.zhx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BCM4352/To Install/BrcmFirmwareRepo.kext/Contents/Resources/BCM43142A0_001.001.011.0311.0328_v4424.zhx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BCM4352/To Install/BrcmFirmwareRepo.kext/Contents/Resources/BCM43142A0_001.001.011.0311.0329_v4425.zhx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BCM4352/To Install/BrcmFirmwareRepo.kext/Contents/Resources/BCM43142A0_001.001.011.0311.0330_v4426.zhx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BCM4352/To Install/BrcmFirmwareRepo.kext/Contents/Resources/BCM43142A0_001.001.011.0311.0331_v4427.zhx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BCM4352/To Install/BrcmFirmwareRepo.kext/Contents/Resources/BCM43142A0_001.001.011.0311.0332_v4428.zhx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BCM4352/To Install/BrcmFirmwareRepo.kext/Contents/Resources/BCM43142A0_001.001.011.0311.0333_v4429.zhx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BCM4352/To Install/BrcmFirmwareRepo.kext/Contents/Resources/BCM43142A0_001.001.011.0311.0334_v4430.zhx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BCM4352/To Install/BrcmFirmwareRepo.kext/Contents/Resources/BCM43142A0_001.001.011.0311.0335_v4431.zhx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BCM4352/To Install/BrcmFirmwareRepo.kext/Contents/Resources/BCM43142A0_001.001.011.0311.0336_v4432.zhx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BCM4352/To Install/BrcmFirmwareRepo.kext/Contents/Resources/BCM43142A0_001.001.011.0311.0339_v4435.zhx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BCM4352/To Install/BrcmFirmwareRepo.kext/Contents/Resources/BCM43142A0_001.001.011.0311.0340_v4436.zhx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BCM4352/To Install/BrcmFirmwareRepo.kext/Contents/Resources/BCM43142A0_001.001.011.0311.0341_v4437.zhx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BCM4352/To Install/BrcmFirmwareRepo.kext/Contents/Resources/BCM43142A0_001.001.011.0311.0346_v4442.zhx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BCM4352/To Install/BrcmFirmwareRepo.kext/Contents/Resources/BCM43142A0_001.001.011.0311.0347_v4443.zhx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BCM4352/To Install/BrcmFirmwareRepo.kext/Contents/Resources/BCM4335C0_003.001.009.0066.0104_v4200.zhx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BCM4352/To Install/BrcmFirmwareRepo.kext/Contents/Resources/BCM4335C0_003.001.009.0066.0105_v4201.zhx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BCM4352/To Install/BrcmFirmwareRepo.kext/Contents/Resources/BCM4335C0_003.001.009.0066.0108_v4204.zhx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BCM4352/To Install/BrcmFirmwareRepo.kext/Contents/Resources/BCM4335C0_003.001.009.0066.0115_v4211.zhx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BCM4352/To Install/BrcmFirmwareRepo.kext/Contents/Resources/BCM4335C0_003.001.009.0066.0121_v4217.zhx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BCM4352/To Install/BrcmFirmwareRepo.kext/Contents/Resources/BCM4350C5_003.006.007.0095.1703_v5799.zhx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BCM4352/To Install/BrcmFirmwareRepo.kext/Contents/Resources/BCM4350C5_003.006.007.0120.2118_v6214.zhx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BCM4352/To Install/BrcmFirmwareRepo.kext/Contents/Resources/BCM4350C5_003.006.007.0145.2724_v6820.zhx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BCM4352/To Install/BrcmFirmwareRepo.kext/Contents/Resources/BCM4371C2_001.003.015.0093.0116_v4212.zhx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BCM4352/To Install/BrcmFirmwareRepo.kext/Contents/Resources/BCM4371C2_001.003.015.0093.0117_v4213.zhx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BCM4352/To Install/BrcmFirmwareRepo.kext/Contents/Resources/BCM4371C2_001.003.015.0093.0118_v4214.zhx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BCM4352/To Install/BrcmPatchRAM2.kext/Contents/Info.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BCM4352/To Install/BrcmPatchRAM2.kext/Contents/MacOS/BrcmPatchRAM2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BCM4352/To Install/FakePCIID_Broadcom_WiFi.kext/Contents/Info.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CLOVER/ACPI/origin/APIC.aml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CLOVER/ACPI/origin/ASF!.aml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CLOVER/ACPI/origin/BGRT.aml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CLOVER/ACPI/origin/DBG2.aml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CLOVER/ACPI/origin/DBGP.aml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CLOVER/ACPI/origin/DMAR.aml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CLOVER/ACPI/origin/DSDT-or.aml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CLOVER/ACPI/origin/DSDT-pa0.aml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CLOVER/ACPI/origin/DSDT-pa1.aml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CLOVER/ACPI/origin/DSDT-pa10.aml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CLOVER/ACPI/origin/DSDT-pa11.aml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CLOVER/ACPI/origin/DSDT-pa12.aml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CLOVER/ACPI/origin/DSDT-pa13.aml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CLOVER/ACPI/origin/DSDT-pa14.aml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CLOVER/ACPI/origin/DSDT-pa15.aml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CLOVER/ACPI/origin/DSDT-pa16.aml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CLOVER/ACPI/origin/DSDT-pa17.aml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CLOVER/ACPI/origin/DSDT-pa18.aml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CLOVER/ACPI/origin/DSDT-pa19.aml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CLOVER/ACPI/origin/DSDT-pa2.aml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CLOVER/ACPI/origin/DSDT-pa20.aml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CLOVER/ACPI/origin/DSDT-pa21.aml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CLOVER/ACPI/origin/DSDT-pa22.aml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CLOVER/ACPI/origin/DSDT-pa23.aml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CLOVER/ACPI/origin/DSDT-pa24.aml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CLOVER/ACPI/origin/DSDT-pa25.aml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CLOVER/ACPI/origin/DSDT-pa26.aml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CLOVER/ACPI/origin/DSDT-pa27.aml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CLOVER/ACPI/origin/DSDT-pa28.aml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CLOVER/ACPI/origin/DSDT-pa29.aml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CLOVER/ACPI/origin/DSDT-pa3.aml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CLOVER/ACPI/origin/DSDT-pa30.aml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CLOVER/ACPI/origin/DSDT-pa31.aml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CLOVER/ACPI/origin/DSDT-pa32.aml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CLOVER/ACPI/origin/DSDT-pa33.aml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CLOVER/ACPI/origin/DSDT-pa34.aml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CLOVER/ACPI/origin/DSDT-pa35.aml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CLOVER/ACPI/origin/DSDT-pa36.aml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CLOVER/ACPI/origin/DSDT-pa37.aml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CLOVER/ACPI/origin/DSDT-pa38.aml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CLOVER/ACPI/origin/DSDT-pa39.aml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CLOVER/ACPI/origin/DSDT-pa4.aml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CLOVER/ACPI/origin/DSDT-pa40.aml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CLOVER/ACPI/origin/DSDT-pa41.aml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CLOVER/ACPI/origin/DSDT-pa42.aml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CLOVER/ACPI/origin/DSDT-pa43.aml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CLOVER/ACPI/origin/DSDT-pa44.aml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CLOVER/ACPI/origin/DSDT-pa45.aml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CLOVER/ACPI/origin/DSDT-pa46.aml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CLOVER/ACPI/origin/DSDT-pa47.aml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CLOVER/ACPI/origin/DSDT-pa48.aml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CLOVER/ACPI/origin/DSDT-pa49.aml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CLOVER/ACPI/origin/DSDT-pa5.aml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CLOVER/ACPI/origin/DSDT-pa50.aml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CLOVER/ACPI/origin/DSDT-pa51.aml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CLOVER/ACPI/origin/DSDT-pa52.aml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CLOVER/ACPI/origin/DSDT-pa53.aml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CLOVER/ACPI/origin/DSDT-pa54.aml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CLOVER/ACPI/origin/DSDT-pa55.aml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CLOVER/ACPI/origin/DSDT-pa56.aml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CLOVER/ACPI/origin/DSDT-pa57.aml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CLOVER/ACPI/origin/DSDT-pa58.aml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CLOVER/ACPI/origin/DSDT-pa59.aml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CLOVER/ACPI/origin/DSDT-pa6.aml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CLOVER/ACPI/origin/DSDT-pa7.aml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CLOVER/ACPI/origin/DSDT-pa8.aml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CLOVER/ACPI/origin/DSDT-pa9.aml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CLOVER/ACPI/origin/DSDT.aml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CLOVER/ACPI/origin/DumpLog.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CLOVER/ACPI/origin/FACP.aml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CLOVER/ACPI/origin/FACS.aml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CLOVER/ACPI/origin/FIDT.aml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CLOVER/ACPI/origin/FPDT.aml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CLOVER/ACPI/origin/HPET.aml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CLOVER/ACPI/origin/MCFG.aml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CLOVER/ACPI/origin/RSDP.aml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CLOVER/ACPI/origin/RSDT-APIC.aml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CLOVER/ACPI/origin/RSDT-DBG2.aml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CLOVER/ACPI/origin/RSDT-DBGP.aml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CLOVER/ACPI/origin/RSDT-DSDT.aml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CLOVER/ACPI/origin/RSDT-FACP.aml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CLOVER/ACPI/origin/RSDT-FACS.aml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CLOVER/ACPI/origin/RSDT-FIDT.aml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CLOVER/ACPI/origin/RSDT-FPDT.aml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CLOVER/ACPI/origin/RSDT-HPET.aml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CLOVER/ACPI/origin/RSDT-MCFG.aml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CLOVER/ACPI/origin/RSDT-SSDT-0.aml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CLOVER/ACPI/origin/RSDT-SSDT-1.aml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CLOVER/ACPI/origin/RSDT-SSDT-2.aml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CLOVER/ACPI/origin/RSDT-SSDT-3x.aml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CLOVER/ACPI/origin/RSDT-SSDT-4x.aml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CLOVER/ACPI/origin/RSDT-SSDT-5x.aml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CLOVER/ACPI/origin/RSDT-SSDT-6x.aml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CLOVER/ACPI/origin/RSDT-SSDT-7x.aml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CLOVER/ACPI/origin/RSDT-SSDT-8x.aml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CLOVER/ACPI/origin/RSDT-SSDT-9x.aml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CLOVER/ACPI/origin/RSDT-UEFI.aml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CLOVER/ACPI/origin/RSDT.aml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CLOVER/ACPI/origin/SSDT-0.aml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CLOVER/ACPI/origin/SSDT-1.aml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CLOVER/ACPI/origin/SSDT-10.aml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CLOVER/ACPI/origin/SSDT-11.aml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CLOVER/ACPI/origin/SSDT-2.aml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CLOVER/ACPI/origin/SSDT-3x.aml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CLOVER/ACPI/origin/SSDT-4x.aml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CLOVER/ACPI/origin/SSDT-5x.aml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CLOVER/ACPI/origin/SSDT-6x.aml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CLOVER/ACPI/origin/SSDT-7x.aml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CLOVER/ACPI/origin/SSDT-8x.aml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CLOVER/ACPI/origin/SSDT-9x.aml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CLOVER/ACPI/origin/TPM2.aml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CLOVER/ACPI/origin/UEFI.aml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CLOVER/ACPI/origin/XSDT.aml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CLOVER/config_original.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CLOVER/misc/BrcmFirmwareData.kext/Contents/Info.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CLOVER/misc/BrcmFirmwareData.kext/Contents/MacOS/BrcmFirmwareData" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CLOVER/misc/BrcmPatchRAM2.kext/Contents/Info.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CLOVER/misc/BrcmPatchRAM2.kext/Contents/MacOS/BrcmPatchRAM2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CLOVER/misc/FakePCIID_Broadcom_WiFi.kext/Contents/Info.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Power Management/ssdtPRGen.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Sierra/EFI/APPLE/EXTENSIONS/Firmware.scap" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Sierra/EFI/APPLE/FIRMWARE/MBA61_0099_B22_LOCKED.scap" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Sierra/EFI/APPLE/UPDATERS/MULTIUPDATER/Mac-7DF21CB3ED6977E5.epm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Sierra/EFI/APPLE/UPDATERS/MULTIUPDATER/Mac-7DF21CB3ED6977E5.smc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Sierra/EFI/APPLE/UPDATERS/MULTIUPDATER/MultiUpdater.efi" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Sierra/EFI/APPLE/UPDATERS/MULTIUPDATER/SmcFlasher.efi" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Sierra/EFI/APPLE/UPDATERS/MULTIUPDATER/flasher_base.smc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Sierra/EFI/APPLE/UPDATERS/MULTIUPDATER/flasher_update.smc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Sierra/EFI/APPLE/UPDATERS/SMC/Mac-189A3D4F975D5FFC.epm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Sierra/EFI/APPLE/UPDATERS/SMC/Mac-189A3D4F975D5FFC.smc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Sierra/EFI/APPLE/UPDATERS/SMC/SmcFlasher.efi" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Sierra/EFI/APPLE/UPDATERS/SMC/flasher_base.smc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Sierra/EFI/APPLE/UPDATERS/SMC/flasher_update.smc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Sierra/EFI/BOOT/BOOTIA32.efi" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Sierra/EFI/BOOT/BOOTX64.efi" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/config_original.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/misc/BrcmFirmwareData.kext/Contents/Info.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/misc/BrcmFirmwareData.kext/Contents/MacOS/BrcmFirmwareData" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/misc/BrcmPatchRAM2.kext/Contents/Info.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/misc/BrcmPatchRAM2.kext/Contents/MacOS/BrcmPatchRAM2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/misc/FakePCIID_Broadcom_WiFi.kext/Contents/Info.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Sierra/EFI/Clover_Install_Log.txt" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/BCM4352/To Install/BrcmFirmwareData.kext/Contents/Info.plist" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/misc/BrcmFirmwareData.kext/Contents/Info.plist" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/BCM4352/To Install/BrcmFirmwareData.kext/Contents/MacOS/BrcmFirmwareData" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/misc/BrcmFirmwareData.kext/Contents/MacOS/BrcmFirmwareData" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/BCM4352/To Install/BrcmPatchRAM2.kext/Contents/Info.plist" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/misc/BrcmPatchRAM2.kext/Contents/Info.plist" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/BCM4352/To Install/BrcmPatchRAM2.kext/Contents/MacOS/BrcmPatchRAM2" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/misc/BrcmPatchRAM2.kext/Contents/MacOS/BrcmPatchRAM2" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/BCM4352/To Install/FakePCIID_Broadcom_WiFi.kext/Contents/Info.plist" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/misc/FakePCIID_Broadcom_WiFi.kext/Contents/Info.plist" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/ACPI/patched/DSDT.aml" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/ACPI/patched/DSDT.aml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/ACPI/patched/SSDT-0.aml" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/ACPI/patched/SSDT-0.aml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/ACPI/patched/SSDT-1.aml" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/ACPI/patched/SSDT-1.aml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/ACPI/patched/SSDT-10.aml" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/ACPI/patched/SSDT-10.aml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/ACPI/patched/SSDT-11.aml" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/ACPI/patched/SSDT-11.aml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/ACPI/patched/SSDT-2.aml" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/ACPI/patched/SSDT-2.aml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/ACPI/patched/USB-SSDT.aml" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/ACPI/patched/USB-SSDT.aml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/ACPI/patched/ssdt.aml" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/ACPI/patched/ssdt.aml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/CLOVERIA32.efi" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/CLOVERIA32.efi" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/CLOVERX64.efi" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/CLOVERX64.efi" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/OEM/SystemProductName/UEFI/config.plist" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/OEM/SystemProductName/UEFI/config.plist" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/OEM/SystemProductName/config.plist" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/OEM/SystemProductName/config.plist" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/config.plist" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/config.plist" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/config_original.plist" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/config_original.plist" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/doc/HowToFixDsdt.txt" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/doc/HowToFixDsdt.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/doc/HowToInstallOSX.txt" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/doc/HowToInstallOSX.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/doc/Installation.txt" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/doc/Installation.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/doc/UEFI boot with Clover.rtf" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/doc/UEFI boot with Clover.rtf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/doc/bcfg.txt" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/doc/bcfg.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/doc/boot1f32-install.sh" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/doc/boot1f32-install.sh" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/drivers32/FSInject-32.efi" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/drivers32/FSInject-32.efi" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/drivers32/VBoxHfs-32.efi" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/drivers32/VBoxHfs-32.efi" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/drivers32UEFI/FSInject-32.efi" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/drivers32UEFI/FSInject-32.efi" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/drivers32UEFI/OsxFatBinaryDrv-32.efi" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/drivers32UEFI/OsxFatBinaryDrv-32.efi" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/drivers32UEFI/VBoxHfs-32.efi" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/drivers32UEFI/VBoxHfs-32.efi" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/drivers64/FSInject-64.efi" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/drivers64/FSInject-64.efi" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/drivers64/VBoxHfs-64.efi" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/drivers64/VBoxHfs-64.efi" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/drivers64UEFI/DataHubDxe-64.efi" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/drivers64UEFI/DataHubDxe-64.efi" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/drivers64UEFI/EmuVariableUefi-64.efi" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/drivers64UEFI/EmuVariableUefi-64.efi" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/drivers64UEFI/FSInject-64.efi" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/drivers64UEFI/FSInject-64.efi" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/drivers64UEFI/HFSPlus.efi" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/drivers64UEFI/HFSPlus.efi" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/drivers64UEFI/NTFS.efi" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/drivers64UEFI/NTFS.efi" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/drivers64UEFI/NvmExpressDxe-64.efi" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/drivers64UEFI/NvmExpressDxe-64.efi" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/drivers64UEFI/OsxAptioFix2Drv-64.efi" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/drivers64UEFI/OsxAptioFix2Drv-64.efi" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/drivers64UEFI/OsxFatBinaryDrv-64.efi" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/drivers64UEFI/OsxFatBinaryDrv-64.efi" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/drivers64UEFI/VBoxExt4-64.efi" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/drivers64UEFI/VBoxExt4-64.efi" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/kexts/Other/._BrcmFirmwareData.kext" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/kexts/Other/._BrcmFirmwareData.kext" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/kexts/Other/._BrcmPatchRAM2.kext" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/kexts/Other/._BrcmPatchRAM2.kext" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/kexts/Other/._FakePCIID.kext" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/kexts/Other/._FakePCIID.kext" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/kexts/Other/._FakePCIID_Intel_HDMI_Audio.kext" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/kexts/Other/._FakePCIID_Intel_HDMI_Audio.kext" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/kexts/Other/._FakePCIID_Intel_HD_Graphics.kext" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/kexts/Other/._FakePCIID_Intel_HD_Graphics.kext" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/kexts/Other/._FakeSMC.kext" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/kexts/Other/._FakeSMC.kext" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/kexts/Other/._FakeSMC_ACPISensors.kext" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/kexts/Other/._FakeSMC_ACPISensors.kext" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/kexts/Other/._FakeSMC_CPUSensors.kext" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/kexts/Other/._FakeSMC_CPUSensors.kext" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/kexts/Other/._FakeSMC_GPUSensors.kext" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/kexts/Other/._FakeSMC_GPUSensors.kext" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/kexts/Other/._FakeSMC_LPCSensors.kext" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/kexts/Other/._FakeSMC_LPCSensors.kext" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/kexts/Other/ACPIBatteryManager.kext/Contents/Info.plist" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/kexts/Other/ACPIBatteryManager.kext/Contents/Info.plist" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/kexts/Other/ACPIBatteryManager.kext/Contents/MacOS/ACPIBatteryManager" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/kexts/Other/ACPIBatteryManager.kext/Contents/MacOS/ACPIBatteryManager" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/kexts/Other/BrcmFirmwareData.kext/Contents/Info.plist" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/kexts/Other/BrcmFirmwareData.kext/Contents/Info.plist" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/kexts/Other/BrcmFirmwareData.kext/Contents/MacOS/BrcmFirmwareData" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/kexts/Other/BrcmFirmwareData.kext/Contents/MacOS/BrcmFirmwareData" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/kexts/Other/BrcmPatchRAM2.kext/Contents/Info.plist" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/kexts/Other/BrcmPatchRAM2.kext/Contents/Info.plist" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/kexts/Other/BrcmPatchRAM2.kext/Contents/MacOS/BrcmPatchRAM2" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/kexts/Other/BrcmPatchRAM2.kext/Contents/MacOS/BrcmPatchRAM2" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/kexts/Other/FakePCIID.kext/Contents/Info.plist" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/kexts/Other/FakePCIID.kext/Contents/Info.plist" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/kexts/Other/FakePCIID.kext/Contents/MacOS/FakePCIID" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/kexts/Other/FakePCIID.kext/Contents/MacOS/FakePCIID" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/kexts/Other/FakePCIID_Broadcom_WiFi.kext/Contents/Info.plist" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/kexts/Other/FakePCIID_Broadcom_WiFi.kext/Contents/Info.plist" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/kexts/Other/FakePCIID_Intel_HDMI_Audio.kext/Contents/Info.plist" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/kexts/Other/FakePCIID_Intel_HDMI_Audio.kext/Contents/Info.plist" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/kexts/Other/FakePCIID_Intel_HD_Graphics.kext/Contents/Info.plist" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/kexts/Other/FakePCIID_Intel_HD_Graphics.kext/Contents/Info.plist" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/kexts/Other/FakeSMC.kext/Contents/Info.plist" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/kexts/Other/FakeSMC.kext/Contents/Info.plist" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/kexts/Other/FakeSMC.kext/Contents/MacOS/FakeSMC" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/kexts/Other/FakeSMC.kext/Contents/MacOS/FakeSMC" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/kexts/Other/FakeSMC_ACPISensors.kext/Contents/Info.plist" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/kexts/Other/FakeSMC_ACPISensors.kext/Contents/Info.plist" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/kexts/Other/FakeSMC_ACPISensors.kext/Contents/MacOS/ACPISensors" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/kexts/Other/FakeSMC_ACPISensors.kext/Contents/MacOS/ACPISensors" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/kexts/Other/FakeSMC_CPUSensors.kext/Contents/Info.plist" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/kexts/Other/FakeSMC_CPUSensors.kext/Contents/Info.plist" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/kexts/Other/FakeSMC_CPUSensors.kext/Contents/MacOS/CPUSensors" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/kexts/Other/FakeSMC_CPUSensors.kext/Contents/MacOS/CPUSensors" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/kexts/Other/FakeSMC_GPUSensors.kext/Contents/Info.plist" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/kexts/Other/FakeSMC_GPUSensors.kext/Contents/Info.plist" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/kexts/Other/FakeSMC_GPUSensors.kext/Contents/MacOS/GPUSensors" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/kexts/Other/FakeSMC_GPUSensors.kext/Contents/MacOS/GPUSensors" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/kexts/Other/FakeSMC_LPCSensors.kext/Contents/Info.plist" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/kexts/Other/FakeSMC_LPCSensors.kext/Contents/Info.plist" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/kexts/Other/FakeSMC_LPCSensors.kext/Contents/MacOS/LPCSensors" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/kexts/Other/FakeSMC_LPCSensors.kext/Contents/MacOS/LPCSensors" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/kexts/Other/IntelBacklight.kext/Contents/Info.plist" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/kexts/Other/IntelBacklight.kext/Contents/Info.plist" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/kexts/Other/IntelBacklight.kext/Contents/MacOS/IntelBacklight" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/kexts/Other/IntelBacklight.kext/Contents/MacOS/IntelBacklight" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/kexts/Other/RealtekRTL8111.kext/Contents/Info.plist" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/kexts/Other/RealtekRTL8111.kext/Contents/Info.plist" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/kexts/Other/RealtekRTL8111.kext/Contents/MacOS/RealtekRTL8111" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/kexts/Other/RealtekRTL8111.kext/Contents/MacOS/RealtekRTL8111" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/kexts/Other/RealtekRTL8111.kext/Contents/Resources/en.lproj/InfoPlist.strings" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/kexts/Other/RealtekRTL8111.kext/Contents/Resources/en.lproj/InfoPlist.strings" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/kexts/Other/VoodooPS2Controller.kext/Contents/Info.plist" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/kexts/Other/VoodooPS2Controller.kext/Contents/Info.plist" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/kexts/Other/VoodooPS2Controller.kext/Contents/MacOS/VoodooPS2Controller" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/kexts/Other/VoodooPS2Controller.kext/Contents/MacOS/VoodooPS2Controller" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/kexts/Other/VoodooPS2Controller.kext/Contents/PlugIns/VoodooPS2Keyboard.kext/Contents/Info.plist" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/kexts/Other/VoodooPS2Controller.kext/Contents/PlugIns/VoodooPS2Keyboard.kext/Contents/Info.plist" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/kexts/Other/VoodooPS2Controller.kext/Contents/PlugIns/VoodooPS2Keyboard.kext/Contents/MacOS/VoodooPS2Keyboard" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/kexts/Other/VoodooPS2Controller.kext/Contents/PlugIns/VoodooPS2Keyboard.kext/Contents/MacOS/VoodooPS2Keyboard" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/kexts/Other/VoodooPS2Controller.kext/Contents/PlugIns/VoodooPS2Mouse.kext/Contents/Info.plist" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/kexts/Other/VoodooPS2Controller.kext/Contents/PlugIns/VoodooPS2Mouse.kext/Contents/Info.plist" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/kexts/Other/VoodooPS2Controller.kext/Contents/PlugIns/VoodooPS2Mouse.kext/Contents/MacOS/VoodooPS2Mouse" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/kexts/Other/VoodooPS2Controller.kext/Contents/PlugIns/VoodooPS2Mouse.kext/Contents/MacOS/VoodooPS2Mouse" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/kexts/Other/VoodooPS2Controller.kext/Contents/PlugIns/VoodooPS2Trackpad.kext/Contents/Info.plist" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/kexts/Other/VoodooPS2Controller.kext/Contents/PlugIns/VoodooPS2Trackpad.kext/Contents/Info.plist" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/kexts/Other/VoodooPS2Controller.kext/Contents/PlugIns/VoodooPS2Trackpad.kext/Contents/MacOS/VoodooPS2Trackpad" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/kexts/Other/VoodooPS2Controller.kext/Contents/PlugIns/VoodooPS2Trackpad.kext/Contents/MacOS/VoodooPS2Trackpad" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/kexts/Other/VoodooPS2Controller.kext/Contents/Resources/SSDT-Disable_DynamicEWMode.dsl" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/kexts/Other/VoodooPS2Controller.kext/Contents/Resources/SSDT-Disable_DynamicEWMode.dsl" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/kexts/Other/VoodooPS2Controller.kext/Contents/Resources/SSDT-Enable_DynamicEWMode.dsl" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/kexts/Other/VoodooPS2Controller.kext/Contents/Resources/SSDT-Enable_DynamicEWMode.dsl" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/misc/BrcmFirmwareData.kext/Contents/Info.plist" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/misc/BrcmFirmwareData.kext/Contents/Info.plist" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/misc/BrcmFirmwareData.kext/Contents/MacOS/BrcmFirmwareData" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/misc/BrcmFirmwareData.kext/Contents/MacOS/BrcmFirmwareData" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/misc/BrcmPatchRAM2.kext/Contents/Info.plist" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/misc/BrcmPatchRAM2.kext/Contents/Info.plist" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/misc/BrcmPatchRAM2.kext/Contents/MacOS/BrcmPatchRAM2" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/misc/BrcmPatchRAM2.kext/Contents/MacOS/BrcmPatchRAM2" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/misc/FakePCIID_Broadcom_WiFi.kext/Contents/Info.plist" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/misc/FakePCIID_Broadcom_WiFi.kext/Contents/Info.plist" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/misc/USBInjectAll.kext/Contents/Info.plist" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/misc/USBInjectAll.kext/Contents/Info.plist" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/misc/USBInjectAll.kext/Contents/MacOS/USBInjectAll" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/misc/USBInjectAll.kext/Contents/MacOS/USBInjectAll" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/misc/debug.log" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/misc/debug.log" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/themes/Selection_144px.bmp" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/themes/Selection_144px.bmp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/themes/Selection_64px.bmp" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/themes/Selection_64px.bmp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/themes/embedded/screenshot.png" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/themes/embedded/screenshot.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/themes/embedded/theme.plist" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/themes/embedded/theme.plist" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/themes/frame.png" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/themes/frame.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/themes/ios7/._bg.png" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/themes/ios7/._bg.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/themes/ios7/bg.png" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/themes/ios7/bg.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/themes/ios7/bg1.png" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/themes/ios7/bg1.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/themes/ios7/bg2.png" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/themes/ios7/bg2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/themes/ios7/icons/boot_linux.icns" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/themes/ios7/icons/boot_linux.icns" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/themes/ios7/icons/boot_win.icns" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/themes/ios7/icons/boot_win.icns" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/themes/ios7/icons/func_about.png" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/themes/ios7/icons/func_about.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/themes/ios7/icons/func_clover.png" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/themes/ios7/icons/func_clover.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/themes/ios7/icons/func_help.png" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/themes/ios7/icons/func_help.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/themes/ios7/icons/func_options.png" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/themes/ios7/icons/func_options.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/themes/ios7/icons/func_reset.png" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/themes/ios7/icons/func_reset.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/themes/ios7/icons/func_secureboot.png" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/themes/ios7/icons/func_secureboot.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/themes/ios7/icons/func_secureboot_config.png" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/themes/ios7/icons/func_secureboot_config.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/themes/ios7/icons/func_shutdown.png" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/themes/ios7/icons/func_shutdown.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/themes/ios7/icons/logo.png" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/themes/ios7/icons/logo.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/themes/ios7/icons/os_cap.icns" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/themes/ios7/icons/os_cap.icns" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/themes/ios7/icons/os_clover.icns" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/themes/ios7/icons/os_clover.icns" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/themes/ios7/icons/os_cougar.icns" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/themes/ios7/icons/os_cougar.icns" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/themes/ios7/icons/os_legacy.icns" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/themes/ios7/icons/os_legacy.icns" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/themes/ios7/icons/os_leo.icns" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/themes/ios7/icons/os_leo.icns" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/themes/ios7/icons/os_linux.icns" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/themes/ios7/icons/os_linux.icns" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/themes/ios7/icons/os_lion.icns" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/themes/ios7/icons/os_lion.icns" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/themes/ios7/icons/os_mac.icns" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/themes/ios7/icons/os_mac.icns" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/themes/ios7/icons/os_mav.icns" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/themes/ios7/icons/os_mav.icns" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/themes/ios7/icons/os_snow.icns" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/themes/ios7/icons/os_snow.icns" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/themes/ios7/icons/os_tiger.icns" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/themes/ios7/icons/os_tiger.icns" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/themes/ios7/icons/os_ubuntu.icns" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/themes/ios7/icons/os_ubuntu.icns" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/themes/ios7/icons/os_unknown.icns" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/themes/ios7/icons/os_unknown.icns" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/themes/ios7/icons/os_vista.icns" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/themes/ios7/icons/os_vista.icns" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/themes/ios7/icons/os_win.icns" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/themes/ios7/icons/os_win.icns" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/themes/ios7/icons/os_yos.icns" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/themes/ios7/icons/os_yos.icns" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/themes/ios7/icons/pointer.png" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/themes/ios7/icons/pointer.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/themes/ios7/icons/tool_shell.png" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/themes/ios7/icons/tool_shell.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/themes/ios7/icons/usb.icns" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/themes/ios7/icons/usb.icns" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/themes/ios7/icons/vol_clover.icns" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/themes/ios7/icons/vol_clover.icns" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/themes/ios7/icons/vol_external.icns" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/themes/ios7/icons/vol_external.icns" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/themes/ios7/icons/vol_firewire.icns" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/themes/ios7/icons/vol_firewire.icns" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/themes/ios7/icons/vol_internal.icns" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/themes/ios7/icons/vol_internal.icns" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/themes/ios7/icons/vol_internal_hfs.icns" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/themes/ios7/icons/vol_internal_hfs.icns" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/themes/ios7/icons/vol_internal_ntfs.icns" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/themes/ios7/icons/vol_internal_ntfs.icns" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/themes/ios7/icons/vol_optical.icns" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/themes/ios7/icons/vol_optical.icns" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/themes/ios7/icons/vol_recovery.icns" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/themes/ios7/icons/vol_recovery.icns" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/themes/ios7/logo.png" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/themes/ios7/logo.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/themes/ios7/logo_trans.png" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/themes/ios7/logo_trans.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/themes/ios7/mpr.png" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/themes/ios7/mpr.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/themes/ios7/screenshot.png" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/themes/ios7/screenshot.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/themes/ios7/scrollbar/bar_end.png" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/themes/ios7/scrollbar/bar_end.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/themes/ios7/scrollbar/bar_fill.png" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/themes/ios7/scrollbar/bar_fill.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/themes/ios7/scrollbar/bar_start.png" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/themes/ios7/scrollbar/bar_start.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/themes/ios7/scrollbar/down_button.png" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/themes/ios7/scrollbar/down_button.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/themes/ios7/scrollbar/scroll_end.png" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/themes/ios7/scrollbar/scroll_end.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/themes/ios7/scrollbar/scroll_fill.png" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/themes/ios7/scrollbar/scroll_fill.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/themes/ios7/scrollbar/scroll_start.png" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/themes/ios7/scrollbar/scroll_start.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/themes/ios7/scrollbar/up_button.png" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/themes/ios7/scrollbar/up_button.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/themes/ios7/selection_big.png" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/themes/ios7/selection_big.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/themes/ios7/selection_small.png" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/themes/ios7/selection_small.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/themes/ios7/theme.plist" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/themes/ios7/theme.plist" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/themes/logo_main.png" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/themes/logo_main.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/themes/logo_metal.png" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/themes/logo_metal.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/themes/pointer-green.png" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/themes/pointer-green.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/themes/pointer-metal.png" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/themes/pointer-metal.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/themes/random/theme.plist" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/themes/random/theme.plist" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/tools/Shell.inf" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/tools/Shell.inf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/tools/Shell32.efi" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/tools/Shell32.efi" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/tools/Shell64.efi" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/tools/Shell64.efi" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/tools/Shell64U.efi" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/tools/Shell64U.efi" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/tools/bdmesg-32.efi" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/tools/bdmesg-32.efi" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CLOVER/tools/bdmesg.efi" afterPath="$PROJECT_DIR$/El Capitan - 10.11.6/CLOVER/tools/bdmesg.efi" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/ACPI/origin/APIC.aml" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/ACPI/origin/APIC.aml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/ACPI/origin/ASF!.aml" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/ACPI/origin/ASF!.aml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/ACPI/origin/BGRT.aml" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/ACPI/origin/BGRT.aml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/ACPI/origin/DBG2.aml" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/ACPI/origin/DBG2.aml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/ACPI/origin/DBGP.aml" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/ACPI/origin/DBGP.aml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/ACPI/origin/DMAR.aml" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/ACPI/origin/DMAR.aml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/ACPI/origin/DSDT-or.aml" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/ACPI/origin/DSDT-or.aml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/ACPI/origin/DSDT-pa0.aml" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/ACPI/origin/DSDT-pa0.aml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/ACPI/origin/DSDT-pa1.aml" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/ACPI/origin/DSDT-pa1.aml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/ACPI/origin/DSDT-pa10.aml" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/ACPI/origin/DSDT-pa10.aml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/ACPI/origin/DSDT-pa11.aml" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/ACPI/origin/DSDT-pa11.aml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/ACPI/origin/DSDT-pa12.aml" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/ACPI/origin/DSDT-pa12.aml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/ACPI/origin/DSDT-pa13.aml" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/ACPI/origin/DSDT-pa13.aml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/ACPI/origin/DSDT-pa14.aml" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/ACPI/origin/DSDT-pa14.aml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/ACPI/origin/DSDT-pa2.aml" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/ACPI/origin/DSDT-pa2.aml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/ACPI/origin/DSDT-pa3.aml" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/ACPI/origin/DSDT-pa3.aml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/ACPI/origin/DSDT-pa4.aml" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/ACPI/origin/DSDT-pa4.aml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/ACPI/origin/DSDT-pa5.aml" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/ACPI/origin/DSDT-pa5.aml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/ACPI/origin/DSDT-pa6.aml" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/ACPI/origin/DSDT-pa6.aml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/ACPI/origin/DSDT-pa7.aml" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/ACPI/origin/DSDT-pa7.aml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/ACPI/origin/DSDT-pa8.aml" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/ACPI/origin/DSDT-pa8.aml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/ACPI/origin/DSDT-pa9.aml" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/ACPI/origin/DSDT-pa9.aml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/ACPI/origin/DSDT.aml" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/ACPI/origin/DSDT.aml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/ACPI/origin/DumpLog.txt" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/ACPI/origin/DumpLog.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/ACPI/origin/FACP.aml" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/ACPI/origin/FACP.aml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/ACPI/origin/FACS.aml" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/ACPI/origin/FACS.aml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/ACPI/origin/FIDT.aml" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/ACPI/origin/FIDT.aml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/ACPI/origin/FPDT.aml" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/ACPI/origin/FPDT.aml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/ACPI/origin/HPET.aml" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/ACPI/origin/HPET.aml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/ACPI/origin/MCFG.aml" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/ACPI/origin/MCFG.aml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/ACPI/origin/RSDP.aml" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/ACPI/origin/RSDP.aml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/ACPI/origin/RSDT-APIC.aml" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/ACPI/origin/RSDT-APIC.aml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/ACPI/origin/RSDT-DBG2.aml" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/ACPI/origin/RSDT-DBG2.aml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/ACPI/origin/RSDT-DBGP.aml" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/ACPI/origin/RSDT-DBGP.aml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/ACPI/origin/RSDT-DSDT.aml" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/ACPI/origin/RSDT-DSDT.aml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/ACPI/origin/RSDT-FACP.aml" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/ACPI/origin/RSDT-FACP.aml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/ACPI/origin/RSDT-FACS.aml" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/ACPI/origin/RSDT-FACS.aml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/ACPI/origin/RSDT-FIDT.aml" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/ACPI/origin/RSDT-FIDT.aml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/ACPI/origin/RSDT-FPDT.aml" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/ACPI/origin/RSDT-FPDT.aml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/ACPI/origin/RSDT-HPET.aml" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/ACPI/origin/RSDT-HPET.aml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/ACPI/origin/RSDT-MCFG.aml" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/ACPI/origin/RSDT-MCFG.aml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/ACPI/origin/RSDT-SSDT-0.aml" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/ACPI/origin/RSDT-SSDT-0.aml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/ACPI/origin/RSDT-SSDT-1.aml" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/ACPI/origin/RSDT-SSDT-1.aml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/ACPI/origin/RSDT-SSDT-2.aml" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/ACPI/origin/RSDT-SSDT-2.aml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/ACPI/origin/RSDT-SSDT-3x.aml" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/ACPI/origin/RSDT-SSDT-3x.aml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/ACPI/origin/RSDT-SSDT-4x.aml" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/ACPI/origin/RSDT-SSDT-4x.aml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/ACPI/origin/RSDT-SSDT-5x.aml" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/ACPI/origin/RSDT-SSDT-5x.aml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/ACPI/origin/RSDT-SSDT-6x.aml" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/ACPI/origin/RSDT-SSDT-6x.aml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/ACPI/origin/RSDT-SSDT-7x.aml" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/ACPI/origin/RSDT-SSDT-7x.aml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/ACPI/origin/RSDT-SSDT-8x.aml" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/ACPI/origin/RSDT-SSDT-8x.aml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/ACPI/origin/RSDT-SSDT-9x.aml" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/ACPI/origin/RSDT-SSDT-9x.aml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/ACPI/origin/RSDT-UEFI.aml" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/ACPI/origin/RSDT-UEFI.aml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/ACPI/origin/RSDT.aml" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/ACPI/origin/RSDT.aml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/ACPI/origin/SSDT-0.aml" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/ACPI/origin/SSDT-0.aml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/ACPI/origin/SSDT-1.aml" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/ACPI/origin/SSDT-1.aml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/ACPI/origin/SSDT-10.aml" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/ACPI/origin/SSDT-10.aml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/ACPI/origin/SSDT-11.aml" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/ACPI/origin/SSDT-11.aml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/ACPI/origin/SSDT-2.aml" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/ACPI/origin/SSDT-2.aml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/ACPI/origin/SSDT-3x.aml" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/ACPI/origin/SSDT-3x.aml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/ACPI/origin/SSDT-4x.aml" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/ACPI/origin/SSDT-4x.aml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/ACPI/origin/SSDT-5x.aml" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/ACPI/origin/SSDT-5x.aml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/ACPI/origin/SSDT-6x.aml" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/ACPI/origin/SSDT-6x.aml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/ACPI/origin/SSDT-7x.aml" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/ACPI/origin/SSDT-7x.aml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/ACPI/origin/SSDT-8x.aml" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/ACPI/origin/SSDT-8x.aml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/ACPI/origin/SSDT-9x.aml" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/ACPI/origin/SSDT-9x.aml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/ACPI/origin/TPM2.aml" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/ACPI/origin/TPM2.aml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/ACPI/origin/UEFI.aml" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/ACPI/origin/UEFI.aml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/ACPI/origin/XSDT.aml" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/ACPI/origin/XSDT.aml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/ACPI/patched/DSDT.aml" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/ACPI/patched/DSDT.aml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/ACPI/patched/SSDT-0.aml" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/ACPI/patched/SSDT-0.aml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/ACPI/patched/SSDT-1.aml" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/ACPI/patched/SSDT-1.aml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/ACPI/patched/SSDT-10.aml" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/ACPI/patched/SSDT-10.aml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/ACPI/patched/SSDT-11.aml" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/ACPI/patched/SSDT-11.aml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/ACPI/patched/SSDT-2.aml" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/ACPI/patched/SSDT-2.aml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/ACPI/patched/ssdt.aml" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/ACPI/patched/ssdt.aml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/CLOVERIA32.efi" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/CLOVERIA32.efi" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/CLOVERX64.efi" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/CLOVERX64.efi" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/OEM/SystemProductName/UEFI/config.plist" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/OEM/SystemProductName/UEFI/config.plist" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/OEM/SystemProductName/config.plist" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/OEM/SystemProductName/config.plist" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/config.plist" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/config.plist" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/doc/HowToFixDsdt.txt" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/doc/HowToFixDsdt.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/doc/HowToInstallOSX.txt" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/doc/HowToInstallOSX.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/doc/Installation.txt" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/doc/Installation.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/doc/UEFI boot with Clover.rtf" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/doc/UEFI boot with Clover.rtf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/doc/bcfg.txt" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/doc/bcfg.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/doc/boot1f32-install.sh" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/doc/boot1f32-install.sh" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/drivers32/FSInject-32.efi" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/drivers32/FSInject-32.efi" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/drivers32/VBoxHfs-32.efi" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/drivers32/VBoxHfs-32.efi" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/drivers32UEFI/FSInject-32.efi" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/drivers32UEFI/FSInject-32.efi" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/drivers32UEFI/OsxFatBinaryDrv-32.efi" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/drivers32UEFI/OsxFatBinaryDrv-32.efi" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/drivers32UEFI/VBoxHfs-32.efi" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/drivers32UEFI/VBoxHfs-32.efi" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/drivers64/FSInject-64.efi" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/drivers64/FSInject-64.efi" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/drivers64/VBoxHfs-64.efi" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/drivers64/VBoxHfs-64.efi" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/drivers64UEFI/DataHubDxe-64.efi" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/drivers64UEFI/DataHubDxe-64.efi" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/drivers64UEFI/EmuVariableUefi-64.efi" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/drivers64UEFI/EmuVariableUefi-64.efi" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/drivers64UEFI/FSInject-64.efi" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/drivers64UEFI/FSInject-64.efi" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/drivers64UEFI/HFSPlus.efi" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/drivers64UEFI/HFSPlus.efi" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/drivers64UEFI/NTFS.efi" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/drivers64UEFI/NTFS.efi" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/drivers64UEFI/NvmExpressDxe-64.efi" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/drivers64UEFI/NvmExpressDxe-64.efi" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/drivers64UEFI/OsxAptioFix2Drv-64.efi" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/drivers64UEFI/OsxAptioFix2Drv-64.efi" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/drivers64UEFI/OsxFatBinaryDrv-64.efi" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/drivers64UEFI/OsxFatBinaryDrv-64.efi" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/drivers64UEFI/VBoxExt4-64.efi" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/drivers64UEFI/VBoxExt4-64.efi" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/kexts/Other/._BrcmFirmwareData.kext" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/kexts/Other/._BrcmFirmwareData.kext" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/kexts/Other/._BrcmPatchRAM2.kext" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/kexts/Other/._BrcmPatchRAM2.kext" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/kexts/Other/._FakePCIID.kext" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/kexts/Other/._FakePCIID.kext" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/kexts/Other/._FakePCIID_Intel_HDMI_Audio.kext" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/kexts/Other/._FakePCIID_Intel_HDMI_Audio.kext" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/kexts/Other/._FakePCIID_Intel_HD_Graphics.kext" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/kexts/Other/._FakePCIID_Intel_HD_Graphics.kext" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/kexts/Other/._FakeSMC.kext" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/kexts/Other/._FakeSMC.kext" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/kexts/Other/._FakeSMC_ACPISensors.kext" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/kexts/Other/._FakeSMC_ACPISensors.kext" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/kexts/Other/._FakeSMC_CPUSensors.kext" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/kexts/Other/._FakeSMC_CPUSensors.kext" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/kexts/Other/._FakeSMC_GPUSensors.kext" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/kexts/Other/._FakeSMC_GPUSensors.kext" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/kexts/Other/._FakeSMC_LPCSensors.kext" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/kexts/Other/._FakeSMC_LPCSensors.kext" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/kexts/Other/ACPIBatteryManager.kext/Contents/Info.plist" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/kexts/Other/ACPIBatteryManager.kext/Contents/Info.plist" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/kexts/Other/ACPIBatteryManager.kext/Contents/MacOS/ACPIBatteryManager" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/kexts/Other/ACPIBatteryManager.kext/Contents/MacOS/ACPIBatteryManager" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/kexts/Other/BrcmFirmwareData.kext/Contents/Info.plist" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/kexts/Other/BrcmFirmwareData.kext/Contents/Info.plist" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/kexts/Other/BrcmFirmwareData.kext/Contents/MacOS/BrcmFirmwareData" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/kexts/Other/BrcmFirmwareData.kext/Contents/MacOS/BrcmFirmwareData" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/kexts/Other/BrcmPatchRAM2.kext/Contents/Info.plist" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/kexts/Other/BrcmPatchRAM2.kext/Contents/Info.plist" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/kexts/Other/BrcmPatchRAM2.kext/Contents/MacOS/BrcmPatchRAM2" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/kexts/Other/BrcmPatchRAM2.kext/Contents/MacOS/BrcmPatchRAM2" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/kexts/Other/FakePCIID.kext/Contents/Info.plist" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/kexts/Other/FakePCIID.kext/Contents/Info.plist" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/kexts/Other/FakePCIID.kext/Contents/MacOS/FakePCIID" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/kexts/Other/FakePCIID.kext/Contents/MacOS/FakePCIID" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/kexts/Other/FakePCIID_Broadcom_WiFi.kext/Contents/Info.plist" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/kexts/Other/FakePCIID_Broadcom_WiFi.kext/Contents/Info.plist" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/kexts/Other/FakePCIID_Intel_HDMI_Audio.kext/Contents/Info.plist" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/kexts/Other/FakePCIID_Intel_HDMI_Audio.kext/Contents/Info.plist" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/kexts/Other/FakePCIID_Intel_HD_Graphics.kext/Contents/Info.plist" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/kexts/Other/FakePCIID_Intel_HD_Graphics.kext/Contents/Info.plist" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/kexts/Other/FakeSMC.kext/Contents/Info.plist" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/kexts/Other/FakeSMC.kext/Contents/Info.plist" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/kexts/Other/FakeSMC.kext/Contents/MacOS/FakeSMC" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/kexts/Other/FakeSMC.kext/Contents/MacOS/FakeSMC" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/kexts/Other/FakeSMC_ACPISensors.kext/Contents/Info.plist" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/kexts/Other/FakeSMC_ACPISensors.kext/Contents/Info.plist" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/kexts/Other/FakeSMC_ACPISensors.kext/Contents/MacOS/ACPISensors" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/kexts/Other/FakeSMC_ACPISensors.kext/Contents/MacOS/ACPISensors" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/kexts/Other/FakeSMC_CPUSensors.kext/Contents/Info.plist" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/kexts/Other/FakeSMC_CPUSensors.kext/Contents/Info.plist" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/kexts/Other/FakeSMC_CPUSensors.kext/Contents/MacOS/CPUSensors" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/kexts/Other/FakeSMC_CPUSensors.kext/Contents/MacOS/CPUSensors" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/kexts/Other/FakeSMC_GPUSensors.kext/Contents/Info.plist" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/kexts/Other/FakeSMC_GPUSensors.kext/Contents/Info.plist" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/kexts/Other/FakeSMC_GPUSensors.kext/Contents/MacOS/GPUSensors" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/kexts/Other/FakeSMC_GPUSensors.kext/Contents/MacOS/GPUSensors" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/kexts/Other/FakeSMC_LPCSensors.kext/Contents/Info.plist" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/kexts/Other/FakeSMC_LPCSensors.kext/Contents/Info.plist" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/kexts/Other/FakeSMC_LPCSensors.kext/Contents/MacOS/LPCSensors" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/kexts/Other/FakeSMC_LPCSensors.kext/Contents/MacOS/LPCSensors" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/kexts/Other/IntelBacklight.kext/Contents/Info.plist" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/kexts/Other/IntelBacklight.kext/Contents/Info.plist" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/kexts/Other/IntelBacklight.kext/Contents/MacOS/IntelBacklight" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/kexts/Other/IntelBacklight.kext/Contents/MacOS/IntelBacklight" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/kexts/Other/RealtekRTL8111.kext/Contents/Info.plist" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/kexts/Other/RealtekRTL8111.kext/Contents/Info.plist" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/kexts/Other/RealtekRTL8111.kext/Contents/MacOS/RealtekRTL8111" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/kexts/Other/RealtekRTL8111.kext/Contents/MacOS/RealtekRTL8111" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/kexts/Other/RealtekRTL8111.kext/Contents/Resources/en.lproj/InfoPlist.strings" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/kexts/Other/RealtekRTL8111.kext/Contents/Resources/en.lproj/InfoPlist.strings" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/kexts/Other/USBInjectAll.kext/Contents/Info.plist" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/kexts/Other/USBInjectAll.kext/Contents/Info.plist" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/kexts/Other/USBInjectAll.kext/Contents/MacOS/USBInjectAll" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/kexts/Other/USBInjectAll.kext/Contents/MacOS/USBInjectAll" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/kexts/Other/VoodooPS2Controller.kext/Contents/Info.plist" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/kexts/Other/VoodooPS2Controller.kext/Contents/Info.plist" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/kexts/Other/VoodooPS2Controller.kext/Contents/MacOS/VoodooPS2Controller" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/kexts/Other/VoodooPS2Controller.kext/Contents/MacOS/VoodooPS2Controller" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/kexts/Other/VoodooPS2Controller.kext/Contents/PlugIns/VoodooPS2Keyboard.kext/Contents/Info.plist" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/kexts/Other/VoodooPS2Controller.kext/Contents/PlugIns/VoodooPS2Keyboard.kext/Contents/Info.plist" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/kexts/Other/VoodooPS2Controller.kext/Contents/PlugIns/VoodooPS2Keyboard.kext/Contents/MacOS/VoodooPS2Keyboard" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/kexts/Other/VoodooPS2Controller.kext/Contents/PlugIns/VoodooPS2Keyboard.kext/Contents/MacOS/VoodooPS2Keyboard" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/kexts/Other/VoodooPS2Controller.kext/Contents/PlugIns/VoodooPS2Mouse.kext/Contents/Info.plist" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/kexts/Other/VoodooPS2Controller.kext/Contents/PlugIns/VoodooPS2Mouse.kext/Contents/Info.plist" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/kexts/Other/VoodooPS2Controller.kext/Contents/PlugIns/VoodooPS2Mouse.kext/Contents/MacOS/VoodooPS2Mouse" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/kexts/Other/VoodooPS2Controller.kext/Contents/PlugIns/VoodooPS2Mouse.kext/Contents/MacOS/VoodooPS2Mouse" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/kexts/Other/VoodooPS2Controller.kext/Contents/PlugIns/VoodooPS2Trackpad.kext/Contents/Info.plist" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/kexts/Other/VoodooPS2Controller.kext/Contents/PlugIns/VoodooPS2Trackpad.kext/Contents/Info.plist" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/kexts/Other/VoodooPS2Controller.kext/Contents/PlugIns/VoodooPS2Trackpad.kext/Contents/MacOS/VoodooPS2Trackpad" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/kexts/Other/VoodooPS2Controller.kext/Contents/PlugIns/VoodooPS2Trackpad.kext/Contents/MacOS/VoodooPS2Trackpad" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/kexts/Other/VoodooPS2Controller.kext/Contents/Resources/SSDT-Disable_DynamicEWMode.dsl" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/kexts/Other/VoodooPS2Controller.kext/Contents/Resources/SSDT-Disable_DynamicEWMode.dsl" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/kexts/Other/VoodooPS2Controller.kext/Contents/Resources/SSDT-Enable_DynamicEWMode.dsl" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/kexts/Other/VoodooPS2Controller.kext/Contents/Resources/SSDT-Enable_DynamicEWMode.dsl" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/misc/debug.log" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/misc/debug.log" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/themes/Selection_144px.bmp" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/themes/Selection_144px.bmp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/themes/Selection_64px.bmp" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/themes/Selection_64px.bmp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/themes/embedded/screenshot.png" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/themes/embedded/screenshot.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/themes/embedded/theme.plist" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/themes/embedded/theme.plist" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/themes/frame.png" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/themes/frame.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/themes/ios7/._bg.png" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/themes/ios7/._bg.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/themes/ios7/bg.png" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/themes/ios7/bg.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/themes/ios7/bg1.png" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/themes/ios7/bg1.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/themes/ios7/bg2.png" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/themes/ios7/bg2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/themes/ios7/icons/boot_linux.icns" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/themes/ios7/icons/boot_linux.icns" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/themes/ios7/icons/boot_win.icns" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/themes/ios7/icons/boot_win.icns" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/themes/ios7/icons/func_about.png" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/themes/ios7/icons/func_about.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/themes/ios7/icons/func_clover.png" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/themes/ios7/icons/func_clover.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/themes/ios7/icons/func_help.png" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/themes/ios7/icons/func_help.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/themes/ios7/icons/func_options.png" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/themes/ios7/icons/func_options.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/themes/ios7/icons/func_reset.png" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/themes/ios7/icons/func_reset.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/themes/ios7/icons/func_secureboot.png" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/themes/ios7/icons/func_secureboot.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/themes/ios7/icons/func_secureboot_config.png" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/themes/ios7/icons/func_secureboot_config.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/themes/ios7/icons/func_shutdown.png" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/themes/ios7/icons/func_shutdown.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/themes/ios7/icons/logo.png" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/themes/ios7/icons/logo.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/themes/ios7/icons/os_cap.icns" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/themes/ios7/icons/os_cap.icns" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/themes/ios7/icons/os_clover.icns" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/themes/ios7/icons/os_clover.icns" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/themes/ios7/icons/os_cougar.icns" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/themes/ios7/icons/os_cougar.icns" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/themes/ios7/icons/os_legacy.icns" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/themes/ios7/icons/os_legacy.icns" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/themes/ios7/icons/os_leo.icns" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/themes/ios7/icons/os_leo.icns" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/themes/ios7/icons/os_linux.icns" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/themes/ios7/icons/os_linux.icns" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/themes/ios7/icons/os_lion.icns" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/themes/ios7/icons/os_lion.icns" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/themes/ios7/icons/os_mac.icns" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/themes/ios7/icons/os_mac.icns" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/themes/ios7/icons/os_mav.icns" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/themes/ios7/icons/os_mav.icns" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/themes/ios7/icons/os_snow.icns" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/themes/ios7/icons/os_snow.icns" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/themes/ios7/icons/os_tiger.icns" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/themes/ios7/icons/os_tiger.icns" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/themes/ios7/icons/os_ubuntu.icns" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/themes/ios7/icons/os_ubuntu.icns" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/themes/ios7/icons/os_unknown.icns" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/themes/ios7/icons/os_unknown.icns" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/themes/ios7/icons/os_vista.icns" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/themes/ios7/icons/os_vista.icns" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/themes/ios7/icons/os_win.icns" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/themes/ios7/icons/os_win.icns" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/themes/ios7/icons/os_yos.icns" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/themes/ios7/icons/os_yos.icns" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/themes/ios7/icons/pointer.png" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/themes/ios7/icons/pointer.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/themes/ios7/icons/tool_shell.png" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/themes/ios7/icons/tool_shell.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/themes/ios7/icons/usb.icns" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/themes/ios7/icons/usb.icns" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/themes/ios7/icons/vol_clover.icns" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/themes/ios7/icons/vol_clover.icns" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/themes/ios7/icons/vol_external.icns" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/themes/ios7/icons/vol_external.icns" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/themes/ios7/icons/vol_firewire.icns" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/themes/ios7/icons/vol_firewire.icns" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/themes/ios7/icons/vol_internal.icns" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/themes/ios7/icons/vol_internal.icns" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/themes/ios7/icons/vol_internal_hfs.icns" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/themes/ios7/icons/vol_internal_hfs.icns" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/themes/ios7/icons/vol_internal_ntfs.icns" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/themes/ios7/icons/vol_internal_ntfs.icns" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/themes/ios7/icons/vol_optical.icns" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/themes/ios7/icons/vol_optical.icns" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/themes/ios7/icons/vol_recovery.icns" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/themes/ios7/icons/vol_recovery.icns" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/themes/ios7/logo.png" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/themes/ios7/logo.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/themes/ios7/logo_trans.png" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/themes/ios7/logo_trans.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/themes/ios7/mpr.png" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/themes/ios7/mpr.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/themes/ios7/screenshot.png" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/themes/ios7/screenshot.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/themes/ios7/scrollbar/bar_end.png" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/themes/ios7/scrollbar/bar_end.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/themes/ios7/scrollbar/bar_fill.png" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/themes/ios7/scrollbar/bar_fill.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/themes/ios7/scrollbar/bar_start.png" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/themes/ios7/scrollbar/bar_start.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/themes/ios7/scrollbar/down_button.png" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/themes/ios7/scrollbar/down_button.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/themes/ios7/scrollbar/scroll_end.png" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/themes/ios7/scrollbar/scroll_end.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/themes/ios7/scrollbar/scroll_fill.png" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/themes/ios7/scrollbar/scroll_fill.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/themes/ios7/scrollbar/scroll_start.png" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/themes/ios7/scrollbar/scroll_start.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/themes/ios7/scrollbar/up_button.png" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/themes/ios7/scrollbar/up_button.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/themes/ios7/selection_big.png" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/themes/ios7/selection_big.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/themes/ios7/selection_small.png" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/themes/ios7/selection_small.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/themes/ios7/theme.plist" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/themes/ios7/theme.plist" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/themes/logo_main.png" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/themes/logo_main.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/themes/logo_metal.png" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/themes/logo_metal.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/themes/pointer-green.png" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/themes/pointer-green.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/themes/pointer-metal.png" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/themes/pointer-metal.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/themes/random/theme.plist" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/themes/random/theme.plist" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/tools/Shell.inf" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/tools/Shell.inf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/tools/Shell32.efi" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/tools/Shell32.efi" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/tools/Shell64.efi" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/tools/Shell64.efi" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/tools/Shell64U.efi" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/tools/Shell64U.efi" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/tools/bdmesg-32.efi" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/tools/bdmesg-32.efi" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Sierra/EFI/CLOVER/tools/bdmesg.efi" afterPath="$PROJECT_DIR$/Sierra - 10.12/CLOVER/tools/bdmesg.efi" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+    </list>
+    <ignored path="SantechX86-Hackintosh.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="SantechX86-Hackintosh" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider editor-type-id="MarkdownFxPreviewEditor">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="960">
+                <caret line="64" column="89" selection-start-line="64" selection-start-column="89" selection-end-line="64" selection-end-column="89" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/README.md" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1920" />
+    <option name="height" value="987" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SantechX86-Hackintosh" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SantechX86-Hackintosh" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SantechX86-Hackintosh" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SantechX86-Hackintosh" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SantechX86-Hackintosh" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="USB" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SantechX86-Hackintosh" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SantechX86-Hackintosh" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SLE" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js-jscs-nodeInterpreter" value="$USER_HOME$/.nvm/versions/node/v6.9.1/bin/node" />
+    <property name="js-jscs-package" value="$USER_HOME$/.nvm/versions/node/v6.9.1/lib/node_modules/jscs" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Sierra" />
+      <recent name="$PROJECT_DIR$/El Capitan - 10.11.6" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="BashConfigurationType" factoryName="Bash">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="INTERPRETER_PATH" value="/bin/bash" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9b7338d6-7dc2-4429-81a3-abca111bd63d" name="Default" comment="" />
+      <created>1477641540418</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1477641540418</updated>
+      <workItem from="1477641543857" duration="1464000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1464000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1920" height="987" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24960506" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="960">
+            <caret line="64" column="89" selection-start-line="64" selection-start-column="89" selection-end-line="64" selection-end-column="89" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
