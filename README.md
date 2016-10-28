@@ -41,19 +41,23 @@ Repo for SantechX86 hackintosh. This repo is not supposed to guide you through i
 	- ADP1 patch
 
 #USB
-- HS01@14100000: left usb3 #2
-- HS02@14200000: right usb3
-- HS09@14900000: left usb3 #1
-- HS10@14a00000: BCM2070 (wifi/BT)
-- HS11@14b00000: BisonCam 
-- HS12@14c00000: EgisTec
-- SS03@15300000: back usb3
+- HS01@14100000: left usb3 #2 port <01 00 00 00>
+- HS02@14200000: right usb3 port <02 00 00 00>
+- HS09@14900000: left usb3 #1 port <09 00 00 00>
+- HS10@14a00000: BCM2070 (wifi/BT) port <0a 00 00 00>
+- HS11@14b00000: BisonCam port <0b 00 00 00>
+- HS12@14c00000: EgisTec port <0c 00 00 00>
+- SS03@15300000: back usb3 port <13 00 00 00>
 
 Those port get actived aumatically using an usb hub
-- HS03
-- SS01
-- SS05
-- SS02
+- HS03 port <03 00 00 00>
+- SS01 port <11 00 00 00>
+- SS05 port <15 00 00 00>
+- SS02 port <12 00 00 00>
+
+--------
+- HS08 port <08 00 00 00>
+
 
 #Info on monitors framebuffers
 - Internal Monitor framebuffer@0
