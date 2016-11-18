@@ -49,13 +49,11 @@ Repo for SantechX86 hackintosh. This repo is not supposed to guide you through i
 - HS12@14c00000: EgisTec port <0c 00 00 00>
 - SS03@15300000: back usb3 port <13 00 00 00>
 
-Those port get actived aumatically using an usb hub
+Those port get activated automatically using an usb hub
 - HS03 port <03 00 00 00>
 - SS01 port <11 00 00 00>
 - SS05 port <15 00 00 00>
 - SS02 port <12 00 00 00>
-
---------
 - HS08 port <08 00 00 00>
 
 

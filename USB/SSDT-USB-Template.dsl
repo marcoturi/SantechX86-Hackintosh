@@ -28,11 +28,6 @@ DefinitionBlock ("SSDT-USB.aml", "SSDT", 1, "sample", "USBFix", 0x00003000)
                         "UsbConnector", 3,
                         "port", Buffer() { 0x03, 0, 0, 0 },
                     },
-                    "HS08", Package() // ??
-                    {
-                        "UsbConnector", 3,
-                        "port", Buffer() { 0x08, 0, 0, 0 },
-                    },
                     "HS09", Package() // left usb3 #1
                     {
                         "UsbConnector", 3,

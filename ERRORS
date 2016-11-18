@@ -1,0 +1,39 @@
+
+NO INFO/NOT IMPORTANT
+28/10/16 23:40:41,285 com.apple.xpc.launchd[1]: (com.apple.airplaydiagnostics.server) Unrecognized MachService property: ResetAtClose
+
+
+28/10/16 23:40:41,000 kernel[0]: configureInterests - nElements <= 0!Failed to addSubscription for group Chip subgroup Bytes Transferred driver 0xf5a921eaf45b3881 - data underrun
+28/10/16 23:40:41,000 kernel[0]: IO80211ControllerMonitor::configureSubscriptions() failed to add subscriptionIO80211Controller::start _controller is 0xf5a921eaf45b3881, provider is 0xf5a921e975080b81
+
+28/10/16 23:40:41,000 kernel[0]: init: error getting PHY_MODE;  using MODE_UNKNOWN
+
+28/10/16 23:40:41,371 watchdogd[59]:  [watchdog_daemon] @(      wd_daemon_init) - could not open connection with the kernel watchdog
+
+28/10/16 23:40:41,286 com.apple.xpc.launchd[1]: (com.apple.autofsd) This service is defined to be constantly running and is inherently inefficient.
+
+28/10/16 23:40:41,288 com.apple.xpc.launchd[1]: (com.apple.colorsyncd) Unknown key for string: RunLoopType
+
+28/10/16 23:40:41,000 kernel[0]: fInterfaceSnapshots is missing
+
+28/10/16 23:40:41,000 kernel[0]: IOGraphics flags 0x43
+28/10/16 23:40:41,000 kernel[0]: AppleLPC::start - RCBA not enabled
+28/10/16 23:40:41,000 kernel[0]: Previous shutdown cause: 5
+
+28/10/16 23:40:41,837 UserEventAgent[41]: Failed to copy info dictionary for bundle /System/Library/UserEventPlugins/alfUIplugin.plugin
+28/10/16 23:40:41,000 kernel[0]: Architecture couldn't be recognized! PMC_BOOT_0 = <ptr>, PMC_BOOT_42 = 0x00000011
+
+28/10/16 23:40:41,000 kernel[0]: Sound assertion in AppleHDAController at line 1427
+
+
+28/10/16 23:40:42,000 kernel[0]: AirPort: Link Down on en1. Reason 8 (Disassociated because station leaving).
+28/10/16 23:40:42,000 kernel[0]: Got incomplete channel sequence length 0, should be 16
+28/10/16 23:40:42,000 kernel[0]: Got incomplete channel sequence length 0, should be 16
+
+28/10/16 23:40:42,947 AirPlayXPCHelper[99]: 2016-10-28 11:40:42.946439 PM [WiFiManagerCore] ### Bind to fallback "awdl0" failed: -3900/0xFFFFF0C4 kA11ParamErr
+
+
+28/10/16 23:40:43,000 kernel[0]: [IGPU] Failed to initialize graphics firmware.  Falling back to host-side scheduling
+28/10/16 23:40:43,000 kernel[0]: [IGPU] Scheduler interface revision = 1: Default EL Scheduler
+28/10/16 23:40:43,000 kernel[0]: [IGPU] *****************************************************************************
+28/10/16 23:40:43,000 kernel[0]: [IGPU] Graphics accelerator is using scheduler interface revision 1: Default EL Scheduler
